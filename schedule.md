@@ -6,9 +6,9 @@ permalink: /schedule/
 
 # Schedule
 
-<table class="schedule">
-  <thead>
-    <tr class="top"><th>Date</th><th>What's Going On?</th></tr>
+<table class="table">
+  <thead class="table-primary">  <!-- or table-secondary, table-dark, etc. -->
+    <tr><th>Date</th><th>What's Going On?</th></tr>
   </thead>
   <tbody>
     <tr class="lecture"><td>9/23</td><td>L1 Why are you here</td></tr>
