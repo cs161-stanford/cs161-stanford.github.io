@@ -1,18 +1,62 @@
-<div class="topbar">
-  <a href="#">Canvas</a>
-  <a href="#">Ed</a>
-  <a href="#">Gradescope</a>
-</div>
-<nav class="sidebar">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/schedule/' | relative_url }}">Schedule</a>
-  <a href="{{ '/lectures/' | relative_url }}">Lectures</a>
-  <a href="{{ '/sections/' | relative_url }}">Sections</a>
-  <a href="{{ '/homework/' | relative_url }}">Homework</a>
-  <a href="{{ '/exams/' | relative_url }}">Exams</a>
-  <a href="{{ '/resources/' | relative_url }}">Resources</a>
-  <a href="{{ '/policies/' | relative_url }}">Policies</a>
-  <a href="{{ '/staff/' | relative_url }}">Staff</a>
-  <a href="{{ '/office_hours/' | relative_url }}">Office Hours</a>
-  <a href="{{ '/cs161a/' | relative_url }}">CS161A</a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">CS161</a>
+    <button class="navbar-toggler" type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#topNav"
+            aria-controls="topNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="topNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="#">Canvas</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Ed</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Gradescope</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>
+
+<div class="d-flex">
+  <!-- Sidebar -->
+  <div class="bg-light p-3" style="width: 220px; min-height: 100vh;">
+    <ul class="list-group">
+      <li class="list-group-item"><a class="text-decoration-none" href="/">Home</a></li>
+<li class="list-group-item">
+      <a class="text-decoration-none" href="/lectures/">Lectures</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/sections/">Sections</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/homework/">Homework</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/exams/">Exams</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/resources/">Resources</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/policies/">Policies</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/staff/">Staff</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/office_hours/">Office Hours</a>
+    </li>
+    <li class="list-group-item">
+      <a class="text-decoration-none" href="/cs161a/">CS161A</a>
+    </li>
+    </ul>
+  </div>
+
+  <!-- Main content -->
+  <div class="flex-grow-1 p-4">
+    {{ content }}
+  </div>
+</div>
