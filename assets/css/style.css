@@ -4,10 +4,10 @@
 :root {
   --bs-primary: #8B0000;              /* maroon */
   --bs-primary-rgb: 139, 0, 0;
-  --bs-link-color: #8B0000;           /* optional: links match primary */
+  --bs-link-color: #8B0000;           /* links match primary */
   --bs-link-hover-color: #6e0000;
   /* Page background + text */
-  --bs-body-bg: #f2f0e5;          /* warm off-white */
+  --bs-body-bg: #ffede7;          /* pinkish */
   --bs-body-color: #2a2725;
 
   /* What bg-body-tertiary resolves to (your sidebar color) */
