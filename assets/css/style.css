@@ -93,3 +93,7 @@ body {
   text-align: left;
 }
 
+.schedule tr.hw      { background-color: #fff9c4; } /* gentle yellow */
+.schedule tr.lecture { background-color: #e1f5fe; } /* light blue */
+.schedule tr.exam    { background-color: #ffe0b2; } /* soft orange */
+.schedule tr.break   { background-color: #eeeeee; } /* light gray  */
