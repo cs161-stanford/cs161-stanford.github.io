@@ -1,12 +1,37 @@
 /* /css/style.css */
+
+/* Make Bootstrap's "primary" maroon (Bootstrap 5.3+) */
 :root {
-  --accent-color: #8B0000;
-  --background-color: #faf3e0;
-  --text-color: #333;
-  --sidebar-bg: #f5f0e6;
-  --sidebar-text: #333;
-  --panel-bg: #fff;
-  --panel-border: #ddd;
+  --bs-primary: #8B0000;              /* maroon */
+  --bs-primary-rgb: 139, 0, 0;
+  --bs-link-color: #8B0000;           /* optional: links match primary */
+  --bs-link-hover-color: #6e0000;
+}
+
+/* Buttons use component vars, so set those too */
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #8B0000;
+  --bs-btn-border-color: #8B0000;
+  --bs-btn-hover-bg: #6e0000;
+  --bs-btn-hover-border-color: #650000;
+  --bs-btn-active-bg: #5b0000;
+  --bs-btn-active-border-color: #520000;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #8B0000;
+  --bs-btn-border-color: #8B0000;
+  --bs-btn-hover-bg: #8B0000;
+  --bs-btn-hover-border-color: #8B0000;
+  --bs-btn-hover-color: #fff;
+}
+
+/* Navbars that use bg-primary will pick up the new color automatically.
+   If you want the brand/link color too: */
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+  color: rgba(255,255,255,.9);
 }
 
 * {
@@ -19,30 +44,6 @@ body {
   font-family: Arial, sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
-}
-
-.topbar {
-  background-color: var(--accent-color);
-  color: white;
-  padding: 0.75rem 1rem;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  align-items: center;
-  z-index: 1000;
-}
-
-.topbar a {
-  color: white;
-  margin-right: 1.5rem;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.topbar a:hover {
-  opacity: 0.8;
 }
 
 .sidebar {
@@ -82,24 +83,3 @@ body {
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);  /* subtle drop shadow */
   padding: 1rem;
 }
-
-
-.schedule {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 1rem;
-}
-
-.schedule th,
-.schedule td {
-  border: 1px solid var(--panel-border);
-  padding: 0.5rem;
-  text-align: left;
-}
-
-table.schedule tr.hw    td { background-color: #fff9c4 !important; } /* gentle yellow */
-table.schedule tr.lecture td { background-color: #e1f5fe !important; } /* light blue */
-table.schedule tr.exam   td { background-color: #ffe0b2 !important; } /* soft orange */
-table.schedule tr.break  td { background-color: #eeeeee !important; } /* light gray */
-table.schedule tr.top  td { background-color: #E6E6FA !important; } /* light purple */
-
