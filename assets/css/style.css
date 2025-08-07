@@ -7,11 +7,11 @@
   --bs-link-color: #8B0000;           /* links match primary */
   --bs-link-hover-color: #6e0000;
   /* Page background + text */
-  --bs-body-bg: #fff3e2;          /* pinkish */
+  --bs-body-bg: #fffaf3;          /* pinkish */
   --bs-body-color: #2a2725;
 
   /* What bg-body-tertiary resolves to (your sidebar color) */
-  --bs-tertiary-bg: #fffaf3;      /* gentle panel color */
+  --bs-tertiary-bg: #e0dddc;      /* gentle panel color */
 }
 
 a { color: var(--bs-link-color) !important; }
