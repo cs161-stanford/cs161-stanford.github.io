@@ -24,7 +24,7 @@ title: Home
 <p><b>Do I have to come to class?</b> Lectures will be recorded and videos will be available on Canvas. If you learn better by watching the lecture videos at your own speed and on your own schedule, that's fine.  However, there will be two in-class midterms that you must attend in-person.
 
 
-<p><b>Announcements:</b> Please check <a href="TBD">Ed<\a> for course announcements.
+<p><b>Announcements:</b> Please check <a href="TBD">Ed</a> for course announcements.
 
 <p><b>Get in touch:</b> To get in touch with the teaching team, please email <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> or post on Ed (privately if appropriate).
     </p>
