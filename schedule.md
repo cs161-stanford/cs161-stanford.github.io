@@ -8,25 +8,10 @@ permalink: /schedule/
 
 <table class="schedule">
   <thead>
-    <tr><th>Date</th><th>What's going on?</th></tr>
+    <tr><th>Date</th><th>What's Going On?</th></tr>
   </thead>
   <tbody>
-    <tr><td>9/23</td><td>Lecture 1: Why are you here?</td></tr> 
-    <tr><td>9/25</td><td>Lecture 2: Asymptotics, Worst-Case Analysis, and Merge Sort</td></tr> 
-    <tr><td>9/25</td><td>Lecture 3: ---
-layout: default
-title: Schedule
-permalink: /schedule/
----
-
-# Schedule
-
-<table class="schedule">
-  <thead>
-    <tr><th>Date</th><th>Event</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>9/23</td><td>L1 Why are you here</td></tr>
+    <tr><td>9/23</td><td>L1 Why are you here?</td></tr>
     <tr><td>9/25</td><td>L2 Asymptotics, Worst-Case Analysis, and MergeSort</td></tr>
     <tr><td>9/30</td><td>L3 Solving Recurrences and the Master Theorem</td></tr>
     <tr><td>10/2</td><td>L4 Median and Selection</td></tr>
@@ -53,10 +38,7 @@ permalink: /schedule/
     <tr><td>11/25</td><td>FALL BREAK</td></tr>
     <tr><td>11/27</td><td>FALL BREAK</td></tr>
     <tr><td>12/2</td><td>L16 Max-Flow and the Ford-Fulkerson Algorithm</td></tr>
-    <tr><td>12/4</td><td>L17 What's Next?</td></tr>
+    <tr><td>12/4</td><td>L17 What’s Next?</td></tr>
     <tr><td>12/5</td><td>HW7 Due (L14, L15, L16)</td></tr>
-  </tbody>
-</table>Asymptotics, Worst-Case Analysis, and Merge Sort</td></tr> 
-
   </tbody>
 </table>
