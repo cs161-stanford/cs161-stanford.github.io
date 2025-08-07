@@ -11,10 +11,16 @@
 />
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
+
 <body>
   {% include nav.html %}
-  <main class="content">
-    {{ content }}
-  </main>
+
+  <div class="d-flex">
+    {% include sidebar.html %}
+    <main class="flex-grow-1 p-4">
+      {{ content }}
+    </main>
+  </div>
 </body>
+
 </html>
