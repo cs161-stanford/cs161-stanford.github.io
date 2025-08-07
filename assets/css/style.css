@@ -14,6 +14,10 @@
   --bs-tertiary-bg: #fffaf3;      /* gentle panel color */
 }
 
+a { color: var(--bs-link-color) !important; }
+a:hover { color: var(--bs-link-hover-color) !important; }
+a:visited { color: #5e0040; } /* optional visited color */
+
 /* Buttons use component vars, so set those too */
 .btn-primary {
   --bs-btn-color: #fff;
