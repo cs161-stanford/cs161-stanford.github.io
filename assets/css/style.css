@@ -97,4 +97,5 @@ table.schedule tr.hw    td { background-color: #fff9c4 !important; } /* gentle y
 table.schedule tr.lecture td { background-color: #e1f5fe !important; } /* light blue */
 table.schedule tr.exam   td { background-color: #ffe0b2 !important; } /* soft orange */
 table.schedule tr.break  td { background-color: #eeeeee !important; } /* light gray */
+table.schedule tr.top  td { background-color: #E6E6FA !important; } /* light purple */
 
