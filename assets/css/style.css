@@ -1,0 +1,95 @@
+/* /css/style.css */
+:root {
+  --accent-color: #8B0000;
+  --background-color: #faf3e0;
+  --text-color: #333;
+  --sidebar-bg: #f5f0e6;
+  --sidebar-text: #333;
+  --panel-bg: #fff;
+  --panel-border: #ddd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.topbar {
+  background-color: var(--accent-color);
+  color: white;
+  padding: 0.75rem 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+}
+
+.topbar a {
+  color: white;
+  margin-right: 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topbar a:hover {
+  opacity: 0.8;
+}
+
+.sidebar {
+  position: fixed;
+  top: 56px; /* match .topbar height */
+  left: 0;
+  width: 220px;
+  height: calc(100vh - 56px);
+  background-color: var(--sidebar-bg);
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: var(--sidebar-text);
+  padding: 0.5rem 0;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: var(--accent-color);
+}
+
+.content {
+  margin: 80px 1rem 1rem 240px; /* top/right/bottom/left */
+  padding: 1rem;
+}
+
+.panel {
+  background-color: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+.schedule th,
+.schedule td {
+  border: 1px solid var(--panel-border);
+  padding: 0.5rem;
+  text-align: left;
+}
+
