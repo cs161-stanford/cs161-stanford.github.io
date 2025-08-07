@@ -7,7 +7,7 @@
   --bs-link-color: #8B0000;           /* optional: links match primary */
   --bs-link-hover-color: #6e0000;
   /* Page background + text */
-  --bs-body-bg: #f5f3f1;          /* warm off-white */
+  --bs-body-bg: #f2f0e5;          /* warm off-white */
   --bs-body-color: #2a2725;
 
   /* What bg-body-tertiary resolves to (your sidebar color) */
