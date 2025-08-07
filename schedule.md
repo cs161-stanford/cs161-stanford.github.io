@@ -11,16 +11,16 @@ permalink: /schedule/
     <tr><th>Date</th><th>What's Going On?</th></tr>
   </thead>
   <tbody>
-    <tr><td>9/23</td><td> <a class="btn btn-primary">Lecture</a> L1 Why are you here</td></tr>
-    <tr><td>9/25</td><td> <a class="btn btn-primary">Lecture</a> L2 Asymptotics, Worst-Case Analysis, and MergeSort</td></tr>
+    <tr class="table-secondary"><td>9/23</td><td>L1 Why are you here</td></tr>
+    <tr class="table-info"><td>9/25</td><td>L2 Asymptotics, Worst-Case Analysis, and MergeSort</td></tr>
     <tr><td>9/30</td><td>L3 Solving Recurrences and the Master Theorem</td></tr>
     <tr><td>10/2</td><td>L4 Median and Selection</td></tr>
-    <tr><td>10/6</td><td>HW1 Due (L1,L2)</td></tr>
+    <tr class="table-warning"><td>10/6</td><td>HW1 Due (L1,L2)</td></tr>
     <tr><td>10/7</td><td>L5 Randomized Algorithms and QuickSort</td></tr>
     <tr><td>10/9</td><td>L6 BucketSort and Lower Bounds for Sorting</td></tr>
     <tr><td>10/10</td><td>HW2 Due (L3,L4)</td></tr>
     <tr><td>10/14</td><td>L7 Binary Search Trees and Red-Black Trees</td></tr>
-    <tr><td>10/16</td><td>EXAM 1 (L1-L6)</td></tr>
+    <tr class="table-danger"><td>10/16</td><td>EXAM 1 (L1-L6)</td></tr>
     <tr><td>10/21</td><td>L8 Hashing</td></tr>
     <tr><td>10/23</td><td>L9 Graphs and BFS and DFS</td></tr>
     <tr><td>10/24</td><td>HW3 Due (L5, L6, L7)</td></tr>
