@@ -8,7 +8,7 @@ permalink: /schedule/
 
 <table class="schedule">
   <thead>
-    <tr><th>Date</th><th>Event</th></tr>
+    <tr class="top"><th>Date</th><th>What's Going On?</th></tr>
   </thead>
   <tbody>
     <tr class="lecture"><td>9/23</td><td>L1 Why are you here</td></tr>
