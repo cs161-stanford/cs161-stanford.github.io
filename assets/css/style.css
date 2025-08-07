@@ -78,7 +78,11 @@ body {
   border-radius: 4px;
   padding: 1rem;
   margin-bottom: 1rem;
+  border-radius: 8px;            /* gentle rounding */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);  /* subtle drop shadow */
+  padding: 1rem;
 }
+
 
 .schedule {
   width: 100%;
