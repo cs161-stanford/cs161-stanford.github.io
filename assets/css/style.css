@@ -1,5 +1,5 @@
 /* /css/style.css */
-<!--:root {
+:root {
   --accent-color: #8B0000;
   --background-color: #faf3e0;
   --text-color: #333;
@@ -7,7 +7,7 @@
   --sidebar-text: #333;
   --panel-bg: #fff;
   --panel-border: #ddd;
-}-->
+}
 
 * {
   margin: 0;
