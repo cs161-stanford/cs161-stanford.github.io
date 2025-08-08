@@ -8,9 +8,8 @@ title: Home
 ## Stanford University, Fall 2025
 
 <div class="card mb-4">
-  <div class="card-header">
-	
-  </div>
+  <!--<div class="card-header">
+  </div>-->
   <div class="card-body">
     <h5 class="card-title">Course Overview</h5>
     <p class="card-text">
