@@ -31,15 +31,16 @@ permalink: /policies/
       <button class="btn btn-link text-decoration-none"
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#cardOne"
+              data-bs-target="#collab"
               aria-expanded="false"
-              aria-controls="cardOne">
+              aria-controls="collab">
         Collaboration Policy
       </button>
     </div>
-    <div id="cardOne" class="collapse">
+    <div id="collab" class="collapse">
       <div class="card-body">
-Here is the Collaboration Policy for Homework and Exams. Please check with the course staff if you have questions about what is or is not permitted.
+<p class="card-title">Collaboration Policy for Homework and Exams</p>
+Please check with the course staff if you have questions about what is or is not permitted.
 <ul>
 <li>The HW assignments will be submitted in small groups (up to three). It is fine and good to discuss between groups (please acknowledge your collaborators), but each group must type up their solutions on their own, from scratch.
 	<ul>
@@ -52,6 +53,36 @@ Collaboration outside of this quarter's CS161 class is not allowed.</li>
 <li>
 No collaboration is permitted on exams.      
 </li>
+</ul>
+</div>
+</div>
+</div>
+ 
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#llm"
+              aria-expanded="false"
+              aria-controls="llm">
+        LLM Policy
+      </button>
+    </div>
+    <div id="llm" class="collapse">
+      <div class="card-body">
+<p class="card-title">LLM Policy</p>
+LLMs are a useful tool, but they can also be a crutch.  In this class, we want to encourage you to learn how to better use LLMs as a tool, but we still want to give you incentives not to use them as a crutch. 
+With that in mind, the policy is:
+<ul>
+<li> You are allowed to use LLMs for homework.  Homework questions may even have a recommation for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  
+<ul><li>The reason for these suggestions is because we want you to think about how you are using LLMs in your learning.  But they are only suggestions: Do what you think is best for your learning.</li>
+</ul></li>
+<li> You are <b>not</b> allowed to use LLMs on the exams.  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
+	<ul>
+	<li>The exams are the incentive for you to follow our suggestions (or whatever you think is best for your <i>learning</i> on the homework.</li>
+	</ul></li>
 </ul>
 </div>
 </div>
