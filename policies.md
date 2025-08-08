@@ -29,6 +29,10 @@ permalink: /policies/
 		<li> Final Exam (TBD) (34%)</li>
                 <li> Bonus Points (see Bonus Point Policy below).</li>
 	</ul>
+
+Your score on each assignment will be normalized to become a number (points scored)/(points possible) between 0 and 1, and these numbers will be added together with the above weights to obtain your final numerical grade. The numerical grade will be converted to a letter grade at the end of the course. The final distribution will depend on the class's performance; typically the median is a B+.
+
+After your final numerical grade and letter grade has been computed, the Bonus Point Policy (below) will be enacted, which can boost your final letter grade.
       </div>
     </div>
   </div>
