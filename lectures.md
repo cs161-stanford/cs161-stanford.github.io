@@ -20,6 +20,7 @@ This page contains lecture materials.  Some notes:
 <li> The IPython Notebooks have implementation details that the slides may be missing. They are there in case you want to play around with them or double-check something about implementation, but they are not required. </li>
 </ul>
 
+<br><br>
 <div class="card mb-4">
   <div class="card-header">
     September 23
