@@ -24,14 +24,11 @@ a:visited { color: #5e0040; } /* optional visited color */
 .navbar-dark .nav-link {
   color: rgba(255,255,255,.9);
 }
-/* Make top-bar links white */
-.navbar {
-  --bs-navbar-color: #fff;           /* normal */
-  --bs-navbar-hover-color: #fff;     /* hover */
-  --bs-navbar-active-color: #fff;    /* active */
-  --bs-navbar-brand-color: #fff;     /* brand */
-  --bs-navbar-brand-hover-color: #fff;
-}
+.navbar .nav-link,
+.navbar .navbar-brand { color: #fff !important; }
+.navbar .nav-link:hover,
+.navbar .nav-link:focus { color: #fff !important; }
+
 
 * {
   margin: 0;
