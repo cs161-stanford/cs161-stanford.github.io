@@ -18,30 +18,19 @@ a { color: var(--bs-link-color) !important; }
 a:hover { color: var(--bs-link-hover-color) !important; }
 a:visited { color: #5e0040; } /* optional visited color */
 
-/* Buttons use component vars, so set those too */
-.btn-primary {
-  --bs-btn-color: #fff;
-  --bs-btn-bg: #8B0000;
-  --bs-btn-border-color: #8B0000;
-  --bs-btn-hover-bg: #6e0000;
-  --bs-btn-hover-border-color: #650000;
-  --bs-btn-active-bg: #5b0000;
-  --bs-btn-active-border-color: #520000;
-}
-
-.btn-outline-primary {
-  --bs-btn-color: #8B0000;
-  --bs-btn-border-color: #8B0000;
-  --bs-btn-hover-bg: #8B0000;
-  --bs-btn-hover-border-color: #8B0000;
-  --bs-btn-hover-color: #fff;
-}
-
 /* Navbars that use bg-primary will pick up the new color automatically.
    If you want the brand/link color too: */
 .navbar-dark .navbar-brand,
 .navbar-dark .nav-link {
   color: rgba(255,255,255,.9);
+}
+/* Make top-bar links white */
+.navbar {
+  --bs-navbar-color: #fff;           /* normal */
+  --bs-navbar-hover-color: #fff;     /* hover */
+  --bs-navbar-active-color: #fff;    /* active */
+  --bs-navbar-brand-color: #fff;     /* brand */
+  --bs-navbar-brand-hover-color: #fff;
 }
 
 * {
