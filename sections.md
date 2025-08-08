@@ -7,7 +7,7 @@ permalink: /sections/
 # Sections
 
 <div class="panel">
-<h5 class="card-title">Section Logistics</h5>
+<h5 class="card-title">Section Overview</h5>
 <p class="card-text">
 Sections are optional, but highly recommended.  They are the place to go to get extra practice with the concepts of the week.
 Sections may also be used to fill out more details or background skipped in lecture.
