@@ -7,8 +7,7 @@ permalink: /lectures/
 # Lectures
 
 <div class="panel">
-<h5 class="card-title">{{Overview}}</h5>
-<p class="card-text">
+<h5 class="card-title">Overview</h5>
 This page contains lecture materials.  Some notes:
 <ul>
 <li> <b> Future Lectures: </b> Are still in draft form and may have broken links. </li>
@@ -22,9 +21,10 @@ This page contains lecture materials.  Some notes:
 <li> The reading assignments have mathematical details the slides may be missing. <b>You should do the reading assignments,</b> either before or after class, to make sure you get these missing details. </li>
 <li> The IPython Notebooks have implementation details that the slides may be missing. <b>They are optional resources</b>, there in case you want to play around with them or double-check something about implementation. </li>
 </ul>
-</p>
 </div>
 
+
+<br><br>
 <div class="card mb-4">
   <div class="card-header">
     September 23
