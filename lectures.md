@@ -26,8 +26,6 @@ This page contains lecture materials.  Some notes:
 </p>
 </div>
 
-
-<br><br>
 <div class="card mb-4">
   <div class="card-header">
     September 23
