@@ -11,10 +11,10 @@ permalink: /homework/
 <ul>
 <li> Homework will be handed in via <a href="https://www.gradescope.com/courses/1077282">Gradescope</a></li>
 <ul> <li> You should automatically have access to Gradescope if you are enrolled in the course.  If you have any issues, please email the <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">the staff email list</a>. </li> </ul>
-<li> Adhere to the <a href=/policies/>Collaboration Policies and Honor Code</a>.</li>
-<li> Homework must be <b>typed</b> and submitted as a PDF.  See <a href=/resources/>the Resources page</a> for resources to help you typeset math.</li>
+<li> Adhere to the <a href="/policies/">Collaboration Policies and Honor Code</a>.</li>
+<li> Homework must be <b>typed</b> and submitted as a PDF.  See <a href="/resources/">the Resources page</a> for resources to help you typeset math.</li>
 <li> Your solutions will be graded by a human; respect that human. Make sure that your solutions are organized and use complete sentences. It's not a good idea to turn in your first draft. </li>
-<\ul>
+</ul>
 </div>
 
 <div class="card mb-4">
