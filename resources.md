@@ -274,3 +274,55 @@ Stanford students get a free OverLeaf Pro account.</li>
 </div>
     </div>
   </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#scpd"
+              aria-expanded="false"
+              aria-controls="scpd">
+      CGOE Resources
+        </button>
+    </div>
+    <div id="scpd" class="collapse">
+      <div class="card-body">
+<p class="card-title">For CGOE students:</p>
+
+We will have a dedicated CGOE CA (name TBD).  CGOE students should email them about any CGOE-related concerns or issues.  General questions about class material or homework should still be discussed on Ed. 
+
+<ul>
+<li><b>Sections:</b>
+	<ul>
+	<li> One section will be recorded each week, and you can access the videos on Canvas along with the lecture videos. (See <a href="/sections/">the Sections page</a> for more details on sections).</li>
+	<li> CGOE students are always welcome to attend sections in person as well!</li>
+	</ul></li>
+<li><b>Office Hours:</b>
+	<ul><li> Our CGOE CA will hold online office hours for CGOE students.  Please see the <a href="/office hours/">Office Hours Schedule</a> to find the CGOE office hour time slots and Zoom link.</li>
+	</ul></li>
+</ul>
+</div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#other"
+              aria-expanded="false"
+              aria-controls="other">
+      Other Resources
+        </button>
+    </div>
+    <div id="other" class="collapse">
+      <div class="card-body">
+Need a <a href="/fun/">pick-me-up?</a>
+</div>
+    </div>
+  </div>
+
+
+
