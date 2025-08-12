@@ -39,10 +39,10 @@ This page contains lecture materials.  Some notes:
 	</ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href=/assets/Lectures/Lecture1/Lecture1.pptx>Slides (PPTX)</a></li>
-            <li> <a href=/assets/Lectures/Lecture1/Lecture1-compressed.pdf>Slides (PDF)</a></li>
-            <li><a href=/assets/Lectures/Lecture1/lecture1_karatsuba.ipynb>IPython Notebook: Karatsuba's algorithm</a> [Note: right-click and save-as to download.  (Same with all the .ipynb and .py files on this site).]</li>
-              <li> <a href=/assets/Lectures/Lecture1/multHelpers.py>auxiliary .py file for IPython Notebook</a> </li>
+    	<li> <a href="/assets/Lectures/Lecture1/Lecture1.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture1/Lecture1-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture1/lecture1_karatsuba.ipynb">IPython Notebook: Karatsuba's algorithm</a> [Note: right-click and save-as to download.  (Same with all the .ipynb and .py files on this site).]</li>
+              <li> <a href="/assets/Lectures/Lecture1/multHelpers.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
 <b>Relevant Reading:</b>
 <ul>
