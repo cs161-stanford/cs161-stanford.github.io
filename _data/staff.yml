@@ -1,0 +1,30 @@
+instructor:
+  - name: "Mary Wootters"
+    link: "https://sites.google.com/site/marywootters"
+    photo: "/assets/images/mary.jpg"
+
+coordinator:
+  - name: "Amelie Byun"
+    link: "#"
+    photo: "/assets/images/amelie.jpg"
+
+head_ca:
+  - name: "Anisha Palaparthi"
+    photo: "/assets/images/anisha.jpg"
+
+cas:
+  - { name: "Name 1",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 2",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 3",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 4",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 5",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 6",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 7",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 8",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 9",  photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 10", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 11", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 12", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 13", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 14", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 15", photo: "/assets/images/tmp.jpg" }
