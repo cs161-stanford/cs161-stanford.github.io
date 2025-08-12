@@ -9,10 +9,16 @@ permalink: /staff/
 
 <div class="panel">
   <h4>Instructor</h4>
-  <img src="/assets/images/mary.jpg" alt="Mary Wootters" class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <p><a href="https://sites.google.com/site/marywootters">Mary Wootters</a></p>
-  <p> Favorite Algorithm: Bogosort </p>
+<div class="text-center">
+  <img src="/assets/images/mary.jpg" alt="Mary Wootters" class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
+  <div class="mt-2">
+  <a href="https://sites.google.com/site/marywootters">Mary Wootters</a>
+  <br>
+  Favorite Algorithm: Bogosort
 </div>
+</div>
+
+
 
 <div class="panel">
   <h4>Course Coordinator</h4>
@@ -30,11 +36,28 @@ permalink: /staff/
 
 <div class="panel">
   <h2>Course Assistants</h2>
-  <img src="/assets/images/name1.jpg"  class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <p> <a href="#">NAME</a></p>
-  <p> Favorite Algorithm: </p>
-  
-  <img src="/assets/images/name1.jpg"  class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <p> <a href="#">NAME</a></p>
-  <p> Favorite Algorithm: </p>
+<div class="d-flex flex-column align-items-center">
+
+<div class="text-center">
+  <img src="/assets/images/tmp.png"  class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
+  <div class="mt-2">
+  NAME1 (Sunet ID)
+  <br>
+  Favorite Algorithm: TBD
+</div>
+
+<div class="text-center">
+  <img src="/assets/images/tmp.png"  class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
+  <div class="mt-2">
+  NAME2 (Sunet ID)
+  <br>
+  Favorite Algorithm: TBD
+</div>
+
+
+</div>
+
+
+
+
 </div>
