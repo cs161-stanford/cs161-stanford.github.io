@@ -6,25 +6,26 @@ instructor:
 coordinator:
   - name: "Amelie Byun"
     link: "#"
-    photo: "/assets/images/amelie.jpg"
+    photo: "/assets/images/tmp.png"
 
 head_ca:
   - name: "Anisha Palaparthi"
-    photo: "/assets/images/anisha.jpg"
+    photo: "/assets/images/tmp.png"
 
 cas:
-  - { name: "Name 1",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 2",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 3",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 4",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 5",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 6",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 7",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 8",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 9",  photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 10", photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 11", photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 12", photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 13", photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 14", photo: "/assets/images/tmp.jpg" }
-  - { name: "Name 15", photo: "/assets/images/tmp.jpg" }
+  - { name: "Name 1",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 2",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 3",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 4",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 5",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 6",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 7",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 8",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 9",  photo: "/assets/images/tmp.png" }
+  - { name: "Name 10", photo: "/assets/images/tmp.png" }
+  - { name: "Name 11", photo: "/assets/images/tmp.png" }
+  - { name: "Name 12", photo: "/assets/images/tmp.png" }
+  - { name: "Name 13", photo: "/assets/images/tmp.png" }
+  - { name: "Name 14", photo: "/assets/images/tmp.png" }
+  - { name: "Name 15", photo: "/assets/images/tmp.png" }
+
