@@ -6,7 +6,7 @@ permalink: /staff/
 
 # Staff
 
-<h2>Instructor</h2>
+<h4>Instructor</h4>
 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
   {% for p in site.data.staff.instructor %}
   <div class="col">
@@ -24,7 +24,7 @@ permalink: /staff/
   {% endfor %}
 </div>
 
-<h2>Course Coordinator</h2>
+<h4>Course Coordinator</h4>
 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
   {% for p in site.data.staff.coordinator %}
   <div class="col">
@@ -42,7 +42,7 @@ permalink: /staff/
   {% endfor %}
 </div>
 
-<h2>Head Course Assistant</h2>
+<h4>Head Course Assistant</h4>
 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
   {% for p in site.data.staff.head_ca %}
   <div class="col">
