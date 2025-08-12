@@ -35,7 +35,6 @@ Check out the <a href="/resources/">Resources</a> page for more serious options.
 <p> Youtube videos of Hungarian folk dancers acting out sorting algorithms.  Here's QuickSort:</p>
                  <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/ywWBy6J5gz8" frameborder="0" allowfullscreen></iframe></p>
                  <p> (And there are tons more!)</p>
-        </div>
   </div>
 </div>
 
@@ -44,7 +43,6 @@ Check out the <a href="/resources/">Resources</a> page for more serious options.
     Baby hippos
   </div>
   <div class="card-body">
-        </div>
 <p> So cute!!!</p>
         <p> <img src="assets/images/hippo1.jpg" class="w3-round" width=40%>   <img src="assets/images/hippo2.jpg" class="w3-round" width=40%></p>
   </div>
