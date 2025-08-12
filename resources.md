@@ -58,7 +58,7 @@ The folks on the other end of those resources are way more qualified than the co
               data-bs-target="#text"
               aria-expanded="false"
               aria-controls="text">
-      Mental Health
+      Textbooks
         </button>
     </div>
     <div id="text" class="collapse">
@@ -83,5 +83,70 @@ You might also find the following textbooks to be helpful resources:
 <li>Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani: Algorithms</li>
 </ul>
       </div>
+    </div>
+  </div> 
+
+
+
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#algps"
+              aria-expanded="false"
+              aria-controls="algps">
+      Problem-Solving Guide
+        </button>
+    </div>
+    <div id="algps" class="collapse">
+      <div class="card-body">
+<p>
+Are you having trouble getting started on a homework problem, prepping for an exam, or simply looking to get a better grasp of how to approach algorithm-focused questions?
+</p><p>
+The check our this handy <a href="https://docs.google.com/document/d/1OWeF7qveXJRkMIglVvZMon3TsnCSJKUMbb_xh6nJui8/edit?tab=t.0#heading=h.vskzg7vx5v0w">Algorithms Problem-Solving Guide</a>.</p>
+      </div>
+    </div>
+  </div> 
+
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#concept"
+              aria-expanded="false"
+              aria-controls="concept">
+      Concept Checks from Previous Years
+        </button>
+    </div>
+    <div id="concept" class="collapse">
+      <div class="card-body">
+  <p> Here are some solved concept check problems from previous years that can help you practice your mastery over the material! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them).
+  <ul>
+    <li> <a href="assets/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
+    <li> <a href="assets/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
+    <li> <a href="assets/concept_checks/multiplication.pdf"> Multiplication Algorithms </a> </li>
+    <li> <a href="assets/concept_checks/sorting_algos.pdf"> Sorting Algorithms </a> </li>
+    <li> <a href="assets/concept_checks/select.pdf"> The Select Algorithm </a> </li>
+    <li> <a href="assets/concept_checks/random_variables.pdf"> Randomized Algorithms </a> </li>
+    <li> <a href="assets/concept_checks/sorting_models.pdf"> Models of Sorting </a> </li>
+    <li> <a href="assets/concept_checks/bucketsort_lowerbounds.pdf"> Bucketsort and Lower bounds for Sorting </a> </li>
+    <li> <a href="assets/concept_checks/bst.pdf"> Binary Search Trees </a> </li>
+    <li> <a href="assets/concept_checks/hashing.pdf"> Hashing </a> </li>
+    <li> <a href="assets/concept_checks/bfsdfs.pdf"> BFS/DFS </a> </li>
+    <li> <a href="assets/concept_checks/scc.pdf"> SCCs </a> </li>
+    <li> <a href="assets/concept_checks/dijkstra.pdf"> Dijkstra's Algorithm </a> </li>
+    <li> <a href="assets/concept_checks/dp1.pdf"> Dynamic Programming I </a> </li>
+    <li> <a href="assets/concept_checks/dp2.pdf"> Dynamic Programming II </a> </li>
+    <li> <a href="assets/concept_checks/greedy.pdf"> Greedy Algorithms </a> </li>
+    <li> <a href="assets/concept_checks/mst.pdf"> Minimum Spanning Trees </a> </li>
+    <li> <a href="assets/concept_checks/maxflow.pdf"> Max Flow </a> </li>
+    
+  </ul>      
+
+</div>
     </div>
   </div> 
