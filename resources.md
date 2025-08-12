@@ -124,7 +124,7 @@ The check our this handy <a href="https://docs.google.com/document/d/1OWeF7qveXJ
     </div>
     <div id="concept" class="collapse">
       <div class="card-body">
-  <p> Here are some solved concept check problems from Moses Charikar and Nima Anari's CS161 section, which can help you practice basic concepts! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them). Please direct any questions to the current course staff, <b>not</b> to Professors Charikar and Anari.
+  <p> Here are some solved concept check problems from Moses Charikar and Nima Anari's CS161 section, which can help you practice basic concepts! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them). Please direct any questions to the current course staff, <b>not</b> to Professors Charikar and Anari.</p>
   <ul>
     <li> <a href="assets/Resources/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
     <li> <a href="assets/Resources/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
