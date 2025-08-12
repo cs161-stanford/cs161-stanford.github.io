@@ -299,7 +299,7 @@ We will have a dedicated CGOE CA (name TBD).  CGOE students should email them ab
 	<li> CGOE students are always welcome to attend sections in person as well!</li>
 	</ul></li>
 <li><b>Office Hours:</b>
-	<ul><li> Our CGOE CA will hold online office hours for CGOE students.  Please see the <a href="/office hours/">Office Hours Schedule</a> to find the CGOE office hour time slots and Zoom link.</li>
+	<ul><li> Our CGOE CA will hold online office hours for CGOE students.  Please see the <a href="/office_hours/">Office Hours Schedule</a> to find the CGOE office hour time slots and Zoom link.</li>
 	</ul></li>
 </ul>
 </div>
