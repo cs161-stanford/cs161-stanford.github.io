@@ -1,15 +1,14 @@
 instructor:
-  - name: "Mary Wootters"
+  - name: "Mary Wootters (marykw)"
     link: "https://sites.google.com/site/marywootters"
     photo: "/assets/images/mary.jpg"
 
 coordinator:
-  - name: "Amelie Byun"
-    link: "#"
+  - name: "Amelie Byun (aebyun)"
     photo: "/assets/images/tmp.png"
 
 head_ca:
-  - name: "Anisha Palaparthi"
+  - name: "Anisha Palaparthi (anishapv)"
     photo: "/assets/images/tmp.png"
 
 cas:
