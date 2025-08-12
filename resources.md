@@ -184,16 +184,25 @@ We also recommend these nice guides from Ian Tullis:
       <button class="btn btn-link text-decoration-none"
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#sums"
+              data-bs-target="#latex"
               aria-expanded="false"
-              aria-controls="sums">
-      List of Summation Formulae
+              aria-controls="latex">
+      LaTeX Resources
         </button>
     </div>
-    <div id="sums" class="collapse">
+    <div id="latex" class="collapse">
       <div class="card-body">
-Rusty on summations and series?
-Check out our list of <a href="assets/Resources/summation_formulae.pdf">useful summation formulae.<a>
+  <p> We strongly recommend typesetting solutions to homework sets in LaTeX.  LaTeX is the standard for typesetting CS/math/etc papers, and will likely come in handy outside CS161.</p>
+<ul>
+<li> <b> LaTeX templates: </b> Every homework set will come with a LaTeX template for you to fill in.  You can look at how the problems are typeset to get an idea for how to typeset solutions.</li> 
+<li> <b> Guides to using LaTeX: </b> An introduction to LaTeX can be found <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">here</a>.  Other guides can be found at <a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks</a> and <a href="http://www.cs.nyu.edu/~khot/latex/">NYU.</a></li>
+ <li> <b> Online Environments:</b> If you don't want to install LaTeX, <a href="https://www.sharelatex.com/">ShareLaTeX</a> and <a href="https://www.overleaf.com/">Overleaf</a> are online environments which compile previews of your LaTeX documents as you type, and share your LaTeX with the rest of your HW group.
+Stanford students get a free OverLeaf Pro account.</li>
+<li> <b> LaTeX Editors: </b> There are many LaTeX editors which
+            allow you to use GUI to edit your LaTeX.  <a href="http://lyx.org">LyX</a> is a free one.  </li>
+<li> <b> Finding symbols: </b> <a href="http://detexify.kirelabs.org/classify.html">Detexify</a> lets you draw the symbol that you are looking for and get LaTeX code.
+						A static guide is <a href="https://ctan.org/tex-archive/info/symbols/comprehensive/">here</a>. </li>         
+ </ul>
 </div>
     </div>
   </div>
