@@ -18,7 +18,7 @@ permalink: /staff/
       <div class="mt-2 fw-semibold">
         {% if p.link %}<a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
       </div>
-      <div class="text-muted small">Instructor</div>
+      <div class="text-muted small">Favorite Algorithm: {{p.algorithm}}</div>
     </div>
   </div>
   {% endfor %}
@@ -36,7 +36,7 @@ permalink: /staff/
       <div class="mt-2 fw-semibold">
         {% if p.link %}<a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
       </div>
-      <div class="text-muted small">Course Coordinator</div>
+      <div class="text-muted small">Favorite Algorithm: {{p.algorithm}}</div>
     </div>
   </div>
   {% endfor %}
@@ -52,7 +52,7 @@ permalink: /staff/
            style="width:140px;height:140px;object-fit:cover;"
            alt="{{ p.name }}">
       <div class="mt-2 fw-semibold">{{ p.name }}</div>
-      <div class="text-muted small">Head Course Assistant</div>
+      <div class="text-muted small">Favorite Algorithm: {{p.algorithm}}</div>
     </div>
   </div>
   {% endfor %}
@@ -68,6 +68,7 @@ permalink: /staff/
            style="width:120px;height:120px;object-fit:cover;"
            alt="{{ p.name }}">
       <div class="mt-2">{{ p.name }}</div>
+      <div class="text-muted small">Favorite Algorithm: {{p.algorithm}}</div>
     </div>
   </div>
   {% endfor %}
