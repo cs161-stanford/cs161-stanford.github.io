@@ -21,28 +21,12 @@ permalink: /exams/
 </ul>
 </div>
 
-<div class="card mb-4">
-  <div class="card-header">
-    Exam 1
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">Exam 1</h5>
-    <p class="card-text">
-	<ul>
-	<li> Thursday, 10/16.</li>
-	<li> Location: TBD </li>
-	<li> Practice Exam: [will be posted closer to exam date] </li>
-	</ul>
-</p>
-  </div>
-</div>
 
 <div class="card mb-4">
   <div class="card-header">
     Exam 1
   </div>
   <div class="card-body">
-    <h5 class="card-title">Exam 1</h5>
     <p class="card-text">
 	<ul>
 	<li> Thursday, 10/16, 9am-10:20am</li>
@@ -59,7 +43,6 @@ permalink: /exams/
     Exam 2
   </div>
   <div class="card-body">
-    <h5 class="card-title">Exam 2</h5>
     <p class="card-text">
 	<ul>
 	<li> Thursday, 11/6, 9am-10:20am.</li>
@@ -76,10 +59,9 @@ permalink: /exams/
     Final Exam
   </div>
   <div class="card-body">
-    <h5 class="card-title">Final Exam</h5>
     <p class="card-text">
 	<ul>
-	<li> Thursday, 11/6, 9am-10:20am.</li>
+	<li> Date/Time: TBD</li>
 	<li> Location: TBD </li>
 	<li> Cumulative (Lectures 1-16), with an emphasis on Lecture 12 - Lecture 16</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
