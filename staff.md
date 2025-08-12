@@ -6,60 +6,39 @@ permalink: /staff/
 
 # Staff
 
+{% assign roles = "Instructor|instructor,Course Coordinator|coordinator,Head Course Assistant|head_ca" | split: "," %}
+{% for pair in roles %}
+  {% assign parts = pair | split: "|" %}
+  <h2>{{ parts[0] }}</h2>
+  <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
+    {% for p in site.data.staff[parts[1]] %}
+    <div class="col">
+      <div class="text-center">
+        <img src="{{ p.photo | relative_url }}"
+             class="rounded-circle d-block mx-auto img-fluid"
+             style="width:140px;height:140px;object-fit:cover;"
+             alt="{{ p.name }}">
+        <div class="mt-2 fw-semibold">
+          {% if p.link %}<a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+        </div>
+        <div class="text-muted small">{{ parts[0] }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+{% endfor %}
 
-<div class="panel">
-  <h4>Instructor</h4>
-<div class="text-center">
-  <img src="/assets/images/mary.jpg" alt="Mary Wootters" class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <div class="mt-2">
-  <a href="https://sites.google.com/site/marywootters">Mary Wootters</a>
-  <br>
-  Favorite Algorithm: Bogosort
-</div>
-</div>
-</div>
-
-
-
-<div class="panel">
-  <h4>Course Coordinator</h4>
-  <img src="/assets/images/amelie.jpg" alt="Amelie Byun" class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
-   <p> <a href="#">Amelie Byun</a></p>
-   <p> Favorite Algorithm: </p>
-</div>
-
-<div class="panel">
-  <h4>Head Course Assistant</h4>
-  <img src="/assets/images/anisha.jpg" alt="Anisha Palaparthi" class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <p> <a href="#">Anisha Palaparthi</a></p>
-  <p> Favorite Algorithm: </p>
-</div>
-
-<div class="panel">
-  <h2>Course Assistants</h2>
+<h2>Course Assistants</h2>
 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
-<div class="col">
-
-<div class="text-center">
-  <img src="/assets/images/tmp.png"  class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <div class="mt-2">
-  NAME1 (Sunet ID)
-  <br>
-  Favorite Algorithm: TBD
-</div>
-
-<div class="text-center">
-  <img src="/assets/images/tmp.png"  class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
-  <div class="mt-2">
-  NAME2 (Sunet ID)
-  <br>
-  Favorite Algorithm: TBD
-</div>
-
-</div>
-</div>
-</div>
-
-
-
+  {% for p in site.data.staff.cas %}
+  <div class="col">
+    <div class="text-center">
+      <img src="{{ p.photo | relative_url }}"
+           class="rounded-circle d-block mx-auto img-fluid"
+           style="width:120px;height:120px;object-fit:cover;"
+           alt="{{ p.name }}">
+      <div class="mt-2">{{ p.name }}</div>
+    </div>
+  </div>
+  {% endfor %}
 </div>
