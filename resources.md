@@ -74,7 +74,7 @@ The folks on the other end of those resources are way more qualified than the co
 <ul> 
 <li> Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms, 3rd Edition, MIT Press. </li>
 <li> This book is <a href="https://searchworks.stanford.edu/view/12846639">available online for free</a> through the Stanford library.</li>
-<li> CLRS has more detail than Algorithms Illuminated, and it is a great resource for additional details or extra material.<li>
+<li> CLRS has more detail than Algorithms Illuminated, and it is a great resource for additional details or extra material.</li>
 </ul>
 
 You might also find the following textbooks to be helpful resources:
@@ -124,29 +124,76 @@ The check our this handy <a href="https://docs.google.com/document/d/1OWeF7qveXJ
     </div>
     <div id="concept" class="collapse">
       <div class="card-body">
-  <p> Here are some solved concept check problems from previous years that can help you practice your mastery over the material! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them).
+  <p> Here are some solved concept check problems from Moses Charikar and Nima Anari's CS161 section, which can help you practice basic concepts! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them). Please direct any questions to the current course staff, <b>not</b> to Professors Charikar and Anari.
   <ul>
-    <li> <a href="assets/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
-    <li> <a href="assets/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
-    <li> <a href="assets/concept_checks/multiplication.pdf"> Multiplication Algorithms </a> </li>
-    <li> <a href="assets/concept_checks/sorting_algos.pdf"> Sorting Algorithms </a> </li>
-    <li> <a href="assets/concept_checks/select.pdf"> The Select Algorithm </a> </li>
-    <li> <a href="assets/concept_checks/random_variables.pdf"> Randomized Algorithms </a> </li>
-    <li> <a href="assets/concept_checks/sorting_models.pdf"> Models of Sorting </a> </li>
-    <li> <a href="assets/concept_checks/bucketsort_lowerbounds.pdf"> Bucketsort and Lower bounds for Sorting </a> </li>
-    <li> <a href="assets/concept_checks/bst.pdf"> Binary Search Trees </a> </li>
-    <li> <a href="assets/concept_checks/hashing.pdf"> Hashing </a> </li>
-    <li> <a href="assets/concept_checks/bfsdfs.pdf"> BFS/DFS </a> </li>
-    <li> <a href="assets/concept_checks/scc.pdf"> SCCs </a> </li>
-    <li> <a href="assets/concept_checks/dijkstra.pdf"> Dijkstra's Algorithm </a> </li>
-    <li> <a href="assets/concept_checks/dp1.pdf"> Dynamic Programming I </a> </li>
-    <li> <a href="assets/concept_checks/dp2.pdf"> Dynamic Programming II </a> </li>
-    <li> <a href="assets/concept_checks/greedy.pdf"> Greedy Algorithms </a> </li>
-    <li> <a href="assets/concept_checks/mst.pdf"> Minimum Spanning Trees </a> </li>
-    <li> <a href="assets/concept_checks/maxflow.pdf"> Max Flow </a> </li>
-    
+    <li> <a href="assets/Resources/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
+    <li> <a href="assets/Resources/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
+    <li> <a href="assets/Resources/concept_checks/multiplication.pdf"> Multiplication Algorithms </a> </li>
+    <li> <a href="assets/Resources/concept_checks/sorting_algos.pdf"> Sorting Algorithms </a> </li>
+    <li> <a href="assets/Resources/concept_checks/select.pdf"> The Select Algorithm </a> </li>
+    <li> <a href="assets/Resources/concept_checks/random_variables.pdf"> Randomized Algorithms </a> </li>
+    <li> <a href="assets/Resources/concept_checks/sorting_models.pdf"> Models of Sorting </a> </li>
+    <li> <a href="assets/Resources/concept_checks/bucketsort_lowerbounds.pdf"> Bucketsort and Lower bounds for Sorting </a> </li>
+    <li> <a href="assets/Resources/concept_checks/bst.pdf"> Binary Search Trees </a> </li>
+    <li> <a href="assets/Resources/concept_checks/hashing.pdf"> Hashing </a> </li>
+    <li> <a href="assets/Resources/concept_checks/bfsdfs.pdf"> BFS/DFS </a> </li>
+    <li> <a href="assets/Resources/concept_checks/scc.pdf"> SCCs </a> </li>
+    <li> <a href="assets/Resources/concept_checks/dijkstra.pdf"> Dijkstra's Algorithm </a> </li>
+    <li> <a href="assets/Resources/concept_checks/dp1.pdf"> Dynamic Programming I </a> </li>
+    <li> <a href="assets/Resources/concept_checks/dp2.pdf"> Dynamic Programming II </a> </li>
+    <li> <a href="assets/Resources/concept_checks/greedy.pdf"> Greedy Algorithms </a> </li>
+    <li> <a href="assets/Resources/concept_checks/mst.pdf"> Minimum Spanning Trees </a> </li>
+    <li> <a href="assets/Resources/concept_checks/maxflow.pdf"> Max Flow </a> </li>
   </ul>      
 
 </div>
     </div>
   </div> 
+
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#sums"
+              aria-expanded="false"
+              aria-controls="sums">
+     Resources on Course Pre-requisites. 
+        </button>
+    </div>
+    <div id="sums" class="collapse">
+      <div class="card-body">
+Rusty on summations and series?
+Check out our list of <a href="assets/Resources/summation_formulae.pdf">useful summation formulae.</a>
+<br>
+We also recommend these nice guides from Ian Tullis:
+  <ul>
+    <li> <a href="assets/Resources/logarithms.pdf">Logarithms</a> </li>
+    <li> <a href="assets/Resources/induction.pdf">Induction</a> </li>
+    <li> <a href="assets/Resources/prob.pdf">Indicator Random Variables and Linearity of Expectation</a> </li>
+    <li> <a href="assets/Resources/bsearch.pdf">Binary Search</a> </li>
+    <li> <a href="assets/Resources/geometric.pdf">Geometric and Harmonic Series</a> </li>
+  </ul>
+</div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#sums"
+              aria-expanded="false"
+              aria-controls="sums">
+      List of Summation Formulae
+        </button>
+    </div>
+    <div id="sums" class="collapse">
+      <div class="card-body">
+Rusty on summations and series?
+Check out our list of <a href="assets/Resources/summation_formulae.pdf">useful summation formulae.<a>
+</div>
+    </div>
+  </div>
