@@ -90,7 +90,7 @@ LLMs are a useful tool, but they can also be a crutch.  In this class, we want t
 With that in mind, the policy is:
 <ul>
 <li> You are allowed to use LLMs for homework. <b>However,</b> we want you to be thoughtful about how you use them.  To that end:
-<ul><li>Homework questions may even have a recommendation for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  </li>
+<ul><li>Homework questions may even a recommendation for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  </li>
 <li>These are only suggestions, and you can do what you think is best for your learning.</li>
 </ul></li>
 <li> You are <b>not</b> allowed to use LLMs on the exams.  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
@@ -144,9 +144,8 @@ With that in mind, the policy is:
 	<ul>
 		<li> Please do not miss the exams!  If you know you will have a conflict, please email <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> <b>before the add-drop deadline</b>.  That way we can let you know if we can accommodate your conflict or not and you can drop the class if you need to. </li>
 		<li> If you miss an exam, and have not arranged something with us ahead of time, your options are (a) receive a zero on the exam; or (b) take an incomplete in the class and take an analogous exam/quiz with a section of CS161 later this academic year. <b>We will not have a scheduled alternate-time exam</b>. </li>
-		<li> Note that two of the exams are during class.  This means that if you are enrolled in another class that meets at the same time, you will need to miss your other class on those days.  It is your responsibility to make sure that your other instructor is okay with this <b>before the add-drop deadline</b></li>.
+		<li> Note that two of the exams are during class.  This means that if you are enrolled in another class that meets at the same time, you will need to miss your other class on those days.  <b> It is your responsibility to make sure that your other instructor is okay with this before the add-drop deadline.</b></li>
 	</ul>
-
       </div>
     </div>
   </div>
@@ -183,11 +182,9 @@ Throughout the quarter, there will be opportunities to get "bonus points" (for e
     <div id="bug" class="collapse">
       <div class="card-body">
 <p> We hope that all course materials are bug-free. However, if you find an error in course materials (slides, iPython notebooks, or PSETs), point it out to us! (Post on Ed). The first finder of each error (that affects understanding) will get one bonus point. (See above for how bonus points will be applied).</p>
-
 <p>
 "Errors that affect understanding" include pretty much anything other than little tpyos in wrds -- although we'd be grateful if you point those out too. For example, if there is incorrect arithmetic on a slide, or indexing errors in pseudocode, or a conceptual error (without a disclaimer), or if there's some piece of crucial information that's missing from a problem, those all count as errors that affect understanding. Please point these out to us! You'll help us, your classmates, and yourself (via bonus points). It's a win-win-win situation!
 </p>
-
       </div>
     </div>
   </div>
@@ -200,7 +197,7 @@ Throughout the quarter, there will be opportunities to get "bonus points" (for e
               data-bs-target="#regrade"
               aria-expanded="false"
               aria-controls="regrade">
-        Bug Bounty Policy
+        Regrade Request Policy
       </button>
     </div>
     <div id="regrade" class="collapse">
@@ -208,7 +205,7 @@ Throughout the quarter, there will be opportunities to get "bonus points" (for e
 We all make mistakes, even while grading.  If you think that a grader has made a mistake, you are welcome to submit a regrade request within the window allowed on gradescope.  However, please keep in mind the following guidelines:
 <ul>
 	<li> A valid regrade request is one where a grader may have missed something in your answer.  For example "I was marked wrong, but my answer matches that in the solutions" or "the grader said my algorithm doesn't work on XXX example, but I implemented it and it does work on that example", "the grader missed part of my work on a second page" are all valid regrade requests.  <b>"I disagree with the rubric" or "I feel like I deserve more partial credit" are not a valid regrade requests.</b></li>
-	<li> If you submit a regrade request, we may regrade your entire assignment (whether or not you get points back).   In particular, if you submit a regrade request, you are not guaranteed that your score will weakly increase.
+	<li> If you submit a regrade request, we may regrade your entire assignment (whether or not you get points back).   In particular, if you submit a regrade request, you are not guaranteed that your score will weakly increase.</li>
 </ul>
       </div>
     </div>
