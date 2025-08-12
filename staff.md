@@ -9,8 +9,8 @@ permalink: /staff/
 
 <div class="panel">
   <h4>Instructor</h4>
-  <img src="/assets/images/mary.jpg" alt="Mary Wootters">
-  <a href="https://sites.google.com/site/marywootters">Mary Wootters</a></p>
+  <img src="/assets/images/mary.jpg" alt="Mary Wootters" class="rounded-circle img-fluid" style="width:10%; height:10%; object-fit:cover;">
+  <a href="https://sites.google.com/site/marywootters">Mary Wootters</a>
 </div>
 
 <div class="panel">
