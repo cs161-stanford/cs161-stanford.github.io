@@ -6,10 +6,82 @@ permalink: /resources/
 
 # Resources
 
-{% assign res = "Accommodations,Mental Health,Textbooks,Algorithmic Problem-Solving Resources,Concept Checks,Summation Formulae,Prerequisite Resources,LaTeX Resources,Homework Resources,SGOE Resources,Other Resources" | split: "," %}
-{% for r in res %}
-<div class="panel resource-panel">
-  <h2>{{ r }}</h2>
-  <!-- Add links/text here -->
-</div>
-{% endfor %}
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#accom"
+              aria-expanded="false"
+              aria-controls="accom">
+      Accommodations
+	</button>
+    </div>
+    <div id="accom" class="collapse">
+      <div class="card-body">
+Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible. For exam accommodations, please notify us by the add-drop deadline, if possible. For homework accommodations, please contact us a few days in advance of the due date if possible. It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
+      </div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#health"
+              aria-expanded="false"
+              aria-controls="health">
+      Mental Health
+        </button>
+    </div>
+    <div id="health" class="collapse">
+      <div class="card-body">
+
+Your mental health is important: In addition to algorithmic know-how, we hope that this course will produce/maintain happy and healthy students. Here are some resources for mental health on campus:
+<ul>
+<li>
+<a href="https://studentaffairs.stanford.edu/mhrs">Mental heath resources from Student Affairs</a>
+</li><li>
+<a href="https://vaden.stanford.edu/medical-services/medical-services-resources/mental-health">Mental health resources from Vaden</a>
+</li></ul>
+The folks on the other end of those resources are way more qualified than the course staff to help with mental health issues. That said, if there's something we can do in CS161 to help out, please let us know (post privately on Ed or email the staff list; note that the staff list is read only by Mary, Amelie, the head CA, and the Student Liaison CA). In particular, if you are feeling overwhelmed, we can work with you to come up with a plan to study/catch up/whatever you need.
+      </div>
+    </div>
+  </div> 
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#text"
+              aria-expanded="false"
+              aria-controls="text">
+      Mental Health
+        </button>
+    </div>
+    <div id="text" class="collapse">
+      <div class="card-body">
+<b>Primary Textbook(s): Algorithms Illuminated</b>
+<ul>
+<li> Tim Roughgarden, Algorithms Illuminated, Volumes I, II, and III.  Soundlikeyourself publishing.  There is also a hardback "Omnibus Edition" containing Volumes I-IV available from the same publisher.</li>
+<li> Even though these are three books, they are small, paperback, and relatively cheap.  (As of August 2025, they about $15 each, or $10 each as an ebook; the hardcover Omnibus edition is about $60).  And they are in the library!</li>
+<li> Additional resources, including video lectures by Tim Roughgarden, can be found <a href="https://www.algorithmsilluminated.org/">here</a>.
+</li></ul>
+
+<b> Supplementary Textbook: CLRS </b>
+<ul> 
+<li> Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms, 3rd Edition, MIT Press. </li>
+<li> This book is <a href="https://searchworks.stanford.edu/view/12846639">available online for free</a> through the Stanford library.</li>
+<li> CLRS has more detail than Algorithms Illuminated, and it is a great resource for additional details or extra material.<li>
+</ul>
+
+You might also find the following textbooks to be helpful resources:
+<ul>
+<li>Jon Kleinberg, Éva Tardos: Algorithm Design</li>
+<li>Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani: Algorithms</li>
+</ul>
+      </div>
+    </div>
+  </div> 
