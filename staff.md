@@ -17,6 +17,7 @@ permalink: /staff/
   Favorite Algorithm: Bogosort
 </div>
 </div>
+</div>
 
 
 
@@ -36,7 +37,8 @@ permalink: /staff/
 
 <div class="panel">
   <h2>Course Assistants</h2>
-<div class="d-flex flex-column align-items-center">
+<div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
+<div class="col">
 
 <div class="text-center">
   <img src="/assets/images/tmp.png"  class="rounded-circle d-block mx-auto img-fluid" style="width:10%; height:10%; object-fit:cover;">
@@ -54,9 +56,9 @@ permalink: /staff/
   Favorite Algorithm: TBD
 </div>
 
-
 </div>
-
+</div>
+</div>
 
 
 
