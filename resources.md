@@ -195,7 +195,7 @@ We also recommend these nice guides from Ian Tullis:
   <p> We strongly recommend typesetting solutions to homework sets in LaTeX.  LaTeX is the standard for typesetting CS/math/etc papers, and will likely come in handy outside CS161.</p>
 <ul>
 <li> <b> LaTeX templates: </b> Every homework set will come with a LaTeX template for you to fill in.  You can look at how the problems are typeset to get an idea for how to typeset solutions.</li> 
-<li> <b> Guides to using LaTeX: </b> An introduction to LaTeX can be found <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">here</a>.  Other guides can be found at <a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks</a> and <a href="http://www.cs.nyu.edu/~khot/latex/">NYU.</a></li>
+<li> <b> Guides to using LaTeX: </b> An introduction to LaTeX can be found <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">here</a>.  Here's another one <a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks</a>.  For more dynamic help, you are welcome to use LLMs for as much LaTeX help as you want.
  <li> <b> Online Environments:</b> If you don't want to install LaTeX, <a href="https://www.sharelatex.com/">ShareLaTeX</a> and <a href="https://www.overleaf.com/">Overleaf</a> are online environments which compile previews of your LaTeX documents as you type, and share your LaTeX with the rest of your HW group.
 Stanford students get a free OverLeaf Pro account.</li>
 <li> <b> LaTeX Editors: </b> There are many LaTeX editors which
@@ -203,6 +203,74 @@ Stanford students get a free OverLeaf Pro account.</li>
 <li> <b> Finding symbols: </b> <a href="http://detexify.kirelabs.org/classify.html">Detexify</a> lets you draw the symbol that you are looking for and get LaTeX code.
 						A static guide is <a href="https://ctan.org/tex-archive/info/symbols/comprehensive/">here</a>. </li>         
  </ul>
+</div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#python"
+              aria-expanded="false"
+              aria-controls="python">
+      Python Resources
+        </button>
+    </div>
+    <div id="python" class="collapse">
+      <div class="card-body">
+  <p> We'll be using a little bit of Python in CS161.  It won't
+                 be too intense, but here are some resources to help you get
+                 familiar with Python if you haven't seen it before.  
+</p>
+                 <ul>
+		    <li> <b> Python 3. </b>  All examples and homework files in this class <b> will be using Python 3 </b>, which differs from Python 2 in a few important ways.  (For example, integer division works differently).  </li>
+                    <li> <b> Documentation: </b> Python documentation is <a href="http://ipython.readthedocs.io/en/stable/">here</a>.</li>
+                    <li> <b> Tutorials: </b> A good tutorial for Python can be found <a href="https://www.programiz.com/python-programming">here</a></li>
+  	                  <li> <b> In-line help: </b> In the prompt in the Jupyter Notebook, if you type "help(x)" it will display a help page for x.</li>
+                      <li><b>Jupyter:</b> 
+			The <a href=assets/Lectures/Lecture2/preLecture2.pdf>pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
+                      href="https://jupyter.readthedocs.io/en/latest/">Jupyter</a>
+                      documentation, which tells you how to install Jupyter
+                      notebooks.  You should install Python 3.</li>
+			<li><b>LLMs:</b> Feel free to use LLMs to help you with Python as much as you like.  </li>
+                 	  <li> <b> Have Python resources that you like? </b> Let us know and we'll add them here! </li> 
+                 </ul>
+</div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#python"
+              aria-expanded="false"
+              aria-controls="python">
+      Python Resources
+        </button>
+    </div>
+    <div id="python" class="collapse">
+      <div class="card-body">
+  <p> We'll be using a little bit of Python in CS161.  It won't
+                 be too intense, but here are some resources to help you get
+                 familiar with Python if you haven't seen it before.  
+</p>
+                 <ul>
+		    <li> <b> Python 3. </b>  All examples and homework files in this class <b> will be using Python 3 </b>, which differs from Python 2 in a few important ways.  (For example, integer division works differently).  </li>
+                    <li> <b> Documentation: </b> Python documentation is <a href="http://ipython.readthedocs.io/en/stable/">here</a>.</li>
+                    <li> <b> Tutorials: </b> A good tutorial for Python can be found <a href="https://www.programiz.com/python-programming">here</a></li>
+  	                  <li> <b> In-line help: </b> In the prompt in the Jupyter Notebook, if you type "help(x)" it will display a help page for x.</li>
+                      <li><b>Jupyter:</b> 
+			The <a href=assets/Lectures/Lecture2/preLecture2.pdf>pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
+                      href="https://jupyter.readthedocs.io/en/latest/">Jupyter</a>
+                      documentation, which tells you how to install Jupyter
+                      notebooks.  You should install Python 3.</li>
+			<li><b>LLMs:</b> Feel free to use LLMs to help you with Python as much as you like.  </li>
+                 	  <li> <b> Have Python resources that you like? </b> Let us know and we'll add them here! </li> 
+                 </ul>
 </div>
     </div>
   </div>
