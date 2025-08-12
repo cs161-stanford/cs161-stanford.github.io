@@ -44,6 +44,8 @@ Check out the <a href="/resources/">Resources</a> page for more serious options.
   </div>
   <div class="card-body">
 <p> So cute!!!</p>
-        <p> <img src="assets/images/hippo1.jpg"  width=40%>   <img src="assets/images/hippo2.jpg" width=40%></p>
+        <p> <img src="{{ '/assets/images/hippo1.jpg' | relative_url }}" alt="Hippo1" class="img-fluid"  width=40%>   
+         <img src="{{ '/assets/images/hippo2.jpg' | relative_url }}" alt="Hippo2" class="img-fluid"  width=40%>   
+</p>
   </div>
 </div>
