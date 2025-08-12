@@ -143,7 +143,8 @@ With that in mind, the policy is:
 	<b>Exams:</b>
 	<ul>
 		<li> Please do not miss the exams!  If you know you will have a conflict, please email <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> <b>before the add-drop deadline</b>.  That way we can let you know if we can accommodate your conflict or not and you can drop the class if you need to. </li>
-		<li> If you miss an exam, and have not arranged something with us ahead of time, your options are (a) receive a zero on the exam; or (b) take an incomplete in the class and take an analogous exam/quiz with a section of CS161 later this academic year. <b>We will not have a scheduled alternate-time exam</b>. </li>
+		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.</li>
+		<li> If you miss an exam, and have not arranged something with us ahead of time, your default options are (a) receive a zero on the exam; or (b) take an incomplete in the class and take an analogous exam/quiz with a section of CS161 later this academic year. <b>We will not have scheduled alternate-time or make-up exams</b>. </li>
 		<li> Note that two of the exams are during class.  This means that if you are enrolled in another class that meets at the same time, you will need to miss your other class on those days.  <b> It is your responsibility to make sure that your other instructor is okay with this before the add-drop deadline.</b></li>
 	</ul>
       </div>

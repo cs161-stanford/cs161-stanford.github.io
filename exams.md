@@ -18,7 +18,6 @@ permalink: /exams/
 <li> There is no limit on font size, but no magnifying glasses are allowed in the exam :) </li> 
 <li> If you need to print out your cheat sheet, make sure you do it well in advance of the exam.  (In particular, don't rely on CardinalPrint to be working at the last minute....)</li>
 </ul></li>
-<li> More information about the exams will be posted closer to the exam dates. 
 </ul>
 </div>
 
