@@ -120,6 +120,100 @@ With that in mind, the policy is:
     </div>
   </div>
 
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#missed"
+              aria-expanded="false"
+              aria-controls="missed">
+        Late Homework and Missed Exams Policy
+      </button>
+    </div>
+    <div id="missed" class="collapse">
+      <div class="card-body">
+	<b>Homework:</b>
+	<ul>
+		<li> You have six late days to distribute as you like among the seven homework assignments, with a <b>maximum of two late days per assignment</b>. Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days.  <b>You are responsible for keeping track of late days</b></li>
+		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). Do not ask for an extension if you still have late days left; this is what late days are for.</li>
+		<li> No credit will be given for homework turned in more than two days after the due date, or for late homework after all late days have been used.</li>
+		<li> If you join the class late, you will receive a zero on any missed homework assignments.  (Except HW0, which you can complete at any time).</li>
+	</ul>
+	<b>Exams:</b>
+	<ul>
+		<li> Please do not miss the exams!  If you know you will have a conflict, please email <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> <b>before the add-drop deadline</b>.  That way we can let you know if we can accommodate your conflict or not and you can drop the class if you need to. </li>
+		<li> If you miss an exam, and have not arranged something with us ahead of time, your options are (a) receive a zero on the exam; or (b) take an incomplete in the class and take an analogous exam/quiz with a section of CS161 later this academic year. <b>We will not have a scheduled alternate-time exam</b>. </li>
+		<li> Note that two of the exams are during class.  This means that if you are enrolled in another class that meets at the same time, you will need to miss your other class on those days.  It is your responsibility to make sure that your other instructor is okay with this <b>before the add-drop deadline</b></li>.
+	</ul>
+
+      </div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#bonus"
+              aria-expanded="false"
+              aria-controls="bonus">
+        Bonus Point Policy
+      </button>
+    </div>
+    <div id="bonus" class="collapse">
+      <div class="card-body">
+Throughout the quarter, there will be opportunities to get "bonus points" (for example, extra problems on homework sets, the Bug Bounty Policy below; we will also award a bonus point for extremely nice solutions to normal homework problems). These points are not officially worth anything. However, at the end of the quarter, if your numerical grade puts you near to a letter-grade cut-off then if you have lots of bonus points (compared to your classmates near to you in the grade distribution) you may be "bumped" above the cut-off. (You cannot be bumped down.) For example, if your numerical grade is 0.814 and the cut-off for an A- is 0.820, then bonus points could promote you from a B+ to an A-.
+      </div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#bug"
+              aria-expanded="false"
+              aria-controls="bug">
+        Bug Bounty Policy
+      </button>
+    </div>
+    <div id="bug" class="collapse">
+      <div class="card-body">
+<p> We hope that all course materials are bug-free. However, if you find an error in course materials (slides, iPython notebooks, or PSETs), point it out to us! (Post on Ed). The first finder of each error (that affects understanding) will get one bonus point. (See above for how bonus points will be applied).</p>
+
+<p>
+"Errors that affect understanding" include pretty much anything other than little tpyos in wrds -- although we'd be grateful if you point those out too. For example, if there is incorrect arithmetic on a slide, or indexing errors in pseudocode, or a conceptual error (without a disclaimer), or if there's some piece of crucial information that's missing from a problem, those all count as errors that affect understanding. Please point these out to us! You'll help us, your classmates, and yourself (via bonus points). It's a win-win-win situation!
+</p>
+
+      </div>
+    </div>
+  </div>
+
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#regrade"
+              aria-expanded="false"
+              aria-controls="regrade">
+        Bug Bounty Policy
+      </button>
+    </div>
+    <div id="regrade" class="collapse">
+      <div class="card-body">
+We all make mistakes, even while grading.  If you think that a grader has made a mistake, you are welcome to submit a regrade request within the window allowed on gradescope.  However, please keep in mind the following guidelines:
+<ul>
+	<li> A valid regrade request is one where a grader may have missed something in your answer.  For example "I was marked wrong, but my answer matches that in the solutions" or "the grader said my algorithm doesn't work on XXX example, but I implemented it and it does work on that example", "the grader missed part of my work on a second page" are all valid regrade requests.  <b>"I disagree with the rubric" or "I feel like I deserve more partial credit" are not a valid regrade requests.</b></li>
+	<li> If you submit a regrade request, we may regrade your entire assignment (whether or not you get points back).   In particular, if you submit a regrade request, you are not guaranteed that your score will weakly increase.
+</ul>
+      </div>
+    </div>
+  </div>
+
 {% assign pols = "Collaboration Policy,LLM Policy,Honor Code,Regrade Policy,Late Homework and Missed Exam Policy,Course Grade Policy,Bonus Point Policy,Bug Bounty Policy" | split: "," %}
 {% for p in pols %}
 <div class="panel policy-panel">
