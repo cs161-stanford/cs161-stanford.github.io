@@ -195,7 +195,7 @@ We also recommend these nice guides from Ian Tullis:
   <p> We strongly recommend typesetting solutions to homework sets in LaTeX.  LaTeX is the standard for typesetting CS/math/etc papers, and will likely come in handy outside CS161.</p>
 <ul>
 <li> <b> LaTeX templates: </b> Every homework set will come with a LaTeX template for you to fill in.  You can look at how the problems are typeset to get an idea for how to typeset solutions.</li> 
-<li> <b> Guides to using LaTeX: </b> An introduction to LaTeX can be found <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">here</a>.  Here's another one <a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks</a>.  For more dynamic help, you are welcome to use LLMs for as much LaTeX help as you want.
+<li> <b> Guides to using LaTeX: </b> An introduction to LaTeX can be found <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">here</a>.  Here's another one <a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks</a>.  For more dynamic help, you are welcome to use LLMs for as much LaTeX help as you want.</li>
  <li> <b> Online Environments:</b> If you don't want to install LaTeX, <a href="https://www.sharelatex.com/">ShareLaTeX</a> and <a href="https://www.overleaf.com/">Overleaf</a> are online environments which compile previews of your LaTeX documents as you type, and share your LaTeX with the rest of your HW group.
 Stanford students get a free OverLeaf Pro account.</li>
 <li> <b> LaTeX Editors: </b> There are many LaTeX editors which
