@@ -5,7 +5,9 @@ title: Home
 
 # Welcome to CS161!
 
-## Stanford University, Fall 2025
+### Stanford University, Fall 2025
+
+##NOTE: Website under construction.  Please come back later :)
 
 <div class="card mb-4">
   <!--<div class="card-header">
