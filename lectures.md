@@ -61,16 +61,16 @@ This page contains lecture materials.  Some notes:
     <p class="card-text">
     <b>Before Class:</b>
  	<ul>
-        <li> <a href=/assets/Lectures/Lecture2/preLecture2.pdf>Pre-lecture exercise</a></li>
-        <li> The pre-lecture exercise references <a href=Lectures/Lecture2/preLecture2.ipynb>this</a> IPython notebook. [NOTE: right-click and save-as (or crtl-click and save-link-as) to download the IPython notebook (same as all .ipynb and all .py files on this site.  Be careful that you don't save it as a text file, or Jupyter won't know what to do with it.] </li>
+        <li> <a href="/assets/Lectures/Lecture2/preLecture2.pdf">Pre-lecture exercise</a></li>
+        <li> The pre-lecture exercise references <a href="/assets/Lectures/Lecture2/preLecture2.ipynb">this</a> IPython notebook. [NOTE: right-click and save-as (or crtl-click and save-link-as) to download the IPython notebook (same as all .ipynb and all .py files on this site.  Be careful that you don't save it as a text file, or Jupyter won't know what to do with it.] </li>
         </ul>
     <b>During Class:</b>
 	<ul>
     	<li> <a href="/assets/Lectures/Lecture2/Lecture2.pptx">Slides (PPTX)</a></li>
             <li> <a href="/assets/Lectures/Lecture2/Lecture2-compressed.pdf">Slides (PDF)</a></li>
-	            <li> <a href=Lectures/Lecture2/CS161Lecture02_handout.pdf>Handout: Proof that InsertionSort is Correct</a> </li>
-            <li><a href=Lectures/Lecture2/lecture2_sorting.ipynb>IPython Notebook: Insertion Sort and Merge Sort</a> </li>
-            <li> <a href=Lectures/Lecture2/tryItABunch.py>auxiliary .py file for IPython Notebook</a> </li>
+	            <li> <a href="/assets/Lectures/Lecture2/CS161Lecture02_handout.pdf">Handout: Proof that InsertionSort is Correct</a> </li>
+            <li><a href="/assets/Lectures/Lecture2/lecture2_sorting.ipynb">IPython Notebook: Insertion Sort and Merge Sort</a> </li>
+            <li> <a href="/assets/Lectures/Lecture2/tryItABunch.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
 <ul>
