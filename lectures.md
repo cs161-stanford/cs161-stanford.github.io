@@ -44,7 +44,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture1/lecture1_karatsuba.ipynb">IPython Notebook: Karatsuba's algorithm</a> [Note: right-click and save-as to download.  (Same with all the .ipynb and .py files on this site).]</li>
               <li> <a href="/assets/Lectures/Lecture1/multHelpers.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
 <ul>
 <li> AI Chapter 1 </li>
 </ul>
@@ -52,4 +52,31 @@ This page contains lecture materials.  Some notes:
   </div>
 </div>
 
+<div class="card mb-4">
+  <div class="card-header">
+    September 25
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 1: Why are you here?</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href=/assets/Lectures/Lecture2/preLecture2.pdf>Pre-lecture exercise</a></li>
+        <li> The pre-lecture exercise references <a href=Lectures/Lecture2/preLecture2.ipynb>this</a> IPython notebook. [NOTE: right-click and save-as (or crtl-click and save-link-as) to download the IPython notebook (same as all .ipynb and all .py files on this site.  Be careful that you don't save it as a text file, or Jupyter won't know what to do with it.] </li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture2/Lecture2.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture2/Lecture2-compressed.pdf">Slides (PDF)</a></li>
+	            <li> <a href=Lectures/Lecture2/CS161Lecture02_handout.pdf>Handout: Proof that InsertionSort is Correct</a> </li>
+            <li><a href=Lectures/Lecture2/lecture2_sorting.ipynb>IPython Notebook: Insertion Sort and Merge Sort</a> </li>
+            <li> <a href=Lectures/Lecture2/tryItABunch.py>auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapters 1 and 2</li>
+</ul>
+</p>
+  </div>
+</div>
 
