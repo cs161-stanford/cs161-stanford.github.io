@@ -57,7 +57,7 @@ This page contains lecture materials.  Some notes:
     September 25
   </div>
   <div class="card-body">
-    <h5 class="card-title">Lecture 1: Why are you here?</h5>
+    <h5 class="card-title">Lecture 2: Asymptotics, Worst-Case Analysis, and MergeSort</h5>
     <p class="card-text">
     <b>Before Class:</b>
  	<ul>
