@@ -143,9 +143,14 @@ With that in mind, the policy is:
 	<b>Exams:</b>
 	<ul>
 		<li> Please do not miss the exams!  If you know you cannot make one of the exams, you should not take this class.</li>
-<li> If you miss an exam, your default options are (a) receive a zero on the exam; or (b) take an incomplete in the class and take an analogous exam/quiz with a section of CS161 later this academic year. <b>We will not have scheduled alternate-time or make-up exams, and will not accommodate forecastable exam conflicts</b>. </li>
-		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.</li>
-		<li> Note that two of the exams are during class.  This means that if you are enrolled in another class that meets at the same time, you will need to miss your other class on those days.  <b> It is your responsibility to make sure that your other instructor is okay with this before the add-drop deadline.</b></li>
+ <li><b>We will not have scheduled alternate-time or make-up exams, and will not accommodate forecastable exam conflicts</b>. In particular:
+<ul>
+<li> If you are taking another class at the same time as this one, it is your responsibility to arrange with your other instructor that you can miss their class for our in-class exams; and that you can reschedule their final exam to take our final exam during the regularly scheduled time.</li>
+<li> We cannot accommodate it if you have pre-scheduled travel at the same time as one of the exams.</li>
+</ul>
+</li>
+<li> If you miss an exam, by default you will receive a zero on it.<li>
+		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.  Please keep in mind that if you email us on exam day or the night before, the course staff will be busy with exam logistics and we may take a day or two to get back to you.</li>
 	</ul>
       </div>
     </div>
