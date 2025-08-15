@@ -7,7 +7,7 @@ permalink: /homework/
 # Homework
 
 <div class="panel">
-<h5 class="card-title">Homework Overview</h5>
+<h5 class="card-title">Homework Logistics and Guidelines</h5>
 <ul>
 <li> Homework can be completed in small groups of up to three people.  You can choose your own groups.  It is okay if you prefer to work alone.</li>
 <li> Homework will be handed in via <a href="https://www.gradescope.com/courses/1077282">Gradescope</a>
@@ -15,12 +15,12 @@ permalink: /homework/
 	<li> If you are working in a group, please use the group submission feature on gradescope.  Each group should submit only once.</li> 
 </ul></li>
 <li> Adhere to the <a href="/policies/">Collaboration Policies and Honor Code</a>.</li>
-<li> Homework must be <b>typed</b> and submitted as a PDF.  See <a href="/resources/">the Resources page</a> for resources to help you typeset math.</li>
+<li> <b>Homework must be typed</b> and submitted as a PDF.  See <a href="/resources/">the Resources page</a> for resources to help you typeset math.</li>
 </ul>
 </div>
 
 <div class="panel">
-<h5 class="card-title">Homework Guidelines and Best Practices</h5>
+<h5 class="card-title">Homework Style and Best Practices</h5>
 <ul>
 <li> One of the big skills you'll be developing in CS161 is how to communicate technical material clearly. To that end, we expect homework sets in CS161 to be clear, and easily human-readable. Think of them like memos you might write to a team of colleagues to explain your awesome new algorithmic ideas for your company/club/side project/etc. </li>
 <li> Your homeworks should be typed and clearly written with complete sentences and well-organized logic, and should definitely not be your first draft.  You will be graded on style, just as you are graded on style when you hand in an essay in a Philosophy or English class.  We may take points off of a technically "correct" solution, if, for example, it contains irrelevant true statements; is not written in complete sentences; does not have a clear logical flow; or if it is otherwise difficult to understand. </li>
