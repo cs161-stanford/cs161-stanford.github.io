@@ -79,14 +79,6 @@ As per the Late Homework policy below, homework will not be accepted more than t
 <b>Exams:</b>
 All exam accommodations must be submitted to the teaching team at least 10 days prior to the scheduled exam. No exceptions.
 </p>
- 
-<p><b>Advice for Students:</b>
-<ul><li>
-Contact the OAE early each quarter to ensure your letter is current.
-</li><li>
-If unclear how an accommodation applies to a specific assignment or exam, please reach out to your disability advisor.
-</li>
-</ul></p>
     </div>
   </div>
       </div>
