@@ -149,7 +149,7 @@ With that in mind, the policy is:
 <li> We cannot accommodate it if you have pre-scheduled travel at the same time as one of the exams.</li>
 </ul>
 </li>
-<li> If you miss an exam, by default you will receive a zero on it.<li>
+<li> If you miss an exam, by default you will receive a zero on it.</li>
 		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.  Please keep in mind that if you email us on exam day or the night before, the course staff will be busy with exam logistics and we may take a day or two to get back to you.</li>
 	</ul>
       </div>
