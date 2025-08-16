@@ -257,7 +257,7 @@ Throughout the quarter, there will be opportunities to get "bonus points" (for e
       <div class="card-body">
 We all make mistakes, even while grading.  If you think that a grader has made a mistake, you are welcome to submit a regrade request within the window allowed on gradescope.  However, please keep in mind the following guidelines:
 <ul>
-	<li> A valid regrade request is one where a grader may have missed something in your answer.  For example "I was marked wrong, but my answer matches that in the solutions" or "the grader said my algorithm doesn't work on XXX example, but I implemented it and it does work on that example", "the grader missed part of my work on a second page" are all valid regrade requests.  <b>"I disagree with the rubric" or "I feel like I deserve more partial credit" are not a valid regrade requests.</b></li>
+	<li> A valid regrade request is one where a grader may have missed something in your answer.  For example "I was marked wrong, but my answer matches that in the solutions" or "the grader said my algorithm doesn't work on XXX example, but I implemented it and it does work on that example", or "the grader missed part of my work on a second page" are all valid regrade requests.  <b>"I disagree with the rubric" or "I feel like I deserve more partial credit" are not a valid regrade requests.</b></li>
 	<li> If you submit a regrade request, we may regrade your entire assignment (whether or not you get points back).   In particular, if you submit a regrade request, you are not guaranteed that your score will weakly increase.</li>
 </ul>
       </div>
