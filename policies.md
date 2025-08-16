@@ -175,7 +175,7 @@ With that in mind, the policy is:
               data-bs-target="#missed"
               aria-expanded="false"
               aria-controls="missed">
-        Late Homework and Missed Exams Policy
+        Late Homework and Exam Conflicts / Missed Exams Policy
       </button>
     </div>
     <div id="missed" class="collapse">
