@@ -108,24 +108,24 @@ The check our this handy <a href="https://docs.google.com/document/d/1OWeF7qveXJ
       <div class="card-body">
   <p> Here are some solved concept check problems from Moses Charikar and Nima Anari's CS161 section, which can help you practice basic concepts! (Note: these are solved, so we recommend printing them out and putting another piece of paper over the answers or something while you think about them). Please direct any questions to the current course staff, <b>not</b> to Professors Charikar and Anari.</p>
   <ul>
-    <li> <a href="assets/Resources/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
-    <li> <a href="assets/Resources/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
-    <li> <a href="assets/Resources/concept_checks/multiplication.pdf"> Multiplication Algorithms </a> </li>
-    <li> <a href="assets/Resources/concept_checks/sorting_algos.pdf"> Sorting Algorithms </a> </li>
-    <li> <a href="assets/Resources/concept_checks/select.pdf"> The Select Algorithm </a> </li>
-    <li> <a href="assets/Resources/concept_checks/random_variables.pdf"> Randomized Algorithms </a> </li>
-    <li> <a href="assets/Resources/concept_checks/sorting_models.pdf"> Models of Sorting </a> </li>
-    <li> <a href="assets/Resources/concept_checks/bucketsort_lowerbounds.pdf"> Bucketsort and Lower bounds for Sorting </a> </li>
-    <li> <a href="assets/Resources/concept_checks/bst.pdf"> Binary Search Trees </a> </li>
-    <li> <a href="assets/Resources/concept_checks/hashing.pdf"> Hashing </a> </li>
-    <li> <a href="assets/Resources/concept_checks/bfsdfs.pdf"> BFS/DFS </a> </li>
-    <li> <a href="assets/Resources/concept_checks/scc.pdf"> SCCs </a> </li>
-    <li> <a href="assets/Resources/concept_checks/dijkstra.pdf"> Dijkstra's Algorithm </a> </li>
-    <li> <a href="assets/Resources/concept_checks/dp1.pdf"> Dynamic Programming I </a> </li>
-    <li> <a href="assets/Resources/concept_checks/dp2.pdf"> Dynamic Programming II </a> </li>
-    <li> <a href="assets/Resources/concept_checks/greedy.pdf"> Greedy Algorithms </a> </li>
-    <li> <a href="assets/Resources/concept_checks/mst.pdf"> Minimum Spanning Trees </a> </li>
-    <li> <a href="assets/Resources/concept_checks/maxflow.pdf"> Max Flow </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/asymptotic_notation.pdf"> Asymptotic Notation </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/recurrence_relations.pdf"> Recurrence Relations </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/multiplication.pdf"> Multiplication Algorithms </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/sorting_algos.pdf"> Sorting Algorithms </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/select.pdf"> The Select Algorithm </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/random_variables.pdf"> Randomized Algorithms </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/sorting_models.pdf"> Models of Sorting </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/bucketsort_lowerbounds.pdf"> Bucketsort and Lower bounds for Sorting </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/bst.pdf"> Binary Search Trees </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/hashing.pdf"> Hashing </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/bfsdfs.pdf"> BFS/DFS </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/scc.pdf"> SCCs </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/dijkstra.pdf"> Dijkstra's Algorithm </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/dp1.pdf"> Dynamic Programming I </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/dp2.pdf"> Dynamic Programming II </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/greedy.pdf"> Greedy Algorithms </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/mst.pdf"> Minimum Spanning Trees </a> </li>
+    <li> <a href="/assets/Resources/concept_checks/maxflow.pdf"> Max Flow </a> </li>
   </ul>      
 
 </div>
@@ -147,15 +147,15 @@ The check our this handy <a href="https://docs.google.com/document/d/1OWeF7qveXJ
     <div id="sums" class="collapse">
       <div class="card-body">
 Rusty on summations and series?
-Check out our list of <a href="assets/Resources/summation_formulae.pdf">useful summation formulae.</a>
+Check out our list of <a href="/assets/Resources/summation_formulae.pdf">useful summation formulae.</a>
 <br>
 We also recommend these nice guides from Ian Tullis:
   <ul>
-    <li> <a href="assets/Resources/logarithms.pdf">Logarithms</a> </li>
-    <li> <a href="assets/Resources/induction.pdf">Induction</a> </li>
-    <li> <a href="assets/Resources/prob.pdf">Indicator Random Variables and Linearity of Expectation</a> </li>
-    <li> <a href="assets/Resources/bsearch.pdf">Binary Search</a> </li>
-    <li> <a href="assets/Resources/geometric.pdf">Geometric and Harmonic Series</a> </li>
+    <li> <a href="/assets/Resources/logarithms.pdf">Logarithms</a> </li>
+    <li> <a href="/assets/Resources/induction.pdf">Induction</a> </li>
+    <li> <a href="/assets/Resources/prob.pdf">Indicator Random Variables and Linearity of Expectation</a> </li>
+    <li> <a href="/assets/Resources/bsearch.pdf">Binary Search</a> </li>
+    <li> <a href="/assets/Resources/geometric.pdf">Geometric and Harmonic Series</a> </li>
   </ul>
 </div>
     </div>
@@ -213,7 +213,7 @@ Stanford students get a free OverLeaf Pro account.</li>
                     <li> <b> Tutorials: </b> A good tutorial for Python can be found <a href="https://www.programiz.com/python-programming">here</a></li>
   	                  <li> <b> In-line help: </b> In the prompt in the Jupyter Notebook, if you type "help(x)" it will display a help page for x.</li>
                       <li><b>Jupyter:</b> 
-			The <a href=assets/Lectures/Lecture2/preLecture2.pdf>pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
+			The <a href=/assets/Lectures/Lecture2/preLecture2.pdf>pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
                       href="https://jupyter.readthedocs.io/en/latest/">Jupyter</a>
                       documentation, which tells you how to install Jupyter
                       notebooks.  You should install Python 3.</li>
