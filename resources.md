@@ -301,7 +301,9 @@ We will have a dedicated CGOE CA (name TBD).  CGOE students should email them ab
     </div>
     <div id="other" class="collapse">
       <div class="card-body">
-Need a <a href="/fun/">pick-me-up?</a>
+<ul><li>Need a <a href="/fun/">pick-me-up?</a>
+</li><li>LLMs are a valuable resource, and (as per our <a href="/policies/">LLM Policy</a>), we encourage you to use them wisely to help your learning.  Here's a home-brewed one that we've made especially for CS161: <a href="https://web.stanford.edu/~marykw/largelanguagemary.html">LargeLanguageMary</a>.
+</li></ul>
 </div>
     </div>
   </div>
