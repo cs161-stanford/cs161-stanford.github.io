@@ -136,7 +136,7 @@ LLMs are a useful tool, but they can also be a crutch.  In this class, we want t
 With that in mind, the policy is:
 <ul>
 <li> You are allowed to use LLMs for homework. <b>However,</b> we want you to be thoughtful about how you use them.  To that end:
-<ul><li>Homework questions may even a recommendation for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  </li>
+<ul><li>Homework questions may include recommendations for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  </li>
 <li>These are only suggestions, and you can do what you think is best for your learning.</li>
 </ul></li>
 <li> You are <b>not</b> allowed to use LLMs on the exams.  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
