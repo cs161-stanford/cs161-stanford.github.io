@@ -146,7 +146,7 @@ With that in mind, the policy is:
  <li><b>We will not have scheduled alternate-time or make-up exams, and will not accommodate forecastable exam conflicts</b>. In particular:
 <ul>
 <li> If you are taking another class at the same time as this one, it is your responsibility to arrange with your other instructor that you can miss their class for our in-class exams; and that you can reschedule their final exam to take our final exam during the regularly scheduled time.</li>
-<li> We cannot accommodate it if you have pre-scheduled travel at the same time as one of the exams.</li>
+<li> We cannot accommodate pre-scheduled travel at the same time as one of the exams, even if it is for a very good reason.</li>
 </ul>
 </li>
 <li> If you miss an exam, by default you will receive a zero on it.</li>
