@@ -54,9 +54,6 @@ After your final numerical grade and letter grade has been computed, the Bonus P
 Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible (no later than the add-drop deadline). It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
 </p>
 
-<p><b>Some additional information:</b>
-Students requiring accommodations due to a documented disability must work directly with the Office of Accessible Education (OAE). The course team will only accommodate officially approved accommodations as outlined in the letter.
-</p>
 
 <p>
 <b>General Guidelines:</b>
