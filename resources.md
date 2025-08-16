@@ -11,24 +11,6 @@ permalink: /resources/
       <button class="btn btn-link text-decoration-none"
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#accom"
-              aria-expanded="false"
-              aria-controls="accom">
-      Accommodations
-	</button>
-    </div>
-    <div id="accom" class="collapse">
-      <div class="card-body">
-Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible. For exam accommodations, please notify us by the add-drop deadline, if possible. For homework accommodations, please contact us a few days in advance of the due date if possible. It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
-      </div>
-    </div>
-  </div>
-
-<div class="card mb-3">
-    <div class="card-header">
-      <button class="btn btn-link text-decoration-none"
-              type="button"
-              data-bs-toggle="collapse"
               data-bs-target="#health"
               aria-expanded="false"
               aria-controls="health">
