@@ -37,6 +37,63 @@ After your final numerical grade and letter grade has been computed, the Bonus P
     </div>
   </div>
 
+<div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#accom"
+              aria-expanded="false"
+              aria-controls="accom">
+      OAE Accommodations
+	</button>
+    </div>
+    <div id="accom" class="collapse">
+      <div class="card-body">
+      </div>
+<p>
+Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible (no later than the add-drop deadline). It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
+</p>
+
+<p><b>Some additional information:</b>
+Students requiring accommodations due to a documented disability must work directly with the Office of Accessible Education (OAE). The course team will only accommodate officially approved accommodations as outlined in the letter.
+</p>
+
+<p>
+<b>General Guidelines:</b>
+<ul><li>
+Contact the OAE to obtain an official accommodation letter if you have a health condition that may impact your coursework.
+</li><li>
+Only accommodations explicitly stated in your current OAE letter will be accommodated.
+If you need additional or revised accommodations, you must request an updated letter from the OAE. 
+</li><li>
+Accommodations cannot be applied retroactively.
+</li><li>
+Accommodations apply only to the approved situations described in your letter and cannot be used to justify unrelated extensions or exceptions.
+</li><li>
+If you have any questions or concerns regarding your accommodations, please contact your disability advisor.
+</li></ul>
+</p><p> 
+<b>Deadlines and Assignments:</b>
+<ul><li>Students with OAE letters must request extension for each assignment (you cannot auto-apply your OAE extension days).  Please use your late days first before requesting an extension.
+</li><li>
+As per the Late Homework policy below, homework will not be accepted more than two days late.  No exceptions.
+</li></ul>
+</p><p> 
+<b>Exams:</b>
+All exam accommodations must be submitted to the teaching team at least 10 days prior to the scheduled exam. No exceptions.
+</p>
+ 
+<p><b>Advice for Students:</b>
+<ul><li>
+Contact the OAE early each quarter to ensure your letter is current.
+</li><li>
+If unclear how an accommodation applies to a specific assignment or exam, please reach out to your disability advisor.
+</li>
+</ul></p>
+    </div>
+  </div>
+
 
  <div class="card mb-3">
     <div class="card-header">
