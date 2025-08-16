@@ -50,7 +50,6 @@ After your final numerical grade and letter grade has been computed, the Bonus P
     </div>
     <div id="accom" class="collapse">
       <div class="card-body">
-      </div>
 <p>
 Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible (no later than the add-drop deadline). It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
 </p>
@@ -93,6 +92,7 @@ If unclear how an accommodation applies to a specific assignment or exam, please
 </ul></p>
     </div>
   </div>
+      </div>
 
 
  <div class="card mb-3">
