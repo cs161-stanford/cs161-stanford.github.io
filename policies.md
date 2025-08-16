@@ -130,9 +130,10 @@ Please check with the course staff if you have questions about what collaboratio
     <div id="llm" class="collapse">
       <div class="card-body">
 LLMs are a useful tool, but they can also be a crutch.  In this class, we want to encourage you to learn how to effectively use LLMs as a tool, while still giving you incentives to learn the material yourself.  
+<br>
 <ul><li> <i> <b>Aside:</b> Why should you learn the material yourself if LLMs can do lots of it? </i> LLMs currently can't do as well at algorithm design and analysis as skilled humans at the highest level, and Mary would argue that they won't in the near future (keeping in mind that humans get more powerful as our tools get more powerful).  If you want to eventually be an algorithmically-high-skilled human, you'll need to learn the basics so that you can surpass LLMs (possibly by using LLMs).  Also, in the short term, LLMs still make mistakes, and if you hand in buggy AI slop you'll get a bad grade.
-</li><li>
 </li></ul>
+<br>
 With that in mind, the policy is:
 <ul>
 <li> You are allowed to use LLMs for homework. <b>However,</b> we want you to be thoughtful about how you use them.  To that end:
