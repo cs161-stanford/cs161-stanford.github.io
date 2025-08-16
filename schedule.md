@@ -13,8 +13,8 @@ permalink: /schedule/
   <tbody>
     <tr ><td>9/23</td><td>L1 Why are you here</td></tr>
     <tr ><td>9/25</td><td>L2 Asymptotics, Worst-Case Analysis, and MergeSort</td></tr>
+    <tr class="table-info"><td>9/30</td><td>HW0 Due (graded for completion)</td></tr>
     <tr ><td>9/30</td><td>L3 Solving Recurrences and the Master Theorem</td></tr>
-    <tr class="table-info"><td>10/2</td><td>HW0 Due (graded for completion)</td></tr>
     <tr ><td>10/2</td><td>L4 Median and Selection</td></tr>
     <tr class="table-info"><td>10/3</td><td>HW1 Due (L1,L2)</td></tr>
     <tr ><td>10/7</td><td>L5 Randomized Algorithms and QuickSort</td></tr>
