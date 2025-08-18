@@ -61,21 +61,21 @@ Students who may need academic accommodations based on the impact of a disabilit
 Contact the OAE to obtain an official accommodation letter if you have a health condition that may impact your coursework.
 </li><li>
 Only accommodations explicitly stated in your current OAE letter will be accommodated.
-If you need additional or revised accommodations, you must request an updated letter from the OAE.  This is true even if you would like to justify related accommodations.
+If you need additional or revised accommodations, you must request an updated letter from the OAE. 
 </li><li>
-Accommodations cannot be applied retroactively.  In particular, if your OAE letter says that you must request an extension before the original due date, then you must request an extension before the original due date.
+Accommodations cannot be applied retroactively, unless your OAE letter specifies otherwise.
 </li><li>
 If you have any questions or concerns regarding your accommodations, please contact your disability advisor.
 </li></ul>
 </p><p> 
 <b>Deadlines and Assignments:</b>
-<ul><li>Students with OAE letters must request extension for each assignment (you cannot auto-apply your OAE extension days).  Please use your late days first before requesting an extension.
+<ul><li>Students with OAE letters must request a separate extension for each assignment (you cannot auto-apply your OAE extension days), and must request such extensions <i>before</i> the original due date.  (Unless your OAE letter explicitly specifies otherwise).
 </li><li>
-As per the Late Homework policy below, homework will not be accepted more than three days late.  No exceptions.
+As per the Late Homework policy below, homework will not be accepted more than three days late, even with an OAE letter.  This is so that we can release solutions in a timely fashion.
 </li></ul>
 </p><p> 
 <b>Exams:</b>
-All exam accommodation requests must be submitted to the teaching team at least 10 days prior to the scheduled exam. No exceptions.
+All exam accommodation requests must be submitted to the teaching team <b>at least 10 days prior</b> to the scheduled exam.  This is so we have time to set up the logistics of your accommodations.
 </p>
     </div>
   </div>
