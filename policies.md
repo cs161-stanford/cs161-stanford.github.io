@@ -61,11 +61,9 @@ Students who may need academic accommodations based on the impact of a disabilit
 Contact the OAE to obtain an official accommodation letter if you have a health condition that may impact your coursework.
 </li><li>
 Only accommodations explicitly stated in your current OAE letter will be accommodated.
-If you need additional or revised accommodations, you must request an updated letter from the OAE. 
+If you need additional or revised accommodations, you must request an updated letter from the OAE.  This is true even if you would like to justify related accommodations.
 </li><li>
-Accommodations cannot be applied retroactively.
-</li><li>
-Accommodations apply only to the approved situations described in your letter and cannot be used to justify unrelated extensions or exceptions.
+Accommodations cannot be applied retroactively.  In particular, if your OAE letter says that you must request an extension before the original due date, then you must request an extension before the original due date.
 </li><li>
 If you have any questions or concerns regarding your accommodations, please contact your disability advisor.
 </li></ul>
@@ -73,11 +71,11 @@ If you have any questions or concerns regarding your accommodations, please cont
 <b>Deadlines and Assignments:</b>
 <ul><li>Students with OAE letters must request extension for each assignment (you cannot auto-apply your OAE extension days).  Please use your late days first before requesting an extension.
 </li><li>
-As per the Late Homework policy below, homework will not be accepted more than two days late.  No exceptions.
+As per the Late Homework policy below, homework will not be accepted more than three days late.  No exceptions.
 </li></ul>
 </p><p> 
 <b>Exams:</b>
-All exam accommodations must be submitted to the teaching team at least 10 days prior to the scheduled exam. No exceptions.
+All exam accommodation requests must be submitted to the teaching team at least 10 days prior to the scheduled exam. No exceptions.
 </p>
     </div>
   </div>
@@ -182,9 +180,9 @@ With that in mind, the policy is:
       <div class="card-body">
 	<b>Homework:</b>
 	<ul>
-		<li> You have six late days to distribute as you like among the seven homework assignments, with a <b>maximum of two late days per assignment</b>. Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days.  <b>You are responsible for keeping track of late days</b></li>
-		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). Do not ask for an extension if you still have late days left; this is what late days are for.</li>
-		<li> No credit will be given for homework turned in more than two days after the due date, or for late homework after all late days have been used.</li>
+		<li> You have six late days to distribute as you like among the seven homework assignments, with a <b>maximum of three late days per assignment</b>. Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days.  <b>You are responsible for keeping track of late days.</b></li>
+		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). Do not ask for an extension if you have extenuating circumstances; this is what late days are for.</li>
+		<li> No credit will be given for homework turned in more than three days after the due date, or for late homework after all late days have been used.</li>
 		<li> If you join the class late, you will receive a zero on any missed homework assignments.  (Except HW0, which you can complete at any time).</li>
 	</ul>
 	<b>Exams:</b>
