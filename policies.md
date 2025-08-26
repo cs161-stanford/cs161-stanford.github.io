@@ -126,24 +126,23 @@ Please check with the course staff if you have questions about what collaboratio
     </div>
     <div id="llm" class="collapse">
       <div class="card-body">
-LLMs are a useful tool, but they can also be a crutch.  In this class, we want to encourage you to learn how to effectively use LLMs as a tool, while still giving you incentives to learn the material yourself.  
-<br>
+LLMs are a useful tool, but they can also be a crutch.  In this class, we want to encourage you to effectively use LLMs as a useful learning tool, while still giving you incentives to learn the material yourself at the end of the day.
+<br><br>
 <ul><li> <i> <b>Aside:</b> Why should you learn the material yourself if LLMs can do lots of it? </i> LLMs currently can't do as well at algorithm design and analysis as skilled humans at the highest level, and Mary would argue that they won't in the near future (keeping in mind that humans get more powerful as our tools get more powerful).  If you want to eventually be an algorithmically-high-skilled human, you'll need to learn the basics so that you can surpass LLMs (possibly by using LLMs).  Also, in the short term, LLMs still make mistakes, and if you hand in buggy AI slop you'll get a bad grade.
 </li></ul>
 <br>
 With that in mind, the policy is:
 <ul>
-<li> You are allowed to use LLMs for homework for inspiration / sanity-checking if you want.   </li>
-<li> <b>However,</b> we encourage you to be thoughtful in your use of LLMs, and to use them in a way that supports your learning.  Best practices include:
+<li> It is a violation of the honor code to copy-paste the output of an LLM into your homework, just as it is not allowed to copy another group's write-up.  Everything you hand in should be in your group's own words.</li>
+<li> It is okay to use LLMs to help you brainstorm on the homework.  <b>However,</b> we encourage you to be thoughtful in your use of LLMs, and to use them in a way that supports your learning.  <b>Best practices include:</b>
 <ul><li> Think about the problem on your own (or with your group) first, just like you should think about something first before going to office hours. </li>
 <li> If you are stuck and are going to turn to an LLM, ask it for a <i> hint </i> instead of for the answer.  You can start out asking it for a "minimal hint."  </li>
 <li> Ask the LLM to formulate and solve a <i> related </i> problem, or to formulate an easier "warm-up" problem for you. </li>
 <li> Another interesting way to use an LLM to learn is to ask it for an <i>incorrect</i> answer to the problem, so that you can debug it.  Any TA will tell you that grading an incorrect answer is a great way to learn about the problem! Maybe after that you'll be able to come up with a correct answer on your own.</li>
 <li> (Do you have a way to use LLMs that you think contributes to your learning?  If so, feel free to share it with the course staff or on Ed!) </li>
 </ul></li> 
-<li> It is a violation of the honor code to copy-paste the output of an LLM into your homework, just as it is not allowed to copy another group's write-up.  Everything you hand in should be in your group's own words.
-</ul></li>
-<li> You are <b>not</b> allowed to use LLMs on the exams.  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
+<li>
+<b>LLMs are not allowed on the exams. </b>  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
 	<ul>
 	<li>The exams are the incentive for you to use LLMs in a way that enhances your <i>learning</i> -- perhaps following some of our suggestions above -- on the homework.</li>
 	</ul></li>
