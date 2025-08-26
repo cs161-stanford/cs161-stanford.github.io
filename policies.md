@@ -133,13 +133,13 @@ LLMs are a useful tool, but they can also be a crutch.  In this class, we want t
 <br>
 With that in mind, the policy is:
 <ul>
-<li> You are allowed to use LLMs for homework. <b>However,</b> we want you to be thoughtful about how you use them.  To that end:
-<ul><li>Homework questions may include recommendations for how to use LLMs, for example "try to do this without LLMs," or "use an LLM to generate some ideas and refine them yourself," or "come up with some ideas yourself and use an LLM to refine them."  </li>
-<li>These are only suggestions, and you can do what you think is best for your learning.</li>
+<li> You are allowed to use LLMs for homework for inspiration / sanity-checking if you want. </li>
+<li> <b>However,</b> we encourage you to use LLMs sparingly, and to think about (and struggle with) the problems on your own before asking an LLM, in the same way that we suggest that you think about problems on your own before going to office hours.  In order to learn the material (and do well on the exams), you'll have to do some thinking on your own.  </li>
+<li> It is a violation of the honor code to copy-paste the output of an LLM into your homework, just as it is not allowed to copy another group's write-up.  Everything you hand in should be in your group's own words.
 </ul></li>
 <li> You are <b>not</b> allowed to use LLMs on the exams.  It is a violation of the honor code to use LLMs, or any other resource other than your cheat-sheet, during the exams.
 	<ul>
-	<li>The exams are the incentive for you to follow our suggestions (or whatever you think is best for your <i>learning</i>) on the homework.</li>
+	<li>The exams are the incentive for you to use LLMs in a way that enhances your <i>learning</i>) on the homework.</li>
 	</ul></li>
 </ul>
 </div>
