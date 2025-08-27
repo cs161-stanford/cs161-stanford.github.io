@@ -41,11 +41,11 @@ title: Home
 
 
 <p>
-<b>Announcements:</b> Please check <a href="TBD">Ed</a> for course announcements.
+<b>Announcements:</b> Please check <a href="https://edstem.org/us/courses/81380/discussion">Ed</a> for course announcements.
     </p>
 
 <p>
-<b>Get in touch:</b> To get in touch with the teaching team, please email <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> or post on Ed (privately if appropriate).
+<b>Get in touch:</b> To get in touch with the teaching team, please email <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> or post on Ed (privately if appropriate).
     </p>
   </div>
 </div>
