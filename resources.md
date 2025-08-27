@@ -213,7 +213,7 @@ Stanford students get a free OverLeaf Pro account.</li>
                     <li> <b> Tutorials: </b> A good tutorial for Python can be found <a href="https://www.programiz.com/python-programming">here</a></li>
   	                  <li> <b> In-line help: </b> In the prompt in the Jupyter Notebook, if you type "help(x)" it will display a help page for x.</li>
                       <li><b>Jupyter:</b> 
-			The <a href=/assets/Lectures/Lecture2/preLecture2.pdf>pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
+			The <a href="/assets/Lectures/Lecture2/preLecture2.pdf">pre-class exercise</a> for Lecture 2 gives some info about how to install Jupyter with Python 3.  <b>tl;dr</b>: Here is the <a
                       href="https://jupyter.readthedocs.io/en/latest/">Jupyter</a>
                       documentation, which tells you how to install Jupyter
                       notebooks.  You should install Python 3.</li>
