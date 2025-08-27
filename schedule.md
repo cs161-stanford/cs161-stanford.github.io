@@ -29,7 +29,7 @@ permalink: /schedule/
     <tr ><td>10/30</td><td>L11 Dijkstra and Bellman-Ford</td></tr>
     <tr class="table-info"><td>10/31</td><td>HW4 Due (L8, L9)</td></tr>
     <tr class="table-secondary"><td>11/4</td><td>Democracy Day</td></tr>
-    <tr class="table-warning"><td>11/6</td><td>EXAM 2 (L7-L9, with light coverage of L10, L11)</td></tr>
+    <tr class="table-warning"><td>11/6</td><td>EXAM 2 (L5-L9, with light coverage of L10, L11)</td></tr>
     <tr ><td>11/11</td><td>L12 Dynamic Programming: Bellman-Ford (again) and Floyd-Warshall</td></tr>
     <tr ><td>11/13</td><td>L13 More dynamic programming: LCS, Knapsack, Independent Set</td></tr>
     <tr class="table-info"><td>11/14</td><td>HW5 Due (L10, L11)</td></tr>
@@ -41,6 +41,6 @@ permalink: /schedule/
     <tr ><td>12/2</td><td>L16 Max-Flow and the Ford-Fulkerson Algorithm</td></tr>
     <tr ><td>12/4</td><td>L17 What’s Next?</td></tr>
     <tr class="table-info"><td>12/5</td><td>HW7 Due (L14, L15, L16)</td></tr>
-    <tr class="table-warning"><td>12/10</td><td>Final Exam (Cumulative, with emphasis on L12-L16)</td></tr>
+    <tr class="table-warning"><td>12/10</td><td>Final Exam (Cumulative, with emphasis on L10-L16)</td></tr>
   </tbody>
 </table>
