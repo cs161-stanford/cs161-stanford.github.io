@@ -61,7 +61,7 @@ permalink: /exams/
   <div class="card-body">
     <p class="card-text">
 	<ul>
-	<li> Date/Time: Wednesday, 12/10, 8:30am-11:30am</li>
+	<li> Wednesday, 12/10, 8:30am-11:30am</li>
 	<li> Location: TBD </li>
 	<li> Cumulative (Lectures 1-16), with an emphasis on Lecture 12 - Lecture 16</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
