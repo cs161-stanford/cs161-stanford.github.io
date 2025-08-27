@@ -44,7 +44,7 @@ permalink: /homework/
     <h5 class="card-title">Homework 1</h5>
     <p class="card-text">
 	<ul>
-	<li> Due: 10/6 at 11:59pm</li>
+	<li> Due: 10/3 at 11:59pm</li>
 	<li> <a href="assets/homework/HW1.pdf">Problem Set</a> </li>
 	<li> <a href="assets/homework/HW1.tex">LaTeX Template</a> </li>
 	<!-- <li> <a href="assets/homework/HW1_soln.pdf">Solutions</a> </li>-->
