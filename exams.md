@@ -47,7 +47,7 @@ permalink: /exams/
 	<ul>
 	<li> Thursday, 11/6, 9am-10:20am.</li>
 	<li> Location: TBD </li>
-	<li> Covers Lecture 7 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.</li>
+	<li> Covers Lecture 5 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
 	</ul>
 </p>
@@ -63,7 +63,7 @@ permalink: /exams/
 	<ul>
 	<li> Wednesday, 12/10, 8:30am-11:30am</li>
 	<li> Location: TBD </li>
-	<li> Cumulative (Lectures 1-16), with an emphasis on Lecture 12 - Lecture 16</li>
+	<li> Cumulative (Lectures 1-16), with an emphasis on Lecture 10 - Lecture 16</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
 	</ul>
 </p>
