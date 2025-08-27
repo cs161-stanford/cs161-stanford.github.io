@@ -32,7 +32,7 @@ title: Home
     </p>
 
 <p>
-<b>What do I need to do?</b> Seven homework assignments and three exams (plus, you know, learning the material). See the <a href="/policies/">Course Policies</a> for details on grading.
+<b>What do I need to do?</b> Seven homework assignments and three exams (plus, you know, learning the material). See the <a href="/policies/">Course Policies</a> for details on the grading breakdown.
     </p>
 
 <p>
