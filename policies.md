@@ -26,7 +26,7 @@ permalink: /policies/
 		<li> One "pre-HW assignment" (1%), graded for completion.</li>
 		<li> Exam I (Oct 16) (22%)</li>
 		<li> Exam II (Nov 6) (22%)</li>
-		<li> Final Exam (TBD) (34%)</li>
+		<li> Final Exam (Dec 10) (34%)</li>
                 <li> Bonus Points (see Bonus Point Policy below).</li>
 	</ul>
 
