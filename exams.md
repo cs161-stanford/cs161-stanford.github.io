@@ -31,7 +31,7 @@ permalink: /exams/
 	<ul>
 	<li> Thursday, 10/16, 9am-10:20am</li>
 	<li> Location: TBD </li>
-	<li> Covers Lecture 1 - Lecture 6</li>
+	<li> Covers Lecture 1 - Lecture 6; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 5 or 6.</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
 	</ul>
 </p>
@@ -47,7 +47,7 @@ permalink: /exams/
 	<ul>
 	<li> Thursday, 11/6, 9am-10:20am.</li>
 	<li> Location: TBD </li>
-	<li> Covers Lecture 7 - Lecture 11</li>
+	<li> Covers Lecture 7 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
 	</ul>
 </p>
