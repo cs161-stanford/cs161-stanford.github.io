@@ -185,7 +185,7 @@ With that in mind, the policy is:
 	<b>Homework:</b>
 	<ul>
 		<li> You have six late days to distribute among the seven homework assignments.  You may use  a <b>maximum of three late days per assignment</b> for HW1, HW3, HW5 and HW6.  For HW2, HW4, and HW7, you have a <b>maximum of two late days</b>.  (That's because these are the homeworks right before exams, and we want to release solutions more quickly so that you can study from them!)   </li>
-</li> Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days. </li><li>
+<li> Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days. </li><li>
 You are responsible for keeping track of your own late days.</li>
 		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). <b>Do not ask for an extension if you have extenuating circumstances; this is what late days are for.</b></li>
 		<li> No credit will be given for homework turned in more than two/three days after the due date (three days for HW1,3,5,6; two for HW2,4,7, as above).  No credit will be given for late homework after all late days have been used.</li>
