@@ -70,7 +70,7 @@ If you have any questions or concerns regarding your accommodations, please cont
 <ul><li>Students with OAE letters must request a separate extension for each assignment (you cannot auto-apply your OAE extensions).</li>
 <li> Students with the standard OAE extension accommodation must request an extension <i>before</i> the original due date, as it says in your OAE letter.  Retroactive extension requests will not be approved.  
 </li><li>
-As per the Late Homework policy below, homework will not be accepted more than three days late, even with an OAE letter.  This is so that we can release solutions in a timely fashion.
+As per the Late Homework policy below, homework will not be accepted more than three days late (or two days if it's an assignment right before the exam), even with an OAE letter.  This is so that we can release solutions in a timely fashion.
 </li></ul>
 </p><p> 
 <b>Exams:</b>
@@ -184,9 +184,11 @@ With that in mind, the policy is:
       <div class="card-body">
 	<b>Homework:</b>
 	<ul>
-		<li> You have six late days to distribute as you like among the seven homework assignments, with a <b>maximum of three late days per assignment</b>. Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days.  <b>You are responsible for keeping track of late days.</b></li>
-		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). Do not ask for an extension if you have extenuating circumstances; this is what late days are for.</li>
-		<li> No credit will be given for homework turned in more than three days after the due date, or for late homework after all late days have been used.</li>
+		<li> You have six late days to distribute among the seven homework assignments.  You may use  a <b>maximum of three late days per assignment</b> for HW1, HW3, HW5 and HW6.  For HW2, HW4, and HW7, you have a <b>maximum of two late days</b>.  (That's because these are the homeworks right before exams, and we want to release solutions more quickly so that you can study from them!)   </li>
+</li> Each late day is an extension of 24 hours.  Late days round up, so if you are 30 hours late, that is two late days. </li><li>
+You are responsible for keeping track of your own late days.</li>
+		<li> The point of late days is to give you flexibility to deal with extenuating circumstances (illness, travel, etc). <b>Do not ask for an extension if you have extenuating circumstances; this is what late days are for.</b></li>
+		<li> No credit will be given for homework turned in more than two/three days after the due date (three days for HW1,3,5,6; two for HW2,4,7, as above).  No credit will be given for late homework after all late days have been used.</li>
 		<li> If you join the class late, you will receive a zero on any missed homework assignments.  (Except HW0, which you can complete at any time).</li>
 	</ul>
 	<b>Exams:</b>

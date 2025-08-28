@@ -239,18 +239,8 @@ Stanford students get a free OverLeaf Pro account.</li>
       <div class="card-body">
 <p class="card-title">For CGOE students:</p>
 
-We will have a dedicated CGOE CA (name TBD).  CGOE students should email them about any CGOE-related concerns or issues.  General questions about class material or homework should still be discussed on Ed. 
-
-<ul>
-<li><b>Sections:</b>
-	<ul>
-	<li> One section will be recorded each week, and you can access the videos on Canvas along with the lecture videos. (See <a href="/sections/">the Sections page</a> for more details on sections).</li>
-	<li> CGOE students are always welcome to attend sections in person as well!</li>
-	</ul></li>
-<li><b>Office Hours:</b>
-	<ul><li> Our CGOE CA will hold online office hours for CGOE students.  Please see the <a href="/office_hours/">Office Hours Schedule</a> to find the CGOE office hour time slots and Zoom link.</li>
-	</ul></li>
-</ul>
+Lectures are recorded, and 
+there will be one recorded section each week, all available on Canvas.  We'll also have remote office hours for CGOE students to take advantage of.  For CGOE-specific concerns, please reach out to us at <a href="cs161-staff-aut2526@cs.stanford.edu">cs161-staff-aut2526@cs.stanford.edu</a>; general questions about class material or homework can be discussed on Ed with the rest of the class.
 </div>
     </div>
   </div>
