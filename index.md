@@ -45,7 +45,7 @@ title: Home
     </p>
 
 <p>
-<b>Get in touch:</b> To get in touch with the teaching team, please email <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> or post on Ed (privately if appropriate).
+<b>Get in touch:</b> To get in touch with the teaching team, please email <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">cs161-staff-aut2526@cs.stanford.edu</a> or post on Ed (privately if appropriate).
     </p>
   </div>
 </div>
