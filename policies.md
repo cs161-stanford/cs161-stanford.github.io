@@ -51,7 +51,7 @@ After your final numerical grade and letter grade has been computed, the Bonus P
     <div id="accom" class="collapse">
       <div class="card-body">
 <p>
-Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible (no later than the add-drop deadline). It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a>.
+Students who may need academic accommodations based on the impact of a disability should initiate the request with the Office of Accessible Education (OAE) and notify us as soon as possible (no later than the add-drop deadline). It is the student’s responsibility to reach out to the course staff regarding their accommodations on exams and assignments in advance. Please email OAE forms to <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">cs161-staff-aut2526@cs.stanford.edu</a>.
 </p>
 
 
@@ -201,7 +201,7 @@ You are responsible for keeping track of your own late days.</li>
 </ul>
 </li>
 <li> If you miss an exam, by default you will receive a zero on it.</li>
-		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="emailto:cs161-aut2526-staff@lists.stanford.edu">cs161-aut2526-staff@lists.stanford.edu</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.  Please keep in mind that if you email us on exam day or the night before, the course staff will be busy with exam logistics and we may take a day or two to get back to you.</li>
+		<li> If you have an emergency (including illness) that means you have to miss an exam, please contact us at <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">the course staff list</a> and explain your circumstances.  We can't promise to accommodate your emergency, but we will see what we can do.  Please keep in mind that if you email us on exam day or the night before, the course staff will be busy with exam logistics and we may take a day or two to get back to you.</li>
 	</ul>
       </div>
     </div>

@@ -11,7 +11,7 @@ permalink: /homework/
 <ul>
 <li> Homework can be completed in small groups of up to three people.  You can choose your own groups.  It is okay if you prefer to work alone.</li>
 <li> Homework will be handed in via <a href="https://www.gradescope.com/courses/1077282">Gradescope</a>
-	<ul> <li> You should automatically have access to Gradescope if you are enrolled in the course.  If you have any issues, please email the <a href="mailto:cs161-aut2526-staff@lists.stanford.edu">the staff email list</a>. </li>
+	<ul> <li> You should automatically have access to Gradescope if you are enrolled in the course.  If you have any issues, please email the <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">the staff email list</a>. </li>
 	<li> If you are working in a group, please use the group submission feature on gradescope.  Each group should submit only once.</li> 
 </ul></li>
 <li> Adhere to the <a href="/policies/">Collaboration Policies and Honor Code</a>.</li>
