@@ -23,10 +23,10 @@ permalink: /policies/
 	The elements of your grade are:
 	<ul>
 		<li> 7 homework assignments (21%, or 3% each).</li>
-		<li> One "pre-HW assignment" (1%), graded for completion.</li>
-		<li> Exam I (Oct 16) (22%)</li>
-		<li> Exam II (Nov 6) (22%)</li>
-		<li> Final Exam (Dec 10) (34%)</li>
+		<li> One "HW0" homework (1%), graded for completion.</li>
+		<li> Exam I (Oct 16) (21%)</li>
+		<li> Exam II (Nov 6) (21%)</li>
+		<li> Final Exam (Dec 10) (36%)</li>
                 <li> Bonus Points (see Bonus Point Policy below).</li>
 	</ul>
 
