@@ -80,3 +80,80 @@ This page contains lecture materials.  Some notes:
   </div>
 </div>
 
+<div class="card mb-4">
+  <div class="card-header">
+    September 30
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 3: Solving Recurrences and the Master Theorem</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture3/preLecture3.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture3/Lecture3.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture3/Lecture3-compressed.pdf">Slides (PDF)</a></li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 4</li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 2
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 4: Median and Selection</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture4/preLecture4.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture4/Lecture4.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture4/Lecture4-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture4/lecture4.ipynb">IPython Notebook: Select Algorithm</a> </li>
+            <li> <a href="/assets/Lectures/Lecture4/auxFileLecture4.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapters 6.1, 6.3, 6.4</li>
+<li> <a href="/assets/Lectures/Lecture4/CS161_handout_lecture4.pdf">Handout: Formal proof that SELECT(A,k) is correct</a></li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 7
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 5: Randomized Algorithms and QuickSort</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture5/preLecture5.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture5/Lecture5.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture5/Lecture5-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture5/lecture5_quicksort.ipynb">IPython Notebook: QuickSort</a> </li>
+            <li> <a href="/assets/Lectures/Lecture5/auxFileLecture5.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapters 5.1-5.5</li>
+</ul>
+</p>
+  </div>
+</div>
