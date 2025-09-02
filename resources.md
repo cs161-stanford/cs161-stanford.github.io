@@ -240,7 +240,7 @@ Stanford students get a free OverLeaf Pro account.</li>
 <p class="card-title">For CGOE students:</p>
 
 Lectures are recorded, and 
-there will be one recorded section each week, all available on Canvas.  We'll also have remote office hours for CGOE students to take advantage of.  For CGOE-specific concerns, please reach out to us at <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">cs161-staff-aut2526@cs.stanford.edu</a>; general questions about class material or homework can be discussed on Ed with the rest of the class.
+there will be one recorded section each week, all available on Canvas.  We'll also have remote office hours for CGOE students to take advantage of.  Please post on Ed to get in touch with us if you have any questions.
 </div>
     </div>
   </div>
