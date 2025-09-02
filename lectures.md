@@ -173,7 +173,7 @@ This page contains lecture materials.  Some notes:
 	<ul>
     	<li> <a href="/assets/Lectures/Lecture6/Lecture6.pptx">Slides (PPTX)</a></li>
             <li> <a href="/assets/Lectures/Lecture6/Lecture6-compressed.pdf">Slides (PDF)</a></li>
-            <li><a href="/assets/Lectures/Lecture6/lecture6_bucketsort.ipynb">IPython Notebook: RadixSort</a> </li>
+            <li><a href="/assets/Lectures/Lecture6/lecture6_bucketSort.ipynb">IPython Notebook: RadixSort</a> </li>
             <li> <a href="/assets/Lectures/Lecture6/lecture6_aux.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
