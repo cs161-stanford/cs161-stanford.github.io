@@ -157,3 +157,29 @@ This page contains lecture materials.  Some notes:
 </p>
   </div>
 </div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 9
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 6: BucketSort and Lower Bounds for Sorting</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture6/preLecture6.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture6/Lecture6.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture6/Lecture6-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture6/lecture6_bucketsort.ipynb">IPython Notebook: RadixSort</a> </li>
+            <li> <a href="/assets/Lectures/Lecture6/lecture6_aux.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 5.6; CLRS 8.2 and 8.3.  (Note: you can access CLRS for free online through the Stanford library; see the Resources page for more). </li>
+</ul>
+</p>
+  </div>
+</div>
