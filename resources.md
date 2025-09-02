@@ -237,11 +237,10 @@ Stanford students get a free OverLeaf Pro account.</li>
     </div>
     <div id="scpd" class="collapse">
       <div class="card-body">
-<p class="card-title">For CGOE students:</p>
+<p class="card-title">Welcome CGOE students!</p>
 
 Lectures are recorded, and 
-there will be one recorded section each week, all available on Canvas.  We'll also have remote office hours for CGOE students to take advantage of.  Please post on Ed to get in touch with us if you have any questions.
-</div>
+there will be one recorded section each week, all available on Canvas.  We'll also have remote office hours for CGOE students to take advantage of; check out the <a href="/office_hours/">Office Hours</a> page to see the schedule.  Please post on Ed to get in touch with us if you have any questions about CGOE logistics or anything else.</div>
     </div>
   </div>
 
