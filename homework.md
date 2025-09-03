@@ -36,6 +36,7 @@ permalink: /homework/
 </ul>
 </div>
 
+<!--
 <div class="card mb-4">
   <div class="card-header">
     Homework 1
@@ -45,10 +46,11 @@ permalink: /homework/
     <p class="card-text">
 	<ul>
 	<li> Due: 10/3 at 11:59pm</li>
-	<li> <a href="assets/homework/HW1.pdf">Problem Set</a> </li>
-	<li> <a href="assets/homework/HW1.tex">LaTeX Template</a> </li>
-	<!-- <li> <a href="assets/homework/HW1_soln.pdf">Solutions</a> </li>-->
+	<li> <a href="/assets/homework/HW1.pdf">Problem Set</a> </li>
+	<li> <a href="/assets/homework/HW1.tex">LaTeX Template</a> </li>
+	<!-- <li> <a href="/assets/homework/HW1_soln.pdf">Solutions</a> </li>-->
 	</ul>
 </p>
   </div>
 </div>
+-->
