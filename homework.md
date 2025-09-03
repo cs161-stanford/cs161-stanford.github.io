@@ -43,6 +43,7 @@ permalink: /homework/
   <div class="card-body">
     <h5 class="card-title">Homework 1</h5>
     <p class="card-text">
+	(Note: HW1 is not available yet, this is just a placeholder for when it is :))
 	<ul>
 	<li> Due: 10/3 at 11:59pm</li>
 	<li> <a href="/assets/homework/HW1.pdf">Problem Set</a> </li>
