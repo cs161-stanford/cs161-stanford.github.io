@@ -7,8 +7,7 @@ title: Home
 
 ### Stanford University, Fall 2025
 
-<br>
-#### Note: Until the quarter starts, some elements of this website will still be in draft form.  However, syllabus information like the course policies and schedule are finalized.
+<p>Note: Until the quarter starts, some elements of this website will still be in draft form.  However, syllabus information like the course policies and schedule are finalized.</p>
 
 <div class="card mb-4">
   <!--<div class="card-header">
