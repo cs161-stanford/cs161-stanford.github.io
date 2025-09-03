@@ -36,7 +36,6 @@ permalink: /homework/
 </ul>
 </div>
 
-<!--
 <div class="card mb-4">
   <div class="card-header">
     Homework 1
@@ -53,4 +52,3 @@ permalink: /homework/
 </p>
   </div>
 </div>
--->
