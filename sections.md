@@ -15,6 +15,9 @@ Sections may also be used to fill out more details or background skipped in lect
 <p class="card-text">
 One section each week will be recorded, and the recording can be found on Canvas.
 </p>
+<p class="card-text">
+Sections that have not happened yet may have broken links.
+</p>
 </div>
 
 <div class="card mb-4">
