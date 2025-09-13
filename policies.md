@@ -74,7 +74,12 @@ As per the Late Homework policy below, homework will not be accepted more than t
 </li></ul>
 </p><p> 
 <b>Exams:</b>
-All exam accommodation requests must be submitted to the teaching team <b>at least 10 days prior</b> to the scheduled exam.  This is so we have time to set up the logistics of your accommodations.
+ If you plan to use your OAE-approved exam accommodations for a specific exam, students must provide their letter and inform the instructor by:<ul>
+<li>
+10 calendar days prior to the relevant exam date.</li><li>
+No later than November 17, 2025, at 5:00 pm, for accommodations on the final exam.</li>
+</ul>
+You only need to submit your letter once per quarter. For urgent OAE-related accommodation needs that arise after the deadline, please consult your OAE adviser.  If you are not yet registered with OAE, contact the office directly at oae-contactus@stanford.edu.
 </p>
     </div>
   </div>
@@ -112,6 +117,23 @@ Please check with the course staff if you have questions about what collaboratio
 </div>
 </div>
  
+ <div class="card mb-3">
+    <div class="card-header">
+      <button class="btn btn-link text-decoration-none"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#proctor"
+              aria-expanded="false"
+              aria-controls="proctor">
+        Exam Proctoring Policy
+      </button>
+    </div>
+    <div id="proctor" class="collapse">
+      <div class="card-body">
+<p>This course is participating in the proctoring pilot overseen by the Academic Integrity Working Group (AIWG). The purpose of this pilot is to determine the efficacy of proctoring and develop effective practices for proctoring in-person exams at Stanford.  To find more details on the pilot or the working group, please visit the AIWG’s <a href="https://studentaffairs.stanford.edu/AIWG">webpage.</a></p>
+</div>
+</div>
+</div>
 
 <div class="card mb-3">
     <div class="card-header">
