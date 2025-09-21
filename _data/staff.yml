@@ -9,9 +9,14 @@ coordinator:
     photo: "/assets/images/Amelie Byun (Course Manager).jpg"
     algorithm: "TBD"
 
+course_advisor:
+  - name: "Swati Dube (swatidube)"
+    photo: "/assets/images/Swati.jpg"
+    algorithm: "TBD"
+
 head_ca:
   - name: "Anisha Palaparthi (anishapv)"
-    photo: "/assets/images/tmp.png"
+    photo: "/assets/images/Anisha.jpg"
     algorithm: "Kruskal's"
 
 cas:
