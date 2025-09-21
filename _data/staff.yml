@@ -6,28 +6,26 @@ instructor:
 
 coordinator:
   - name: "Amelie Byun (aebyun)"
-    photo: "/assets/images/tmp.png"
+    photo: "/assets/images/Amelie Byun (Course Manager).jpg"
     algorithm: "TBD"
 
 head_ca:
   - name: "Anisha Palaparthi (anishapv)"
     photo: "/assets/images/tmp.png"
-    algorithm: "TBD"
+    algorithm: "Kruskal's"
 
 cas:
-  - { name: "Name 1",  photo: "/assets/images/tmp.png", algorithm: "TBD" }
-  - { name: "Name 2",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 3",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 4",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 5",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 6",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 7",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 8",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 9",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 10", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 11", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 12", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 13", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 14", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-  - { name: "Name 15", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
-
+  - { name: "Andy Dai (aldai)",  photo: "/assets/images/tmp.png", algorithm: "TBD" }
+  - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
+  - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "TBD"}
+  - { name: "James Cheng (jzcheng)",  photo: "/assets/images/tmp.png" , algorithm: "Depth First Search"}
+  - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan.jpg" , algorithm: "Breadth First Search"}
+  - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/tmp.png" , algorithm: "Greedy"}
+  - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's"}
+  - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's"}
+  - { name: "Ta-Wei Tu (taweitu)",  photo: "/assets/images/Ta-Wei.png" , algorithm: "MergeSort"}
+  - { name: "Thanawan (Ly-Ly) Atchariyachanvanit (thanawan)", photo: "/assets/images/Ly-Ly.png" , algorithm: "Union-Find"}
+  - { name: "Will Fang (wfang03)", photo: "/assets/images/Will.jpeg" , algorithm: "Stick Sort"}
+  - { name: "Xiao Mao (xiaomao)", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
+  - { name: "Zayn Malhotra (vedansh)", photo: "/assets/images/Zayn.JPG" , algorithm: "Simplex"}
+  - { name: "Ziyi Ding (zyding)", photo: "/assets/images/tmp.png" , algorithm: "Dijkstra's"}
