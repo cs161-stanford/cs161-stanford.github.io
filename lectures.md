@@ -183,3 +183,89 @@ This page contains lecture materials.  Some notes:
 </p>
   </div>
 </div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 17
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 7: Binary Search and Red-Black Trees</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture7/preLecture7.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture7/Lecture7.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture7/Lecture7-compressed.pdf">Slides (PDF)</a></li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 11. </li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 14
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Exam I!</h5>
+    <p class="card-text">
+See <a href="/exams/">Exams</a> for more.
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 21
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 8: Hashing</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture8/preLecture8.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture8/Lecture8.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture8/Lecture8-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture8/Lecture8_hashing.ipynb">IPython Notebook: Hashing</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 12.1-12.4</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 23
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 9: Graphs, DFS, and BFS</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture8/preLecture8.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture8/Lecture8.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture8/Lecture8-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture8/Lecture8_hashing.ipynb">IPython Notebook: Hashing</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 12.1-12.4</li>
+</ul>
+</p>
+  </div>
+</div>
