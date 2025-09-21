@@ -254,17 +254,142 @@ See <a href="/exams/">Exams</a> for more.
     <p class="card-text">
     <b>Before Class:</b>
  	<ul>
-        <li> <a href="/assets/Lectures/Lecture8/preLecture8.pdf">Pre-lecture exercise</a></li>
+        <li> <a href="/assets/Lectures/Lecture9/preLecture9.pdf">Pre-lecture exercise</a></li>
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture8/Lecture8.pptx">Slides (PPTX)</a></li>
-            <li> <a href="/assets/Lectures/Lecture8/Lecture8-compressed.pdf">Slides (PDF)</a></li>
-            <li><a href="/assets/Lectures/Lecture8/Lecture8_hashing.ipynb">IPython Notebook: Hashing</a> </li>
+    	<li> <a href="/assets/Lectures/Lecture9/Lecture9.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture9/Lecture9-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture9/lecture9_graphs.ipynb">IPython Notebook: Graphs</a> </li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
 <ul>
-<li> AI Chapter 12.1-12.4</li>
+<li> AI Chapter 8.1-8.5</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 28
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 10: Strongly Connected Components</h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture10/preLecture10.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture10/Lecture10.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture10/Lecture10-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture10/lecture10_scc.ipynb">IPython Notebook: SCC</a> </li>
+            <li> <a href="/assets/Lectures/Lecture10/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 8.6</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 30
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 11: Dijkstra and Bellman-Ford </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture11/preLecture11.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture11/Lecture11.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture11/Lecture11-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture11/lecture11_dijkstra.ipynb">IPython Notebook: Dijkstra</a> </li>
+            <li> <a href="/assets/Lectures/Lecture11/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 9</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 4
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Democracy Day </h5>
+    <p class="card-text">
+No class.
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 6
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Exam II!</h5>
+    <p class="card-text">
+See <a href="/exams/">Exams</a> for more.
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 11
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 12: Dynamic Programming: Bellman-Ford (again) and Floyd-Warshall </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture12/preLecture12.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture12/Lecture12.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture12/Lecture12-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture12/lecture12_dp.ipynb">IPython Notebook: Computing Fibonacci Numbers</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 16, 18</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 13
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 13: More Dynamic Programming: LCS, Knapsack, Independent Set </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture13/preLecture13.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture13/Lecture13.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture13/Lecture13-compressed.pdf">Slides (PDF)</a></li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 17</li>
 </ul>
 </p>
   </div>
