@@ -36,6 +36,6 @@ cas:
   - { name: "Ta-Wei Tu (taweitu)",  photo: "/assets/images/Ta-Wei.png" , algorithm: "MergeSort"}
   - { name: "Thanawan (Ly-Ly) Atchariyachanvanit (thanawan)", photo: "/assets/images/Ly-Ly.png" , algorithm: "Union-Find"}
   - { name: "Will Fang (wfang03)", photo: "/assets/images/Will.jpeg" , algorithm: "Stick Sort"}
-  - { name: "Xiao Mao (xiaomao)", photo: "/assets/images/tmp.png" , algorithm: "TBD"}
+  - { name: "Xiao Mao (xiaomao)", photo: "/assets/images/Xiao.jpg" , algorithm: "Dynamic Programmming"}
   - { name: "Zayn Malhotra (vedansh)", photo: "/assets/images/Zayn.JPG" , algorithm: "Simplex"}
   - { name: "Ziyi Ding (zyding)", photo: "/assets/images/tmp.png" , algorithm: "Dijkstra's"}
