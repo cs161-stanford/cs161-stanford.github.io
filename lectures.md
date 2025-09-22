@@ -502,7 +502,7 @@ Happy Thanksgiving :)
 	</ul>
 <b>Relevant Reading:</b> 
 <ul>
-<li> N/A</li>
+<li> N/A</li></ul>
 </ul>
 </p>
   </div>
