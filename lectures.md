@@ -493,7 +493,7 @@ Happy Thanksgiving :)
     <p class="card-text">
     <b>Before Class:</b>
  	<ul>
-        <li> N/A 
+        <li> N/A </li>
         </ul>
     <b>During Class:</b>
 	<ul>
@@ -502,7 +502,7 @@ Happy Thanksgiving :)
 	</ul>
 <b>Relevant Reading:</b> 
 <ul>
-<li> N/A</li></ul>
+<li> N/A</li>
 </ul>
 </p>
   </div>
