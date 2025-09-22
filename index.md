@@ -46,6 +46,8 @@ title: Home
 <p>
 <b>Get in touch:</b> To get in touch with the teaching team, please post on Ed (privately if appropriate).  For personal or sensitive matters (include OAE letters), please email <a href="mailto:cs161-staff-aut2526@cs.stanford.edu">cs161-staff-aut2526@cs.stanford.edu</a>.
     </p>
+
+<p><b>High-Resolution Feedback:</b> We will be using <a href="https://stanford.edu/~cpiech/bio/papers/hrcf.pdf">High-Resolution Course Feedback</a> (HRCF),  an anonymous course feedback tool that helps the teaching team understand their students better on a weekly basis.  Each student will receive a request for feedback twice during the quarter, on randomly chosen weeks.  Please respond to feedback requests when you receive them, this is how we make the course better!  </p>
   </div>
 </div>
 
