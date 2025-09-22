@@ -15,8 +15,8 @@ course_advisor:
     algorithm: "TBD"
 
 eethics:
-  - name: "Justing Shin (justinjs)"
-    photo: "/assets/images/Justin.jpg"
+  - name: "Justin Shin (justinjs)"
+    photo: "/assets/images/justin.jpg"
     algorithm: "PageRank"
 
 head_ca:
