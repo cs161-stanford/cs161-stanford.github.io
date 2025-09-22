@@ -26,11 +26,11 @@ head_ca:
 
 cas:
   - { name: "Andy Dai (aldai)",  photo: "/assets/images/tmp.png", algorithm: "TBD" }
-  - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/tmp.png" , algorithm: "TBD"}
+  - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
   - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "TBD"}
   - { name: "James Cheng (jzcheng)",  photo: "/assets/images/tmp.png" , algorithm: "Depth First Search"}
   - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan.jpg" , algorithm: "Breadth First Search"}
-  - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/tmp.png" , algorithm: "Greedy"}
+  - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
   - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's"}
   - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's"}
   - { name: "Ta-Wei Tu (taweitu)",  photo: "/assets/images/Ta-Wei.png" , algorithm: "MergeSort"}
