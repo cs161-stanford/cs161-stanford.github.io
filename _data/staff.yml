@@ -15,7 +15,7 @@ course_advisor:
     algorithm: "TBD"
 
 eethics:
-  - name: {"Justin Shin (justinjs)", photo: "/assets/images/justin.jpg", algorithm: "PageRank"}
+  - {name: "Justin Shin (justinjs)", photo: "/assets/images/justin.jpg", algorithm: "PageRank"}
   - { name: "Jennifer Chien (drchien)", photo: "/assets/images/jennifer.jpg", algorithm: "QuickSort"}
 
 head_ca:
