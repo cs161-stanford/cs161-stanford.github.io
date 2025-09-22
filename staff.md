@@ -60,6 +60,24 @@ permalink: /staff/
   {% endfor %}
 </div>
 
+<h4>Embedded EthiCS Instructor</h4>
+<div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
+  {% for p in site.data.staff.eethics %}
+  <div class="col">
+    <div class="text-center">
+      <img src="{{ p.photo | relative_url }}"
+           class="rounded-circle d-block mx-auto img-fluid"
+           style="width:140px;height:140px;object-fit:cover;"
+           alt="{{ p.name }}">
+      <div class="mt-2 fw-semibold">
+        {% if p.link %}<a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+      </div>
+      <div class="text-muted small">Favorite Algorithm: {{p.algorithm}}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
 <h4>Head Course Assistant</h4>
 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-4">
   {% for p in site.data.staff.head_ca %}
