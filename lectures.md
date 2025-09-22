@@ -450,7 +450,7 @@ See <a href="/exams/">Exams</a> for more.
 
 <div class="card mb-4">
   <div class="card-header">
-    November 25, 57
+    November 25, 27
   </div>
   <div class="card-body">
     <h5 class="card-title">Fall Break! </h5>
