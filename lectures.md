@@ -394,3 +394,116 @@ See <a href="/exams/">Exams</a> for more.
 </p>
   </div>
 </div>
+
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 18
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 14: Greedy Algorithms </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture14/preLecture14.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture14/Lecture14.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture14/Lecture14-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture14/lecture14_greedy.ipynb">IPython Notebook: Activity Selection</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 13, 14</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 20
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 15: Minimum Spanning Trees </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture15/preLecture15.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture15/Lecture15.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture15/Lecture15-compressed.pdf">Slides (PDF)</a></li>
+            <li><a href="/assets/Lectures/Lecture15/lecture15_mst.ipynb">IPython Notebook: MST</a> </li>
+            <li><a href="/assets/Lectures/Lecture15/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> AI Chapter 15</li>
+</ul>
+</p>
+  </div>
+</div>
+
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 25, 57
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Fall Break! </h5>
+    <p class="card-text">
+Happy Thanksgiving :)
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    December 2
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 16: Max-Flow and Ford-Fulkerson </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> <a href="/assets/Lectures/Lecture16/preLecture16.pdf">Pre-lecture exercise</a></li>
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture16/Lecture16.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture16/Lecture16-compressed.pdf">Slides (PDF)</a></li>
+	</ul>
+<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<ul>
+<li> CLRS Ch. 26.1, 26.2, 26.3</li>
+</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    December 4
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Lecture 17: What's next? </h5>
+    <p class="card-text">
+    <b>Before Class:</b>
+ 	<ul>
+        <li> N/A 
+        </ul>
+    <b>During Class:</b>
+	<ul>
+    	<li> <a href="/assets/Lectures/Lecture17/Lecture17.pptx">Slides (PPTX)</a></li>
+            <li> <a href="/assets/Lectures/Lecture17/Lecture17-compressed.pdf">Slides (PDF)</a></li>
+	</ul>
+<b>Relevant Reading:</b> 
+<ul>
+<li> N/A</li>
+</ul>
+</p>
+  </div>
+</div>
