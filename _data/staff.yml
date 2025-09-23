@@ -24,10 +24,10 @@ head_ca:
     algorithm: "Kruskal's"
 
 cas:
-  - { name: "Andy Dai (aldai)",  photo: "/assets/images/tmp.png", algorithm: "TBD" }
+  - { name: "Andy Dai (aldai)",  photo: "/assets/images/Andy.jpg", algorithm: "Kosaraju's Algorithm" }
   - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
   - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "TBD"}
-  - { name: "James Cheng (jzcheng)",  photo: "/assets/images/tmp.png" , algorithm: "Depth First Search"}
+  - { name: "James Cheng (jzcheng)",  photo: "/assets/images/James.jpg" , algorithm: "Depth First Search"}
   - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan.jpg" , algorithm: "Breadth First Search"}
   - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
   - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's"}
