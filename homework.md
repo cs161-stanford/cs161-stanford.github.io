@@ -46,7 +46,7 @@ permalink: /homework/
 Homework 0 is a special homework, graded for completion (not correctness).  The point is for us (and you) to assess your background relevant to this class.  Please do this one on your own.
 	<ul>
 	<li> Find it on Gradescope now! </li>
-	<li> Due: <b>Tuesday</b> 9/30 at 11:59pm</li>
+	<li> Due: <b>Tuesday</b> 9/30 at 9am (before class)</li>
 	</ul>
 </p>
   </div>
