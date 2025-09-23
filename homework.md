@@ -38,6 +38,21 @@ permalink: /homework/
 
 <div class="card mb-4">
   <div class="card-header">
+    Homework 0
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Homework 0</h5>
+    <p class="card-text">
+Homework 0 is a special homework, graded for completion (not correctness).  The point is for us (and you) to assess your background relevant to this class.  Please do this one on your own.
+	<ul>
+	<li> Find it on Gradescope now! </li>
+	<li> Due: <b>Tuesday</b> 9/30 at 11:59pm</li>
+	</ul>
+</p>
+  </div>
+</div>
+<div class="card mb-4">
+  <div class="card-header">
     Homework 1
   </div>
   <div class="card-body">
