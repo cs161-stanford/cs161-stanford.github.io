@@ -10,7 +10,7 @@ coordinator:
     algorithm: "TBD"
 
 course_advisor:
-  - name: "Swati Dube (swatidube)"
+  - name: "Swati Dube (swadube)"
     photo: "/assets/images/Swati.jpg"
     algorithm: "TBD"
 
