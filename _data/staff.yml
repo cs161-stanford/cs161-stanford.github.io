@@ -28,7 +28,7 @@ cas:
   - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
   - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "Breadth First Search"}
   - { name: "James Cheng (jzcheng)",  photo: "/assets/images/James.jpg" , algorithm: "Depth First Search"}
-  - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan.jpg" , algorithm: "Breadth First Search"}
+  - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan-v2.jpg" , algorithm: "Breadth First Search"}
   - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
   - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's"}
   - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's"}
