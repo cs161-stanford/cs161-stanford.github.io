@@ -69,13 +69,13 @@ This page contains lecture materials.  Some notes:
 	<ul><!--
     	<li> <a href="/assets/Lectures/Lecture2/Lecture2.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture2/Lecture2-compressed.pdf">Slides (PDF)</a></li>
-	            <li> <a href="/assets/Lectures/Lecture2/CS161Lecture02_handout.pdf">Handout: Proof that InsertionSort is Correct</a> </li>
             <li><a href="/assets/Lectures/Lecture2/lecture2_sorting.ipynb">IPython Notebook: Insertion Sort and Merge Sort</a> </li>
             <li> <a href="/assets/Lectures/Lecture2/tryItABunch.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
 <ul>
 <li> AI Chapters 1 and 2</li>
+	            <li> <a href="/assets/Lectures/Lecture2/CS161Lecture02_handout.pdf">Handout: Proof that InsertionSort is Correct</a> </li>
 </ul>
 </p>
   </div>
