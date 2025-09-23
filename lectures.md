@@ -39,7 +39,8 @@ This page contains lecture materials.  Some notes:
 	</ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture1/Lecture1.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture1/Lecture1.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture1/Lecture1-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture1/lecture1_karatsuba.ipynb">IPython Notebook: Karatsuba's algorithm</a> [Note: right-click and save-as to download.  (Same with all the .ipynb and .py files on this site).]</li>
               <li> <a href="/assets/Lectures/Lecture1/multHelpers.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -65,8 +66,8 @@ This page contains lecture materials.  Some notes:
         <li> The pre-lecture exercise references <a href="/assets/Lectures/Lecture2/preLecture2.ipynb">this</a> IPython notebook. [NOTE: right-click and save-as (or crtl-click and save-link-as) to download the IPython notebook (same as all .ipynb and all .py files on this site.  Be careful that you don't save it as a text file, or Jupyter won't know what to do with it.] </li>
         </ul>
     <b>During Class:</b>
-	<ul>
-    	<li> <a href="/assets/Lectures/Lecture2/Lecture2.pptx">Slides (PPTX)</a></li>
+	<ul><!--
+    	<li> <a href="/assets/Lectures/Lecture2/Lecture2.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture2/Lecture2-compressed.pdf">Slides (PDF)</a></li>
 	            <li> <a href="/assets/Lectures/Lecture2/CS161Lecture02_handout.pdf">Handout: Proof that InsertionSort is Correct</a> </li>
             <li><a href="/assets/Lectures/Lecture2/lecture2_sorting.ipynb">IPython Notebook: Insertion Sort and Merge Sort</a> </li>
@@ -92,8 +93,8 @@ This page contains lecture materials.  Some notes:
         <li> <a href="/assets/Lectures/Lecture3/preLecture3.pdf">Pre-lecture exercise</a></li>
         </ul>
     <b>During Class:</b>
-	<ul>
-    	<li> <a href="/assets/Lectures/Lecture3/Lecture3.pptx">Slides (PPTX)</a></li>
+	<ul><!--
+    	<li> <a href="/assets/Lectures/Lecture3/Lecture3.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture3/Lecture3-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
@@ -118,7 +119,8 @@ This page contains lecture materials.  Some notes:
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture4/Lecture4.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture4/Lecture4.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture4/Lecture4-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture4/lecture4.ipynb">IPython Notebook: Select Algorithm</a> </li>
             <li> <a href="/assets/Lectures/Lecture4/auxFileLecture4.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -145,7 +147,9 @@ This page contains lecture materials.  Some notes:
         </ul>
     <b>During Class:</b>
 	<ul>
+<!--
     	<li> <a href="/assets/Lectures/Lecture5/Lecture5.pptx">Slides (PPTX)</a></li>
+-->
             <li> <a href="/assets/Lectures/Lecture5/Lecture5-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture5/lecture5_quicksort.ipynb">IPython Notebook: QuickSort</a> </li>
             <li> <a href="/assets/Lectures/Lecture5/auxFileLecture5.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -171,7 +175,8 @@ This page contains lecture materials.  Some notes:
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture6/Lecture6.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture6/Lecture6.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture6/Lecture6-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture6/lecture6_bucketSort.ipynb">IPython Notebook: RadixSort</a> </li>
             <li> <a href="/assets/Lectures/Lecture6/lecture6_aux.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -197,7 +202,8 @@ This page contains lecture materials.  Some notes:
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture7/Lecture7.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture7/Lecture7.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture7/Lecture7-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
@@ -232,8 +238,8 @@ See <a href="/exams/">Exams</a> for more.
         <li> <a href="/assets/Lectures/Lecture8/preLecture8.pdf">Pre-lecture exercise</a></li>
         </ul>
     <b>During Class:</b>
-	<ul>
-    	<li> <a href="/assets/Lectures/Lecture8/Lecture8.pptx">Slides (PPTX)</a></li>
+	<ul><!--
+    	<li> <a href="/assets/Lectures/Lecture8/Lecture8.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture8/Lecture8-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture8/Lecture8_hashing.ipynb">IPython Notebook: Hashing</a> </li>
 	</ul>
@@ -258,7 +264,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture9/Lecture9.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture9/Lecture9.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture9/Lecture9-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture9/lecture9_graphs.ipynb">IPython Notebook: Graphs</a> </li>
 	</ul>
@@ -283,7 +290,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture10/Lecture10.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture10/Lecture10.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture10/Lecture10-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture10/lecture10_scc.ipynb">IPython Notebook: SCC</a> </li>
             <li> <a href="/assets/Lectures/Lecture10/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -309,7 +317,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture11/Lecture11.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture11/Lecture11.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture11/Lecture11-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture11/lecture11_dijkstra.ipynb">IPython Notebook: Dijkstra</a> </li>
             <li> <a href="/assets/Lectures/Lecture11/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -359,7 +368,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture12/Lecture12.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture12/Lecture12.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture12/Lecture12-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture12/lecture12_dp.ipynb">IPython Notebook: Computing Fibonacci Numbers</a> </li>
 	</ul>
@@ -384,7 +394,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture13/Lecture13.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture13/Lecture13.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture13/Lecture13-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
@@ -409,7 +420,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture14/Lecture14.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture14/Lecture14.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture14/Lecture14-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture14/lecture14_greedy.ipynb">IPython Notebook: Activity Selection</a> </li>
 	</ul>
@@ -434,7 +446,8 @@ See <a href="/exams/">Exams</a> for more.
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture15/Lecture15.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture15/Lecture15.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture15/Lecture15-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture15/lecture15_mst.ipynb">IPython Notebook: MST</a> </li>
             <li><a href="/assets/Lectures/Lecture15/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
@@ -473,7 +486,8 @@ Happy Thanksgiving :)
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture16/Lecture16.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture16/Lecture16.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture16/Lecture16-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
 <b>Relevant Reading:</b> (Before of after class, whatever works best for you).
@@ -497,7 +511,8 @@ Happy Thanksgiving :)
         </ul>
     <b>During Class:</b>
 	<ul>
-    	<li> <a href="/assets/Lectures/Lecture17/Lecture17.pptx">Slides (PPTX)</a></li>
+<!--
+    	<li> <a href="/assets/Lectures/Lecture17/Lecture17.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture17/Lecture17-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
 <b>Relevant Reading:</b> 
