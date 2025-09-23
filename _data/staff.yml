@@ -26,7 +26,7 @@ head_ca:
 cas:
   - { name: "Andy Dai (aldai)",  photo: "/assets/images/Andy.jpg", algorithm: "Kosaraju's Algorithm" }
   - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
-  - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "TBD"}
+  - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "Breadth First Search"}
   - { name: "James Cheng (jzcheng)",  photo: "/assets/images/James.jpg" , algorithm: "Depth First Search"}
   - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/Karan.jpg" , algorithm: "Breadth First Search"}
   - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
