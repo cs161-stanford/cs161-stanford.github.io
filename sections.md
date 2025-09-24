@@ -35,8 +35,8 @@ Sections that have not happened yet may have broken links.
     <h5 class="card-title">Section 1</h5>
     <p class="card-text">
 	<ul>
-	<li> <a href="/assets/sections/worksheets/Section-1-Worksheet.pdf">Problems</a> </li>
-	<li> Solutions </li>
+	<li> <a href="assets/sections/section1.pdf">Problems</a> </li>
+	<li> <a href="assets/sections/section1_soln.pdf">Solutions</a> </li>
 	</ul>
 </p>
   </div>
