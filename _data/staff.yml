@@ -25,16 +25,17 @@ head_ca:
 
 cas:
   - { name: "Andy Dai (aldai)",  photo: "/assets/images/Andy.jpg", algorithm: "Kosaraju's Algorithm" }
+  - { name: "Auddithio Nag (aunag)",  photo: "/assets/images/Auddithio.JPG", algorithm: "Kruskal's Algorithm" }
   - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
   - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "Breadth First Search"}
   - { name: "James Cheng (jzcheng)",  photo: "/assets/images/James.jpg" , algorithm: "Depth First Search"}
   - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/karan-v3.png" , algorithm: "Breadth First Search"}
   - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
-  - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's"}
-  - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's"}
+  - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's Algorithm"}
+  - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's Algorithm"}
   - { name: "Ta-Wei Tu (taweitu)",  photo: "/assets/images/Ta-Wei.png" , algorithm: "MergeSort"}
   - { name: "Thanawan (Ly-Ly) Atchariyachanvanit (thanawan)", photo: "/assets/images/Ly-Ly.png" , algorithm: "Union-Find"}
   - { name: "Will Fang (wfang03)", photo: "/assets/images/Will.jpeg" , algorithm: "Stick Sort"}
   - { name: "Xiao Mao (xiaomao)", photo: "/assets/images/Xiao.jpg" , algorithm: "Dynamic Programmming"}
   - { name: "Zayn Malhotra (vedansh)", photo: "/assets/images/Zayn.JPG" , algorithm: "Simplex"}
-  - { name: "Ziyi Ding (zyding)", photo: "/assets/images/tmp.png" , algorithm: "Dijkstra's"}
+  - { name: "Ziyi Ding (zyding)", photo: "/assets/images/tmp.png" , algorithm: "Dijkstra's Algorithm"}
