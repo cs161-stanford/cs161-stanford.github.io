@@ -21,7 +21,7 @@ Sections that have not happened yet may have broken links.
 <h5 class="card-title">Section Timings and Locations</h5>
 <ul>
 <li> Will's Section: Thursdays 1:30pm-2:30pm (300-303) </li>
-<li> Isabel's Section: Thursdays 1:30pm-2:30pm (Mccullough 126) </li>
+<li> Isabel's Section: Thursdays 3:00pm-4:00pm (McCullough 126) </li>
 <li> Karan's Section: Thursdays 12:30pm-1:30pm (STLC 119) </li>
 <li> Mingwei's Section: Friday 3pm-4pm (Room TBD) </li>
 </ul>
