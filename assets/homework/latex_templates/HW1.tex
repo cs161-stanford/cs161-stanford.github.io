@@ -1,0 +1,282 @@
+\documentclass[11pt]{article}
+% STUDENTS:
+% You can enter your solutions into this template by just
+% typing them right after it says "SOLUTION".
+% Ignore the \ifdefined\sol blocks; you can delete them if you want.
+% (Note that it won't compile if you try to uncomment the
+% solution flag :))
+%
+% Problem set: do not define TEMPLATE or SOL
+% LaTeX template: define TEMPLATE but not SOL
+% Solution: define both TEMPLATE and SOL
+%
+% \def\sol{1}
+\def\template{1}
+\usepackage{fullpage,graphicx}
+\usepackage{amsmath,amsfonts,amsthm,amssymb,multirow, url}
+\usepackage{tikz}
+\usepackage{wrapfig}
+\usepackage{algorithmic}
+\usepackage{enumerate}
+\usepackage{wasysym}
+\usepackage{framed}
+\usepackage{float}
+\usepackage[ruled,vlined,commentsnumbered,titlenotnumbered]{algorithm2e}
+\newcommand{\expecting}[1]{\noindent{[\textbf{We are expecting:} \em #1\em]}}
+\newcommand{\pts}[1]{\textbf{(#1 pt.)}}
+\newcommand{\hint}[1]{\noindent{[\textbf{Hint:} \em #1 \em]}}
+\definecolor{shadecolor}{gray}{0.95}
+\usepackage{hyperref}
+
+
+\begin{document}
+\noindent
+CS 161 \hfill \textbf{Problem Set 1} \newline 
+{Fall 2025} \hfill \textbf{Due:} Friday October 3 at 11:59pm on Gradescope.
+
+\noindent
+\rule{\linewidth}{0.4pt}
+
+\noindent
+\textbf{Style guide and expectations:} Please see the top of the ``Homework" page on the course webpage for guidance on what we are looking for in homework solutions.  We will grade according to these standards.
+
+Make sure to look at the ``\textbf{We are expecting}'' blocks below each problem to see what we will be grading for in each problem!
+\newline\newline
+\textbf{Collaboration policy:} You may do the HW in groups of size up to three.  Please submit one HW for your whole group on Gradescope.  (Note that there is an option to submit as a group).  See the ``Policies'' section of the course website for more on the collaboration policy.
+\noindent
+\newline\newline
+\textbf{LLM policy:} Check out the course webpage for best practices on how to productively use LLMs on homework, if you use them at all.   \newline\noindent
+\rule{\linewidth}{0.4pt}
+
+\section*{Exercises}
+We recommend you do the exercises on your own before collaborating with your group.  The point is to check your understanding.
+
+\noindent
+\rule{\linewidth}{0.4pt}
+\begin{enumerate}
+
+%%%%%%%%%%%%%%%%%%% EXERCISE 1 %%%%%%%%%%%%%%%%%%%%
+
+\item \pts{1} See the IPython notebook \href{https://cs161-stanford.github.io/assets/links/HW1.ipynb}{HW1.ipynb} for Exercise 1.  Modify the code to generate a plot that convinces you that $T(x) = O(g(x))$. \textbf{Note:} There are instructions for installing Jupyter notebooks in the pre-lecture exercise for Lecture 2.
+
+\expecting{Your choice of $c$, $n_0$, the plot that you created after modifying the code in Exercise 1, and a short explanation of why this plot should convince a viewer that $T(x) = O(g(x))$.}
+
+\ifdefined\template
+\begin{shaded}
+\textbf{SOLUTION:}
+\ifdefined\sol
+\input{solutions/E1.tex}
+\fi
+\end{shaded}
+\fi
+
+
+%%%%%%%%%%%%%% EXERCISE 2 %%%%%%%%%%%%%%%%%%%%%%%%%
+
+\item \pts{10}
+For each row, indicate whether or not the quantity in column \textbf{A} is $O$, $\Omega$, or $\Theta$ of the quantity in column \textbf{B}.  Put a $\checkmark$ if your answer is ``yes'', and leave blank if your answer is ``no.'' We've filled in the first two rows for you.  Notice that it's possible for multiple spaces per row to have a $\checkmark$ in them. All logarithms are base 2 unless otherwise stated.
+		
+	\expecting{ Some of the blanks to be marked with a $\checkmark$ (or $X$, or $\smiley$, or your favorite symbol).   No explanation is required.}
+
+\emph{Note: The \LaTeX \ template for this problem set has the code for the table.}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+ & \textbf{A}     & \textbf{B}    & \textbf{$O$} & \textbf{$\Omega$} & \textbf{$\Theta$} \\ \hline
+1 & $\log n$      & $n$           &  \checkmark  &                   &                   \\ \hline
+2 & $n/2023$       & $2023\cdot n$ &  \checkmark  &   \checkmark      &     \checkmark    \\ \hline
+3 & $n^{3}$      & $n^2$         &              &                   &                   \\ \hline
+4 & $3^{n}$       & $2^{n}$      &              &                   &                   \\ \hline
+5 & $n^2$       & $2^{n}$      &              &                   &                   \\ \hline
+6 & $n^{0.5}$      & $(0.5)^n$     &              &                   &                   \\ \hline
+7 & $\ln{n}$       & $\log_{10}{n}$   &              &                   &                   \\ \hline	
+8 & $n^3$          & $8^{\log_2n}$ &              &                   &                   \\ \hline
+9 & $n^{1/\ln n}$ & $1$           &              &                   &                   \\ \hline
+10 & $n^{1/3}$ & $(\log n)^{3}$     &              &                   &                   \\ \hline
+11 & $\log \log n$ & $\sqrt{\log n}$&              &                   &                   \\ \hline
+\end{tabular}
+\end{table}
+
+
+\ifdefined\template
+\begin{shaded}
+\textbf{SOLUTION:}
+\ifdefined\sol
+\input{solutions/E2.tex}
+\fi
+\end{shaded}
+\fi
+
+%%%%%%%%%%%%%%%%% EXERCISE 3 %%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\item \pts{4} 
+\begin{enumerate}
+\item \pts{2} Prove that $n$ is $O(n\log_2 n)$.
+
+\expecting{A formal proof, using the definition of $O(\cdot)$ that we saw in class.}
+\item \pts{2} Prove that $n$ is \emph{not} $\Omega(n \log_2 n)$.
+
+\expecting{A formal proof, using the definition of $\Omega(\cdot)$ that we saw in class.}
+\end{enumerate}
+
+\ifdefined\template
+\begin{shaded}
+\textbf{SOLUTION:}
+\ifdefined\sol
+\input{solutions/E3.tex}
+\fi
+\end{shaded}
+\fi
+
+
+
+\end{enumerate}
+\newpage
+\section*{Problems}
+
+\noindent
+\rule{\linewidth}{0.4pt}
+
+\begin{enumerate}
+\setcounter{enumi}{3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Problem 4: Nuts! %%%%%%%%%%%%%%%%%%%%%%
+
+\item \textbf{[Nuts!]} \pts{14} 
+
+\emph{[\textbf{Meta problem-solving skills:} Another version of this problem could jump straight to part (d).  The structure of this problem, particularly (b) and (c), is supposed to give you an example of how to solve a harder problem by building up from simpler problems.  In the future, you'll have to do more and more of this on your own!]}
+\vspace{.3cm}
+
+\begin{minipage}{.55\textwidth}
+Socrates the Scientific Squirrel is conducting some experiments.
+Socrates lives in a very tall tree with $n$ branches, and she wants to find out what is the lowest branch $i$ so that an acorn will break open when dropped from branch $i$.  (If an acorn breaks open when dropped from branch $i$, then an acorn will also break open when dropped from branch $j$ for any $j \geq i$.)
+
+\vspace{.3cm}
+The catch is that, once an acorn is broken open, Socrates will eat it immediately and it can't be dropped again.
+
+\begin{enumerate}
+\item[(a)] \pts{2} Suppose that Socrates has $\lceil\log(n)\rceil + 1$ acorns.  Give a procedure so that she can identify the correct branch using $O(\log(n))$ drops.
+
+\expecting{Very clear pseudocode \textbf{or} a short English description of your algorithm.  You do not need to justify the number of drops.  If it helps you may assume that $n$ is a power of $2$.}
+\end{enumerate}
+\end{minipage}
+\hspace{.5cm}
+\begin{minipage}{.4\textwidth}
+\hfill
+\begin{tikzpicture}
+\node{
+\includegraphics[width=6cm]{squirrel}};
+\node(bn) at (-2.5,1.8) {Branch $n-1$};
+\node(b0) at (-2.2,-1.25) {Branch $0$};
+\node(b1) at (-2.2,-.55) {Branch $1$};
+\draw(b0) -- (-.3, -1.25);
+\draw(b1) -- (-.7, -.55);
+\end{tikzpicture}
+\end{minipage}
+
+\begin{enumerate}
+\item[(b)] \pts{2} Suppose that Socrates has only one acorn.  Give a procedure so that she can identify the correct branch using $O(n)$ drops, and explain why your $O(\log(n))$-drop solution from part (a) won't work.
+
+\expecting{Very clear pseudocode \textbf{or} a short English description of your algorithm, and one sentence about why your algorithm from part (a) does not apply.  You do not need to justify the number of drops. If it helps you may assume that the acorn breaks when dropped from the top branch (in all parts of this problem).}
+
+\item[(c)] \pts{3} Suppose that Socrates has two acorns.  Give a procedure so that she can identify the correct branch using $O(\sqrt{n})$ drops.
+
+\expecting{Pseudocode \textbf{AND}  a short English description of your algorithm, and a justification of the number of drops.  If it helps you may assume that $n$ is a perfect square.}
+
+\item[(d)] \pts{5} Suppose that Socrates has $k = O(1)$ acorns.  Give a procedure so that she can identify the correct branch using $O(n^{1/k})$ drops.
+
+\expecting{Pseudocode \textbf{AND} a short English description of your algorithm, and a justification of the number of drops.  If it helps you many assume that $n$ is of the form $n = m^k$ for some integer $m$.}
+
+\item[(e)] \pts{2} What happens to the runtime of your algorithm in part (d) when $k = \lceil \log(n) \rceil + 1$?  
+Is it $O(\log(n))$, like in part (a)? Is it $O(n^{1/k})$ when $k=\lceil \log(n) \rceil + 1$, like in part (d)?  
+
+\expecting{A sentence of the form ``the number of drops of my algorithm in part (d) when $k=\lceil \log(n) \rceil + 1$ is $O(\_\_\_\_)$'', along with justification.  \textbf{Also}, we are expecting two yes/no answers to the two yes/no questions (you should justify your answers but do not need to include a formal proof). }
+
+\item[(f)] \pts{NOT REQUIRED.  1 BONUS} Is $\Theta(n^{1/k})$ drops is the best that Socrates can do with $k$ acorns, for $k = O(1)$?  Either give a proof that she can't do better, or give an algorithm with asymptotically fewer drops.
+
+\expecting{Nothing.  This part is not required.}
+
+\end{enumerate}
+
+\ifdefined\template
+\begin{shaded}
+\textbf{SOLUTION:}
+\ifdefined\sol
+\input{solutions/socrates.tex}
+\fi
+\end{shaded}
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% Problem 5: Ducks in a Row %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newpage
+\item \textbf{[Ducks in a row.]} \pts{11}
+
+\emph{[\textbf{Meta problem-solving skills:} As the hint in part (b) suggests, you might want to consider an algorithm you've already seen to solve this problem.  In general, taking inspiration from algorithms you already know is a good problem-solving technique!]}
+
+There are $k$ flocks of ducks, and each flock has $n$ ducks each.  The $k$ flocks are coming together for a mixer, and for a particular event, they would like to sort all $kn$ ducks by height.\footnote{Bonus points for coming up with the most creative description of this event.  The course staff is going with an elaborate duck line dance.}  Each flock submits a height-ordered list of its ducks, and you (the organizer) are presented with $k$ ordered lists, $A_1, \ldots, A_k$, each of length $n$.
+
+\begin{tikzpicture}
+\begin{scope}
+\node at (1.5,-1) {Flock 1};
+\node at (0,0) {\includegraphics[width=1cm, height=1cm]{duck}};
+\node at (1,0) {\includegraphics[width=1cm, height=1.2cm]{duck}};
+\node at (2,0) {\includegraphics[width=1cm, height=1.3cm]{duck}};
+\node at (3,0) {\includegraphics[width=1cm, height=2cm]{duck}};
+\end{scope}
+
+\begin{scope}[xshift=5cm]
+\node at (1.5,-1) {Flock $2$};
+\node at (0,0) {\includegraphics[width=1cm, height=1cm]{duck}};
+\node at (1,0) {\includegraphics[width=1cm, height=1cm]{duck}};
+\node at (2,0) {\includegraphics[width=1cm, height=1.5cm]{duck}};
+\node at (3,0) {\includegraphics[width=1cm, height=1.6cm]{duck}};
+\end{scope}
+\node at (10,0) {$\cdots$};
+
+\begin{scope}[xshift=11cm]
+\node at (1.5,-1) {Flock $k$};
+\node at (0,0) {\includegraphics[width=1cm, height=.7cm]{duck}};
+\node at (1,0) {\includegraphics[width=1cm, height=1cm]{duck}};
+\node at (2,0) {\includegraphics[width=1cm, height=1.1cm]{duck}};
+\node at (3,0) {\includegraphics[width=1cm, height=2.2cm]{duck}};
+\end{scope}
+\end{tikzpicture}
+
+\begin{enumerate}
+\item \pts{1} Your assistant, having just seen Lecture 2, is excited to try MergeSort on the ducks.  They suggest concatenating the lists (to get a big list of length $nk$), and then running MergeSort on this big list.  How long will this take?
+
+\expecting{A single big-Oh expression.  No justification is needed.}
+
+\item \pts{6} Suppose that $k$ is significantly smaller than $n$.  (For example, say that $k = O(\log n)$).  Design an algorithm that is \emph{asymptotically faster} than the algorithm suggested in part (a) \footnote{Here, ``asymptotically faster'' means that if the running time of your algorithm is $T(n)$, and if $T_0(n)$ is your running time from part (a), then $T(n) = O(T_0(n))$ but $T_0(n)$ is \emph{not} $O(T(n))$.}.
+
+\hint{Take inspiration from MergeSort.}
+
+\expecting{Pseudocode \textbf{AND} a short English description of your algorithm; \textbf{AND}  a clear statement of the running time; \textbf{AND} an explanation for why this is asymptotically faster than your answer in part (a) when $k = \log(n)$.  
+
+You do not need justify the running time, but you might want to do so for your own confidence and/or for partial credit.  You do not need to formally prove that your running time is asymptotically faster than part (a), but you should give a clear explanation, don't just write down two ugly expressions and assert that one is smaller than the other.}
+
+\item \pts{4} Rigorously prove by induction that your algorithm is correct.  If it's relevant, you may assume that the \textsc{Merge} algorithm that we saw in class is correct.  If it helps, you may assume that $k$ is a power of $2$.
+
+\expecting{A rigorous proof by induction. Make sure to clearly label your inductive hypothesis, base case, inductive step and conclusion.}
+\end{enumerate}
+
+
+
+
+\ifdefined\template
+\begin{shaded}
+\textbf{SOLUTION:}
+\ifdefined\sol
+\input{solutions/ducks.tex}
+\fi
+\end{shaded}
+\fi
+
+
+\end{enumerate}
+
+\end{document}
