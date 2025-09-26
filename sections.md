@@ -23,7 +23,7 @@ Sections that have not happened yet may have broken links.
 <li> Will's Section: Thursdays 1:30pm-2:30pm (300-303) </li>
 <li> Isabel's Section: Thursdays 3:00pm-4:00pm (McCullough 126) </li>
 <li> Karan's Section: Thursdays 12:30pm-1:30pm (STLC 119) </li>
-<li> Mingwei's Section: Friday 3pm-4pm (Room TBD) </li>
+<li> Mingwei's Section: Friday 3pm-4pm (<a href="https://stanford.zoom.us/j/95722852617?pwd=fxZj0VJoCp7eB9GWehz31asNa1IWxP.1">Zoom</a>) </li>
 </ul>
 </div>
 
