@@ -18,8 +18,103 @@ permalink: /office_hours/
 </div>
 
 <div class="panel">
-  <!-- Embed your Google Calendar: -->
-  <iframe src="https://calendar.google.com/calendar/embed?src=710ed87ef69dc6c9cb5ab690c7a2b802161c7d9e471e61375276c6d0173dc5ff%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
-  </iframe>
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/main.min.css" rel="stylesheet">
+  <div id="calendar" style="max-width:1100px;margin:20px auto;"></div>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+
+  <script>
+  // grab first URL from description (handles raw URL or <a href=...>)
+  function extractFirstUrl(desc = "") {
+    // 1) if there’s an <a href="...">, grab href
+    const hrefMatch = desc.match(/href="([^"]+)"/i);
+    let url = hrefMatch ? hrefMatch[1] : null;
+
+    // 2) otherwise, match plain https://... text
+    if (!url) {
+      const plain = desc.match(/https?:\/\/\S+/i);
+      url = plain ? plain[0] : null;
+    }
+    if (!url) return null;
+
+    // Unwrap Google's redirect links: https://www.google.com/url?q=ACTUAL&...
+    try {
+      const u = new URL(url);
+      if (u.hostname.includes('google.com') && u.searchParams.get('q')) {
+        url = u.searchParams.get('q');
+      }
+    } catch {}
+    return url;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
+      initialView: 'timeGridWeek',
+      timeZone: 'America/Los_Angeles',
+      nowIndicator: true,
+      headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth,timeGridWeek,listWeek' },
+      events: '{{ "/assets/calendar/events.json" | relative_url }}?v={{ site.time | date: "%s" }}',
+
+      eventContent: (arg) => {
+        const title = document.createElement('div');
+        title.className = 'fc-event-title';
+        title.textContent = arg.event.title;
+
+        const loc = arg.event.extendedProps?.location?.trim();
+        const desc = arg.event.extendedProps?.description || "";
+        const url  = extractFirstUrl(desc);
+
+        // build a clean meta line: "Huang Basement • Zoom link"
+        const meta = document.createElement('div');
+        meta.className = 'fc-event-meta';
+
+        if (loc) {
+          const locSpan = document.createElement('span');
+          locSpan.textContent = loc;
+          meta.appendChild(locSpan);
+        }
+        if (loc && url) {
+          const sep = document.createElement('span');
+          sep.textContent = ' • ';
+          meta.appendChild(sep);
+        }
+        if (url) {
+          const a = document.createElement('a');
+          a.href = url;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          // label smartly based on domain
+          a.textContent = /zoom\.us|stanford\.zoom\.us/i.test(url) ? 'Zoom link' : 'Event link';
+          meta.appendChild(a);
+        }
+
+        // If neither loc nor url, show nothing extra
+        return meta.childNodes.length ? { domNodes: [title, meta] } : { domNodes: [title] };
+      },
+
+      // optional: tooltip with full description (as plain text)
+      eventDidMount: (info) => {
+        const d = (info.event.extendedProps?.description || '')
+          .replace(/<[^>]+>/g, ' ')    // strip tags
+          .replace(/\s+/g, ' ')        // collapse whitespace
+          .trim();
+        if (d) info.el.title = d;
+      }
+    });
+    calendar.render();
+  });
+</script>
+
+<style>
+.fc .fc-event-title, .fc .fc-event-meta { white-space: normal; line-height: 1.2; }
+.fc .fc-event-meta { font-size: 0.85em; opacity: 0.9; margin-top: 2px; }
+.fc .fc-event-meta a { text-decoration: underline; }
+</style>
+
+
+<style>
+/* allow wrapping so long text doesn't get cut off */
+.fc .fc-event-title, .fc .fc-event-meta { white-space: normal; line-height: 1.2; }
+.fc .fc-event-meta { font-size: 0.85em; opacity: 0.85; margin-top: 2px; }
+</style>
+
 </div>
-<!-- https://calendar.google.com/calendar/u/2?cid=NzEwZWQ4N2VmNjlkYzZjOWNiNWFiNjkwYzdhMmI4MDIxNjFjN2Q5ZTQ3MWU2MTM3NTI3NmM2ZDAxNzNkYzVmZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t-->
