@@ -19,7 +19,7 @@ permalink: /office_hours/
 
 <div class="panel">
   <!-- Embed your Google Calendar: -->
-  <iframe src="https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_ID"
-          style="border:0" width="800" height="600" frameborder="0" scrolling="no">
+  <iframe src="https://calendar.google.com/calendar/embed?src=710ed87ef69dc6c9cb5ab690c7a2b802161c7d9e471e61375276c6d0173dc5ff%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
   </iframe>
 </div>
+<!-- https://calendar.google.com/calendar/u/2?cid=NzEwZWQ4N2VmNjlkYzZjOWNiNWFiNjkwYzdhMmI4MDIxNjFjN2Q5ZTQ3MWU2MTM3NTI3NmM2ZDAxNzNkYzVmZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t-->
