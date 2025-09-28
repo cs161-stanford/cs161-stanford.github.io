@@ -62,7 +62,8 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<li> Due: 10/3 at 11:59pm</li>
 	<li> <a href="/assets/homework/worksheets/HW1.pdf">Problem Set</a> </li>
 	<li> <a href="/assets/homework/code/HW1_code.zip">Code</a> </li>
-	<li> <a href="/assets/homework/latex_templates/HW1.tex">LaTeX Template</a> </li>
+	<!-- <li> <a href="/assets/homework/latex_templates/HW1.tex">LaTeX Template</a> </li> -->
+	<li> <a href="/assets/homework/latex_templates/HW1_Latex_zip.zip">LaTeX Template</a> </li>
 	<li> Solutions </li>
 	</ul>
 </p>
