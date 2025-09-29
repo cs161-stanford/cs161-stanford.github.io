@@ -9,8 +9,8 @@ permalink: /office_hours/
 <div class="panel">
   <h5> Office Hours Overview </h5>
 <ul>
-  <li> Please use the follow link to hop on the office hours queue: <a href="https://queue.cs.stanford.edu/queues/33FZ7Pjm646CQAkIFshsyyYfm84"> OH Queue Link </a></li>
-	<li> The calendar below shows the office hour schedule.  We will mostly keep the same schedule each week, but make sure to check in case there are sporadic changes.
+  <li> Please use the follow link to hop on the office hours queue: <a href="https://queue.cs.stanford.edu/queues/33FZ7Pjm646CQAkIFshsyyYfm84"> OH Queue Link </a>.</li>
+	<li> The calendar below shows the office hour schedule.  We will mostly keep the same schedule each week, but make sure to check in case there are sporadic changes. Here is the <a href="https://calendar.google.com/calendar/u/2?cid=NzEwZWQ4N2VmNjlkYzZjOWNiNWFiNjkwYzdhMmI4MDIxNjFjN2Q5ZTQ3MWU2MTM3NTI3NmM2ZDAxNzNkYzVmZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"> Google Calendar </a> link if you would like to add it to your own calendar.
 </li>
 	<li> Check each calendar event for office hour location. OH will be held in Huang basement; Mary's OH will be in CoDa W216.</li>
 	<li> Office hours start in <b> Week 2. </b></li>

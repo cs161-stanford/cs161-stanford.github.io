@@ -1773,96 +1773,6 @@
     }
   },
   {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-10-03T19:00:00-07:00",
-    "end": "2025-10-03T21:00:00-07:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-10-10T19:00:00-07:00",
-    "end": "2025-10-10T21:00:00-07:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-10-17T19:00:00-07:00",
-    "end": "2025-10-17T21:00:00-07:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-10-24T19:00:00-07:00",
-    "end": "2025-10-24T21:00:00-07:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-10-31T19:00:00-07:00",
-    "end": "2025-10-31T21:00:00-07:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-11-07T19:00:00-08:00",
-    "end": "2025-11-07T21:00:00-08:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-11-14T19:00:00-08:00",
-    "end": "2025-11-14T21:00:00-08:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-11-21T19:00:00-08:00",
-    "end": "2025-11-21T21:00:00-08:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-11-28T19:00:00-08:00",
-    "end": "2025-11-28T21:00:00-08:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
-    "title": "Sophia's OH (Huang Basement)",
-    "start": "2025-12-05T19:00:00-08:00",
-    "end": "2025-12-05T21:00:00-08:00",
-    "extendedProps": {
-      "location": "",
-      "description": ""
-    }
-  },
-  {
     "title": "Will's OH",
     "start": "2025-09-29T15:00:00-07:00",
     "end": "2025-09-29T17:00:00-07:00",
@@ -2667,6 +2577,96 @@
     "title": "Ziyi Office Hours (Huang Basement)",
     "start": "2025-12-01T10:00:00-08:00",
     "end": "2025-12-01T12:00:00-08:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-09-30T19:00:00-07:00",
+    "end": "2025-09-30T21:00:00-07:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-10-07T19:00:00-07:00",
+    "end": "2025-10-07T21:00:00-07:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-10-14T19:00:00-07:00",
+    "end": "2025-10-14T21:00:00-07:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-10-21T19:00:00-07:00",
+    "end": "2025-10-21T21:00:00-07:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-10-28T19:00:00-07:00",
+    "end": "2025-10-28T21:00:00-07:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-11-04T19:00:00-08:00",
+    "end": "2025-11-04T21:00:00-08:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-11-11T19:00:00-08:00",
+    "end": "2025-11-11T21:00:00-08:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-11-18T19:00:00-08:00",
+    "end": "2025-11-18T21:00:00-08:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-11-25T19:00:00-08:00",
+    "end": "2025-11-25T21:00:00-08:00",
+    "extendedProps": {
+      "location": "",
+      "description": ""
+    }
+  },
+  {
+    "title": "Sophia's OH (Huang Basement)",
+    "start": "2025-12-02T19:00:00-08:00",
+    "end": "2025-12-02T21:00:00-08:00",
     "extendedProps": {
       "location": "",
       "description": ""
