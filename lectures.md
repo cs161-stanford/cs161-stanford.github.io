@@ -45,7 +45,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture1/lecture1_karatsuba.ipynb">IPython Notebook: Karatsuba's algorithm</a> [Note: right-click and save-as to download.  (Same with all the .ipynb and .py files on this site).]</li>
               <li> <a href="/assets/Lectures/Lecture1/multHelpers.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 1 </li>
 </ul>
@@ -72,7 +72,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture2/lecture2_sorting.ipynb">IPython Notebook: Insertion Sort and Merge Sort</a> </li>
             <li> <a href="/assets/Lectures/Lecture2/tryItABunch.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapters 1 and 2</li>
 	            <li> <a href="/assets/Lectures/Lecture2/CS161Lecture02_handout.pdf">Handout: Proof that InsertionSort is Correct</a> </li>
@@ -97,7 +97,7 @@ This page contains lecture materials.  Some notes:
     	<li> <a href="/assets/Lectures/Lecture3/Lecture3.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture3/Lecture3-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 4</li>
 </ul>
@@ -125,7 +125,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture4/lecture4.ipynb">IPython Notebook: Select Algorithm</a> </li>
             <li> <a href="/assets/Lectures/Lecture4/auxFileLecture4.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapters 6.1, 6.3, 6.4</li>
 <li> <a href="/assets/Lectures/Lecture4/CS161_handout_lecture4.pdf">Handout: Formal proof that SELECT(A,k) is correct</a></li>
@@ -154,7 +154,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture5/lecture5_quicksort.ipynb">IPython Notebook: QuickSort</a> </li>
             <li> <a href="/assets/Lectures/Lecture5/auxFileLecture5.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapters 5.1-5.5</li>
 </ul>
@@ -181,7 +181,7 @@ This page contains lecture materials.  Some notes:
             <li><a href="/assets/Lectures/Lecture6/lecture6_bucketSort.ipynb">IPython Notebook: RadixSort</a> </li>
             <li> <a href="/assets/Lectures/Lecture6/lecture6_aux.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 5.6; CLRS 8.2 and 8.3.  (Note: you can access CLRS for free online through the Stanford library; see the Resources page for more). </li>
 </ul>
@@ -206,7 +206,7 @@ This page contains lecture materials.  Some notes:
     	<li> <a href="/assets/Lectures/Lecture7/Lecture7.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture7/Lecture7-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 11. </li>
 </ul>
@@ -243,7 +243,7 @@ See <a href="/exams/">Exams</a> for more.
             <li> <a href="/assets/Lectures/Lecture8/Lecture8-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture8/Lecture8_hashing.ipynb">IPython Notebook: Hashing</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 12.1-12.4</li>
 </ul>
@@ -269,7 +269,7 @@ See <a href="/exams/">Exams</a> for more.
             <li> <a href="/assets/Lectures/Lecture9/Lecture9-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture9/lecture9_graphs.ipynb">IPython Notebook: Graphs</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 8.1-8.5</li>
 </ul>
@@ -296,7 +296,7 @@ See <a href="/exams/">Exams</a> for more.
             <li><a href="/assets/Lectures/Lecture10/lecture10_scc.ipynb">IPython Notebook: SCC</a> </li>
             <li> <a href="/assets/Lectures/Lecture10/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 8.6</li>
 </ul>
@@ -323,7 +323,7 @@ See <a href="/exams/">Exams</a> for more.
             <li><a href="/assets/Lectures/Lecture11/lecture11_dijkstra.ipynb">IPython Notebook: Dijkstra</a> </li>
             <li> <a href="/assets/Lectures/Lecture11/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 9</li>
 </ul>
@@ -373,7 +373,7 @@ See <a href="/exams/">Exams</a> for more.
             <li> <a href="/assets/Lectures/Lecture12/Lecture12-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture12/lecture12_dp.ipynb">IPython Notebook: Computing Fibonacci Numbers</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 16, 18</li>
 </ul>
@@ -398,7 +398,7 @@ See <a href="/exams/">Exams</a> for more.
     	<li> <a href="/assets/Lectures/Lecture13/Lecture13.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture13/Lecture13-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 17</li>
 </ul>
@@ -425,7 +425,7 @@ See <a href="/exams/">Exams</a> for more.
             <li> <a href="/assets/Lectures/Lecture14/Lecture14-compressed.pdf">Slides (PDF)</a></li>
             <li><a href="/assets/Lectures/Lecture14/lecture14_greedy.ipynb">IPython Notebook: Activity Selection</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 13, 14</li>
 </ul>
@@ -452,7 +452,7 @@ See <a href="/exams/">Exams</a> for more.
             <li><a href="/assets/Lectures/Lecture15/lecture15_mst.ipynb">IPython Notebook: MST</a> </li>
             <li><a href="/assets/Lectures/Lecture15/graphStuff.py">auxiliary .py file for IPython Notebook</a> </li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> AI Chapter 15</li>
 </ul>
@@ -490,7 +490,7 @@ Happy Thanksgiving :)
     	<li> <a href="/assets/Lectures/Lecture16/Lecture16.pptx">Slides (PPTX)</a></li>-->
             <li> <a href="/assets/Lectures/Lecture16/Lecture16-compressed.pdf">Slides (PDF)</a></li>
 	</ul>
-<b>Relevant Reading:</b> (Before of after class, whatever works best for you).
+<b>Relevant Reading:</b> (Before or after class, whatever works best for you).
 <ul>
 <li> CLRS Ch. 26.1, 26.2, 26.3</li>
 </ul>
