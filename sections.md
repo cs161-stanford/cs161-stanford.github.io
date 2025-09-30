@@ -36,7 +36,22 @@ Sections that have not happened yet may have broken links.
     <p class="card-text">
 	<ul>
 	<li> <a href="/assets/sections/worksheets/Section-1-Worksheet.pdf">Problems</a> </li>
-  <li> <a href="/assets/sections/worksheets/Section-1-Solutions.pdf">Solutions</a> </li>
+  <li> <a href="/assets/sections/solutions/Section-1-Solutions.pdf">Solutions</a> </li>
+	</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    October 3
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Section 2</h5>
+    <p class="card-text">
+	<ul>
+	<li> <a href="/assets/sections/worksheets/Section-2-Worksheet.pdf">Problems</a> </li>
+  <li> Solutions </li>
 	</ul>
 </p>
   </div>
