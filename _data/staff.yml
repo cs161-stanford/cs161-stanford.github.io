@@ -25,7 +25,7 @@ head_ca:
 
 cas:
   - { name: "Andy Dai (aldai)",  photo: "/assets/images/Andy.jpg", algorithm: "Kosaraju's Algorithm" }
-  - { name: "Auddithio Nag (aunag)",  photo: "/assets/images/Auddithio.JPG", algorithm: "Kruskal's Algorithm" }
+  - { name: "Auddithio Nag (aunag) - ACE",  photo: "/assets/images/Auddithio.JPG", algorithm: "Kruskal's Algorithm" }
   - { name: "Bradley Moon (bradmoon)",  photo: "/assets/images/Bradley.jpg" , algorithm: "Euclid's Algorithm"}
   - { name: "Isabel Sieh (isabelrs)",  photo: "/assets/images/Isabel.jpg" , algorithm: "Breadth First Search"}
   - { name: "James Cheng (jzcheng)",  photo: "/assets/images/James.jpg" , algorithm: "Depth First Search"}
