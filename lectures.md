@@ -191,7 +191,7 @@ This page contains lecture materials.  Some notes:
 
 <div class="card mb-4">
   <div class="card-header">
-    October 17
+    October 14
   </div>
   <div class="card-body">
     <h5 class="card-title">Lecture 7: Binary Search and Red-Black Trees</h5>
@@ -216,7 +216,7 @@ This page contains lecture materials.  Some notes:
 
 <div class="card mb-4">
   <div class="card-header">
-    October 14
+    October 16
   </div>
   <div class="card-body">
     <h5 class="card-title">Exam I!</h5>
