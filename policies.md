@@ -156,6 +156,7 @@ LLMs are a useful tool, but they can also be a crutch.  In this class, we want t
 With that in mind, the policy is:
 <ul>
 <li> It is a violation of the honor code to copy-paste the output of an LLM into your homework, just as it is not allowed to copy another group's write-up.  Everything you hand in should be in your group's own words.</li>
+<ul><li> <b>Exception</b>: You are allowed to use an LLM to correct your LaTeX syntax on problem sets (even if it involves copying and pasting LLM output), so long as it is not generating/modifying the substance of your solution. </li></ul>
 <li> It is okay to use LLMs to help you brainstorm on the homework.  <b>However,</b> we encourage you to be thoughtful in your use of LLMs, and to use them in a way that supports your learning.  <b>Best practices include:</b>
 <ul><li> Think about the problem on your own (or with your group) first, just like you should think about something first before going to office hours. </li>
 <li> If you are stuck and are going to turn to an LLM, ask it for a <i> hint </i> instead of for the answer.  You can start out asking it for a "minimal hint."  </li>
