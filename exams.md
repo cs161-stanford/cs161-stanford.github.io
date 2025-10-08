@@ -30,7 +30,7 @@ permalink: /exams/
     <p class="card-text">
 	<ul>
 	<li> Thursday, 10/16, 9am-10:20am</li>
-	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.
+	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.</li>
 	<li> Location: TBD </li>
 	<li> Covers Lecture 1 - Lecture 6; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 5 or 6.</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
@@ -47,7 +47,7 @@ permalink: /exams/
     <p class="card-text">
 	<ul>
 	<li> Thursday, 11/6, 9am-10:20am.</li>
-	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.
+	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.</li>
 	<li> Location: TBD </li>
 	<li> Covers Lecture 5 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
