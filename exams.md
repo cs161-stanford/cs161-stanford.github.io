@@ -33,7 +33,7 @@ permalink: /exams/
 	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.</li>
 	<li> Location: TBD </li>
 	<li> Covers Lecture 1 - Lecture 6; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 5 or 6.</li>
-	<li> Practice Exam: [will be posted closer to exam date] </li>
+	<li> Practice Exam: [<a href="/assets/Exams/practice_exam1.pdf">exam</a>], [<a href="/assets/Exams/practice_exam1_soln.pdf">solutions</a>] </li>
 	</ul>
 </p>
   </div>
