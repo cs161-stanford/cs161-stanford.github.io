@@ -27,27 +27,92 @@ permalink: /office_hours/
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.19/index.global.min.js"></script>
 
 <script>
+  // tiny helper: grab the first URL (preferring Zoom) from the description
+  function extractJoinLink(desc = "") {
+    const text = String(desc);
+    // prefer Zoom
+    const zoomMatch = text.match(/https?:\/\/[\w.-]*zoom\.us\/[^\s)]+/i);
+    if (zoomMatch) return zoomMatch[0];
+    // otherwise first URL
+    const any = text.match(/https?:\/\/\S+/i);
+    return any ? any[0] : null;
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     const cal = new FullCalendar.Calendar(document.getElementById('calendar'), {
-      initialView: 'timeGridWeek', // start on weekly view
+      initialView: 'timeGridWeek',
       timeZone: 'America/Los_Angeles',
       nowIndicator: true,
-
-      // add view-switch buttons on the right
-      headerToolbar: {
-        left: 'prev,next today',
-        center: 'title',
-        right: 'dayGridMonth,timeGridWeek,listWeek'
-      },
-
-      // (optional) make it taller
-      contentHeight: 700,
+      headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth,timeGridWeek,listWeek' },
 
       googleCalendarApiKey: 'AIzaSyDQ_G2do9l4G8ngIuOh3_mIg9bPWzcEb50',
-      events: { googleCalendarId: '710ed87ef69dc6c9cb5ab690c7a2b802161c7d9e471e61375276c6d0173dc5ff@group.calendar.google.com' }
+      events: { googleCalendarId: '710ed87ef69dc6c9cb5ab690c7a2b802161c7d9e471e61375276c6d0173dc5ff@group.calendar.google.com' },
+
+      // show location + a clean "Zoom link" / "Event link" line inside each event
+      eventContent: (arg) => {
+        const title = document.createElement('div');
+        title.className = 'fc-event-title';
+        title.textContent = arg.event.title || '(no title)';
+
+        const loc = arg.event.extendedProps?.location?.trim();
+        const desc = arg.event.extendedProps?.description || '';
+        const link = extractJoinLink(desc);
+
+        const meta = document.createElement('div');
+        meta.className = 'fc-event-meta';
+        if (loc) {
+          const s = document.createElement('span');
+          s.textContent = loc;
+          meta.appendChild(s);
+        }
+        if (loc && link) {
+          const dot = document.createElement('span');
+          dot.textContent = ' • ';
+          meta.appendChild(dot);
+        }
+        if (link) {
+          const a = document.createElement('a');
+          a.href = link;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = /zoom\.us/i.test(link) ? 'Zoom link' : 'Event link';
+          meta.appendChild(a);
+        }
+
+        return meta.childNodes.length ? { domNodes: [title, meta] } : { domNodes: [title] };
+      },
+
+      // add a tooltip with full description (plain text) on hover
+      eventDidMount: (info) => {
+        const d = (info.event.extendedProps?.description || '')
+          .replace(/<[^>]+>/g, ' ')  // strip HTML just in case
+          .replace(/\s+/g, ' ')
+          .trim();
+        if (d) info.el.title = d;
+      },
+
+      // intercept clicks: open Zoom/event link if present; otherwise do nothing
+      eventClick: (info) => {
+        const desc = info.event.extendedProps?.description || '';
+        const link = extractJoinLink(desc);
+        if (link) {
+          info.jsEvent.preventDefault();
+          window.open(link, '_blank', 'noopener,noreferrer');
+        } else {
+          // prevent navigating to Google event (students may not have accounts)
+          info.jsEvent.preventDefault();
+        }
+      }
     });
+
     cal.render();
   });
 </script>
+
+<style>
+  .fc .fc-event-title, .fc .fc-event-meta { white-space: normal; line-height: 1.2; }
+  .fc .fc-event-meta { font-size: 0.85em; opacity: 0.9; margin-top: 2px; }
+  .fc .fc-event-meta a { text-decoration: underline; }
+</style>
 
 </div>
