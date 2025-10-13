@@ -80,7 +80,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<li> Due: Friday, 10/10 at 11:59pm</li>
 	<li> <a href="/assets/homework/worksheets/HW2.pdf">Problem Set</a> </li>
 	<li> <a href="/assets/homework/latex_templates/HW2_Latex.zip">LaTeX Template</a> </li>
-	<li> Solutions </li>
+	<li> <a href="/assets/homework/solutions/HW2-Solutions.pdf">Solutions</a> </li>
 	</ul>
 </p>
   </div>
