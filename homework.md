@@ -41,7 +41,6 @@ permalink: /homework/
     Homework 0
   </div>
   <div class="card-body">
-    <h5 class="card-title">Homework 0</h5>
     <p class="card-text">
 Homework 0 is a special homework, graded for completion (not correctness).  The point is for us (and you) to assess your background relevant to this class.  Please do this one on your own.
 	<ul>
@@ -56,7 +55,6 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
     Homework 1
   </div>
   <div class="card-body">
-    <h5 class="card-title">Homework 1</h5>
     <p class="card-text">
 	<ul>
 	<li> Due: Friday, 10/3 at 11:59pm</li>
@@ -73,7 +71,6 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
     Homework 2
   </div>
   <div class="card-body">
-    <h5 class="card-title">Homework 2</h5>
     <p class="card-text">
 	<ul>
 	<li> Due: Friday, 10/10 at 11:59pm</li>
@@ -83,18 +80,17 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	</ul>
 </p>
   </div>
-
+</div>
 <div class="card mb-4">
   <div class="card-header">
     Homework 3
   </div>
   <div class="card-body">
-    <h5 class="card-title">Homework 3</h5>
     <p class="card-text">
 	<ul>
 	<li> Due: Friday, 10/24 at 11:59pm</li>
 	<li> <a href="/assets/homework/worksheets/HW3.pdf">Problem Set</a> </li>
-	<li> <a href="/assets/homework/latex_templates/HW3_Latex.zip">Latex Template</a> </li>
+	<li> <a href="/assets/homework/latex_templates/HW3_Latex.zip">LaTeX Template</a> </li>
 	<li> <a href="/assets/homework/code/HW3_code.zip">Code</a></li>
 	<li> Solutions </li>
 	</ul>
