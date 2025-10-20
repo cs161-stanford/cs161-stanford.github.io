@@ -17,6 +17,7 @@ course_advisor:
 eethics:
   - {name: "Justin Shin (justinjs)", photo: "/assets/images/justin.jpg", algorithm: "PageRank"}
   - { name: "Jennifer Chien (drchien)", photo: "/assets/images/jennifer.jpg", algorithm: "QuickSort"}
+  - { name: "Maya Avital (mavital)", photo: "/assets/images/maya.png", algorithm: "Dijkstra's Algorithm"}
 
 head_ca:
   - name: "Anisha Palaparthi (anishapv)"
@@ -32,10 +33,11 @@ cas:
   - { name: "Karan Bhasin (ksbhasin)",  photo: "/assets/images/karan-v3.png" , algorithm: "Breadth First Search"}
   - { name: "Mingwei Yang (mwyang)",  photo: "/assets/images/Mingwei.jpg" , algorithm: "Greedy"}
   - { name: "Simon Kim (ksimon12)",  photo: "/assets/images/Simon.JPG" , algorithm: "Kahn's Algorithm"}
+  - { name: "Sophia Barnes (sbarnes1)",  photo: "/assets/images/Sophia.jpg" , algorithm: "Gale-Shapley"}
   - { name: "Spencer Compton (comptons)",  photo: "/assets/images/Spencer.png" , algorithm: "Prim's Algorithm"}
   - { name: "Ta-Wei Tu (taweitu)",  photo: "/assets/images/Ta-Wei.png" , algorithm: "MergeSort"}
   - { name: "Thanawan (Ly-Ly) Atchariyachanvanit (thanawan)", photo: "/assets/images/Ly-Ly.png" , algorithm: "Union-Find"}
   - { name: "Will Fang (wfang03)", photo: "/assets/images/Will.jpeg" , algorithm: "Stick Sort"}
   - { name: "Xiao Mao (xiaomao)", photo: "/assets/images/Xiao.jpg" , algorithm: "Dynamic Programmming"}
   - { name: "Zayn Malhotra (vedansh)", photo: "/assets/images/Zayn.JPG" , algorithm: "Simplex"}
-  - { name: "Ziyi Ding (zyding)", photo: "/assets/images/tmp.png" , algorithm: "Dijkstra's Algorithm"}
+  - { name: "Ziyi Ding (zyding)", photo: "/assets/images/Ziyi.jpeg" , algorithm: "Dijkstra's Algorithm"}
