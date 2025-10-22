@@ -228,6 +228,25 @@ See <a href="/exams/">Exams</a> for more.
 
 <div class="card mb-4">
   <div class="card-header">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Ethics Lectures</h5>
+    <p class="card-text">
+    <b>Incommensurability, Wicked Problems, and Discretion </b>
+    <ul>
+    <li> <a href="/assets/Lectures/Ethics/Incommensurability_WickedProblems_Discretion-1-14.pdf"> Slides (PDF)</a></li>
+    </ul>
+    <b>Abstraction & Idealization </b>
+    <ul>
+    <li> <a href="/assets/Lectures/Ethics/Abstraction_and_Idealization.pdf"> Slides (PDF) </a></li>
+    </ul>
+    Please watch the two ethics videos posted on Canvas under Panopto Course Videos in the "Embedded Ethics" folder.
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
     October 21
   </div>
   <div class="card-body">
