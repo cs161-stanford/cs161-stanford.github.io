@@ -38,7 +38,7 @@ permalink: /homework/
 
 <div class="card mb-4">
   <div class="card-header">
-    Homework 0
+    <strong>Homework 0</strong>
   </div>
   <div class="card-body">
     <p class="card-text">
@@ -50,9 +50,10 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 </p>
   </div>
 </div>
+
 <div class="card mb-4">
   <div class="card-header">
-    Homework 1
+    <strong>Homework 1</strong>
   </div>
   <div class="card-body">
     <p class="card-text">
@@ -60,7 +61,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<li> Due: Friday, 10/3 at 11:59pm</li>
 	<li> <a href="/assets/homework/worksheets/HW1.pdf">Problem Set</a> </li>
 	<li> <a href="/assets/homework/code/HW1_code.zip">Code</a> </li>
-	<li> <a href="/assets/homework/latex_templates/HW1_Latex_zip.zip">LaTeX Template</a> </li>
+	<li> <a href="/assets/homework/latex_templates/HW1_Latex.zip">LaTeX Template</a> </li>
 	<li> <a href="/assets/homework/solutions/HW1-Solutions.pdf"> Solutions </a> </li>
 	</ul>
 </p>
@@ -68,7 +69,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 </div>
 <div class="card mb-4">
   <div class="card-header">
-    Homework 2
+    <strong>Homework 2</strong>
   </div>
   <div class="card-body">
     <p class="card-text">
@@ -84,7 +85,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 
 <div class="card mb-4">
   <div class="card-header">
-    Homework 3
+    <strong>Homework 3</strong>
   </div>
   <div class="card-body">
     <p class="card-text">
@@ -101,7 +102,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 
 <div class="card mb-4">
   <div class="card-header">
-    Homework 4
+    <strong>Homework 4</strong>
   </div>
   <div class="card-body">
     <p class="card-text">
