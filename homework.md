@@ -81,6 +81,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 </p>
   </div>
 </div>
+
 <div class="card mb-4">
   <div class="card-header">
     Homework 3
@@ -92,6 +93,23 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<li> <a href="/assets/homework/worksheets/HW3.pdf">Problem Set</a> </li>
 	<li> <a href="/assets/homework/latex_templates/HW3_Latex.zip">LaTeX Template</a> </li>
 	<li> <a href="/assets/homework/code/HW3_code.zip">Code</a></li>
+	<li> Solutions </li>
+	</ul>
+</p>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    Homework 4
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+	<ul>
+	<li> Due: Friday, 10/31 at 11:59pm</li>
+	<li> <a href="/assets/homework/worksheets/HW4.pdf">Problem Set</a> </li>
+	<li> <a href="/assets/homework/latex_templates/HW4_Latex.zip">LaTeX Template</a> </li>
+	<li> <a href="/assets/homework/code/HW4_code.zip">Code</a></li>
 	<li> Solutions </li>
 	</ul>
 </p>

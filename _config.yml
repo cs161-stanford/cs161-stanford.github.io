@@ -1,0 +1,5 @@
+title: "CS161"
+url: "https://username.github.io"
+baseurl: ""   # keep empty for user/org sites
+markdown: kramdown
+plugins: []
