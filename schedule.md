@@ -28,7 +28,7 @@ permalink: /schedule/
     <tr ><td>10/28</td><td>L10 Strongly Connected Components</td></tr>
     <tr ><td>10/30</td><td>L11 Dijkstra and Bellman-Ford</td></tr>
     <tr class="table-info"><td>10/31</td><td>HW4 Due (L8, L9)</td></tr>
-    <tr class="table-secondary"><td>11/4</td><td>Democracy Day</td></tr>
+    <tr class="table-secondary"><td>11/4</td><td>Democracy Day (no class)</td></tr>
     <tr class="table-warning"><td>11/6</td><td>EXAM 2 (L5-L9, with light coverage of L10, L11)</td></tr>
     <tr ><td>11/11</td><td>L12 Dynamic Programming: Bellman-Ford (again) and Floyd-Warshall</td></tr>
     <tr ><td>11/13</td><td>L13 More dynamic programming: LCS, Knapsack, Independent Set</td></tr>
