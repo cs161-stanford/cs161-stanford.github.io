@@ -95,8 +95,8 @@ Sections that have not happened yet may have broken links.
     <h5 class="card-title">Section 5</h5>
     <p class="card-text">
 	<ul>
-	<li> <a href="/assets/sections/worksheets/Section-5-Worksheet.pdf">Problems</a>, Solutions </li>
-	<li> <a href="/assets/sections/worksheets/Section-5-Extra-Worksheet.pdf">Extra Problems</a>, Solutions </li>
+	<li> <a href="/assets/sections/worksheets/Section-5-Worksheet.pdf">Problems</a>, <a href="/assets/sections/solutions/Section-5-Solutions.pdf"> Solutions </a> </li>
+	<li> <a href="/assets/sections/worksheets/Section-5-Extra-Worksheet.pdf">Extra Problems</a>, <a href="/assets/sections/solutions/Section-5-Extra-Solutions.pdf"> Solutions </a> </li>
 	</ul>
 </p>
   </div>
