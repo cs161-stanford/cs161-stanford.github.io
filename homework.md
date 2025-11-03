@@ -111,7 +111,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<li> <a href="/assets/homework/worksheets/HW4.pdf">Problem Set</a> </li>
 	<li> <a href="/assets/homework/latex_templates/HW4_Latex.zip">LaTeX Template</a> </li>
 	<li> <a href="/assets/homework/code/HW4_code.zip">Code</a></li>
-	<li> Solutions </li>
+	<li> <a href="/assets/homework/solutions/HW4-Solutions.pdf">Solutions</a> </li>
 	</ul>
 </p>
   </div>
