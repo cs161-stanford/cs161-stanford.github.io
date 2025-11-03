@@ -49,8 +49,8 @@ permalink: /exams/
 	<li> Thursday, 11/6, 9am-10:20am.</li>
 	<li> Note: the time for actually <i>taking</i> the exam will be 60 minutes, so that we make sure to have time for exam distribution and collection within the 80-minute exam period.</li>
 	<li> Location: [see Ed post] </li>
-	<li> Covers Lecture 5 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.</li>
-	<li> Practice Exam: [<a href="/assets/Exams/practice_exam2.pdf">exam</a>], [<a href="/assets/Exams/practice_exam2_soln.pdf">solutions</a>] </li>
+	<li> Covers Lecture 5 - Lecture 11; we will be mindful of the fact that you won't have had a chance to do homework on Lectures 10 or 11.  Embedded EthiCS content is also covered (two online lectures).</li>  
+	<li> Practice Exam: [<a href="/assets/Exams/practice_exam2.pdf">exam</a>], [<a href="/assets/Exams/practice_exam2_soln.pdf">solutions</a> </li>
 	</ul>
 </p>
   </div>
