@@ -116,3 +116,19 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 </p>
   </div>
 </div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    <strong>Homework 5</strong>
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+	<ul>
+	<li> Due: Friday, 11/14 at 11:59pm</li>
+	<li> <a href="/assets/homework/worksheets/HW5.pdf">Problem Set</a> </li>
+	<li> <a href="/assets/homework/latex_templates/HW5_Latex.zip">LaTeX Template</a> </li>
+	<li> Solutions </li>
+	</ul>
+</p>
+  </div>
+</div>
