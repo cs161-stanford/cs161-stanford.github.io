@@ -101,3 +101,18 @@ Sections that have not happened yet may have broken links.
 </p>
   </div>
 </div>
+
+<div class="card mb-4">
+  <div class="card-header">
+    November 14
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Section 6</h5>
+    <p class="card-text">
+	<ul>
+	<li> <a href="/assets/sections/worksheets/Section-6-Worksheet.pdf">Problems</a>, Solutions </li>
+	<li> <a href="/assets/sections/worksheets/Section-6-Extra-Worksheet.pdf">Extra Problems</a>, Solutions </li>
+	</ul>
+</p>
+  </div>
+</div>

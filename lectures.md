@@ -235,6 +235,7 @@ See <a href="/exams/">Exams</a> for more.
     <b>Incommensurability, Wicked Problems, and Discretion </b>
     <ul>
     <li> <a href="/assets/Lectures/Ethics/Incommensurability_WickedProblems_Discretion-1-14.pdf"> Slides (PDF)</a></li>
+    <li> There was a small misspeak at ~1:12 in the video, "liquid millimeters" should be "liquid milliliters </li>
     </ul>
     <b>Abstraction & Idealization </b>
     <ul>
