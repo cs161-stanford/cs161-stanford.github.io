@@ -158,7 +158,7 @@ Homework 0 is a special homework, graded for completion (not correctness).  The 
 	<ul>
 	<li> Due: Friday, 12/5 at 11:59pm</li>
 	<li> <a href="/assets/homework/worksheets/HW7.pdf">Problem Set</a> </li>
-	<li> <a href="/assets/homework/latex_templates/HW7-latex-v2">LaTeX Template</a> </li>
+	<li> <a href="/assets/homework/latex_templates/HW7-latex-v2.zip">LaTeX Template</a> </li>
 	<li> Solutions </li>
 	</ul>
 </p>
