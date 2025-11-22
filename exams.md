@@ -67,6 +67,12 @@ permalink: /exams/
 	<li> Location: TBD </li>
 	<li> Cumulative (Lectures 1-16), with an emphasis on Lecture 10 - Lecture 16</li>
 	<li> Practice Exam: [will be posted closer to exam date] </li>
+	<li> "Unofficial" practice exams.  <b>Note:</b> These are exams from different quarters and possibly different instructors.  Those quarters may have covered or emphasized slightly different material, and will have had different homework assignments.  So these might not be representative of our class's final exam. However, they are all good practice problems! 
+	<ul>
+		<li>[<a href="/assets/Exams/old_practice_finals/sample_final1.pdf">Sample Exam 1</a> and <a href="/assets/Exams/old_practice_finals/sample_final1_sols.pdf">solutions</a></li>]
+		<li>[<a href="/assets/Exams/old_practice_finals/sample_final2.pdf">Sample Exam 2</a> and <a href="/assets/Exams/old_practice_finals/sample_final2_sols.pdf">solutions</a></li>]
+		<li>[<a href="/assets/Exams/old_practice_finals/sample_final3.pdf">Sample Exam 3</a> and <a href="/assets/Exams/old_practice_finals/sample_final3_sols.pdf">solutions</a></li>]
+	</ul></li>
 	</ul>
 </p>
   </div>
