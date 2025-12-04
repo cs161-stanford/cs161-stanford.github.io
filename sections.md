@@ -110,7 +110,7 @@ Sections that have not happened yet may have broken links.
     <h5 class="card-title">Section 6</h5>
     <p class="card-text">
 	<ul>
-	<li> <a href="/assets/sections/worksheets/Section-6-Worksheet.pdf">Problems</a>, <a href="/assets/sections/solutions/Section-6-Solutions.pdf"> Solutions </a> </li>
+	<li> <a href="/assets/sections/worksheets/Section-6-Worksheet.pdf">Problems</a>, <a href="/assets/sections/solutions/section6-solutions-v2.pdf"> Solutions </a> </li>
 	<li> <a href="/assets/sections/worksheets/Section-6-Extra-Worksheet.pdf">Extra Problems</a>, <a href="/assets/sections/solutions/Section-6-Extra-Solutions.pdf"> Solutions </a> </li>
 	</ul>
 </p>
