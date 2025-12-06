@@ -140,8 +140,8 @@ Sections that have not happened yet may have broken links.
     <h5 class="card-title">Section 8</h5>
     <p class="card-text">
 	<ul>
-	<li> <a href="/assets/sections/worksheets/Section-8-Worksheet.pdf">Problems</a>, Solutions </li>
-	<li> <a href="/assets/sections/worksheets/Section-8-Extra-Worksheet.pdf">Extra Problems</a>, Solutions </li>
+	<li> <a href="/assets/sections/worksheets/Section-8-Worksheet.pdf">Problems</a>, <a href="/assets/sections/solutions/Section-8-Solutions"> Solutions </a> </li>
+	<li> <a href="/assets/sections/worksheets/Section-8-Extra-Worksheet.pdf">Extra Problems</a>, <a href="/assets/sections/solutions/Section-8-Extra-Solutions.pdf"> Solutions </a> </li>
 	</ul>
 </p>
   </div>
