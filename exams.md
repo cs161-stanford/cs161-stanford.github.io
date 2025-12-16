@@ -74,6 +74,7 @@ permalink: /exams/
 		<li><a href="/assets/Exams/old_practice_finals/sample_final3.pdf">Sample Exam 3</a> and <a href="/assets/Exams/old_practice_finals/sample_final3_sols.pdf">solutions</a></li>
 	</ul></li>
 	</ul>
+	<li> <b>Solutions</b> to the exam are available on Canvas.</li>
 </p>
   </div>
 </div>
